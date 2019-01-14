@@ -1,0 +1,28 @@
+---
+title: CS 419 Production Computer Graphics
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: assets/img
+  values:
+    image: true
+email: shaffer1@illinois.edu
+description: 'Webpage for the course CS 419 at the University of Illinois
+
+'
+baseurl: ''
+url: http://UIllinoisGraphics.github.io
+sass:
+  sass_dir: _sass
+include:
+- _pages
+- _mps
+kramdown:
+  input: GFM
