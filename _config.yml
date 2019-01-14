@@ -1,5 +1,5 @@
 ---
-title: CS 419 Production Computer Graphics
+title: CS 418 Interactive Computer Graphics
 timezone: UTC
 collections:
   posts:
@@ -14,11 +14,11 @@ defaults:
   values:
     image: true
 email: shaffer1@illinois.edu
-description: 'Webpage for the course CS 419 at the University of Illinois
+description: 'Webpage for the course CS 418 at the University of Illinois
 
 '
 baseurl: ''
-url: http://UIllinoisGraphics.github.io
+url: http://illinois-cs418.github.io
 sass:
   sass_dir: _sass
 include:
