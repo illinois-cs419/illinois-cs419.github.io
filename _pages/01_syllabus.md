@@ -5,41 +5,74 @@ navbar: true
 layout: page
 ---
 
-**Office Hour**
-
-I will hold an office hour on Tuesdays from 2pm to 3pm in 2209 Siebel Center.
-
-**Book**
- 
-![Ray Tracing from the Ground Up Book](/assets/img/book.png) 
-Ray-Tracing from the Ground Up by Kevin Suffern 
+**Office Hours**
+Eric Shaffer: Tuesdays 2-3pm 2209 Siebel Center
+Ashwin Vijay: TBA
 
 **Piazza**
- 
 This term we will be using Piazza for class discussion. Rather than emailing questions to the teaching staff, we encourage you to post your questions on Piazza. 
 Find our class page at:  [https://piazza.com/illinois/spring2019/cs418](https://piazza.com/illinois/spring2019/cs418)
 
-**Machine Problems** 
+**Book:**
+There is no book for the class. Notes and other materials will be posted online.
+We do have some suggested books that will totally be worth looking at if you need help figuring things out:
 
-There will be 4 MPs
-Each is worth 15% of the total course grade
+**Grading**
+The course grade for the class is broken down among the following items:
 
-**Late Work Policy**
+Machine Problem 1	 10%
+Machine Problem 2	 15%
+Machine Problem 3	 15%
+Machine Problem 4	 10%
+Exam 1	 15%
+Exam 2 	15%
+Exam 3	 15%
+ 
+**Machine Problems:**
+There will be 4 machine problems during the semester. Assignments will be announced in class and on Piazza. Homework submission will be done electronically through Compass. The required files and acceptable file formats for submission will be specified in the assignment.
 
-The late policy will to accept MP submissions at a penalty of 10% off per day late.Exceptions to the policy can be made in the case of documented illness or other exceptional circumstances. Contact the instructor via e-mail.
+**Exams:**
+There will be three exams. We will use the Computer Based Testing Facility. 
+Exam 1 TBA
+Exam 2 TBA
+Exam 3 TBA
 
-**Coding and Collaboration** 
+**Extra Credit:**
+At 3 lectures during the semester, I will take attendance. If you attended that lecture, you will receive 0.5% of the total course grade as extra credit. This means there is a total of 1.5% of the grade available as extra credit, which could easily be the difference between letter grades. This will be the only extra credit opportunity offered during the course.
 
-Unless otherwise specified in the assignment, you should feel free to collaborate on designing a solution to the MPs. You must document your collaborators. Submit the name and netids of all collaborators in a README.txt file along with your code submission. Each person should type in the code on their own, rather than simply sharing files or copying and pasting. Each required submission should be a unique scene, meaning each collaorator should submit scenes they have created themselves. 
+**Late Homework or Projects:**
+Machine problems submitted after the due date lose 10% per day. In exceptional circumstances where extension may be reasonable (illness, family emergency etc.) arrangement must be made with the instructor.
 
-​**Exams** 
+**Collaboration:**
+You should collaborate on the MPs. You should not copy code verbatim from each other or the web. 
 
-There will be two exams.
-The exams will in be class and the tentative dates are **Oct. 10** and **Dec. 5**
-Each exam is worth 20% of the course grade.
-The exams will be multiple-choice and consist of 21 questions graded out of 20 questions.
-The exams will draw heavily on the assigned reading. 
+**Software:**
+ We will use HTML/JavaScript/WebGL and GLSL for the programming assignments. No prior knowledge of these is required for the class.
 
-**Grading** MPs are worth 60% of the total grade and the midterm exams 40%
+**Commenting Code:**
+ All files, classes, methods and properties should be documented with JSDoc comments with the appropriate tags and types.
+ Details can be found in the Google JavaScript Style Guide.
 
-**Other Policies** Do not make class material publicly available. The code you write is your own and you may make it public if you wish.
+**Other Policies:**
+Do not make class material publicly available. This includes copies of lectures, homework, solutions, handouts, and code provided by us.
+
+**4 Credit Option:**
+If you are taking the course for 4 credits, you will complete extra work on Machine Problems 2 and  3.
+
+**Language References and Resources:**
+
+JavaScript:  https://developer.mozilla.org/en-US/docs/Web/JavaScript
+ 
+Suggested Editors: Brackets, LightTable
+ 
+Chrome DevTools Overview: https://developers.google.com/web/tools/chrome-devtools/
+ 
+Matrix Library for WebGL: http://glmatrix.net/
+ 
+WebGL Tutorial: http://webglfundamentals.org/
+ 
+WebGL API: https://www.khronos.org/webgl/
+ 
+OpenGL ES GLSL Version 1.0 (WebGL GLSL) Specification: [PDF] 
+Tentative Schedule (Note that slides and topics for future lectures may change):
+
