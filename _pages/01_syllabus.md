@@ -19,7 +19,7 @@ We do have some suggested books that will totally be worth looking at if you nee
 
 ![Fundamentals of Computer Graphics 4th Edition by Steve Marschner, Peter Shirley](/assets/img/shirley.jpg){:height="100px" width="200px"} 
 
-![WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL by Kouichi Matsuda and Rodger Lea](/assets/img/webgl1.jpg){:height="100px" width="200px"} 
+![WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL by Kouichi Matsuda and Rodger Lea](/assets/img/wengl1.jpg){:height="100px" width="200px"} 
 
 
 ## Grading ##
@@ -37,7 +37,8 @@ The course grade for the class is broken down among the following items:
 There will be 4 machine problems during the semester. Assignments will be announced in class and on Piazza. Homework submission will be done electronically through Compass. The required files and acceptable file formats for submission will be specified in the assignment.
 
 ## Exams ##
-There will be three exams. We will use the Computer Based Testing Facility. 
+There will be three exams. Each exam is 50 minutes long and will be held in the Computer Based Testing Facility (CBTF). You will need to make a reservation in the [CBTF](https://cbtf.engr.illinois.edu) to take the exam. All exams are closed-everything (no book, notes, calculator, etc.). See the [CBTF policies](https://cbtf.engr.illinois.edu/for-students/policies.html) for more detail. You are responsible for all material covered in lectures and assignments. For DRES accommodations see [CBTF DRES Students](https://cbtf.engr.illinois.edu/for-students/dres-students.html).
+ 
 + Exam 1 Feb. 11 - 13
 + Exam 2 Mar. 25 - 27
 + Exam 3 Apr. 29 - May 1
