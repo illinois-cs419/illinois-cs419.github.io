@@ -17,9 +17,9 @@ Find our class page at:  [https://piazza.com/illinois/spring2019/cs418](https://
 There is no book for the class. Notes and other materials will be posted online.
 We do have some suggested books that will totally be worth looking at if you need help figuring things out:
 
-![Fundamentals of Computer Graphics 4th Edition by Steve Marschner, Peter Shirley](/assets/img/shirley.jpg) 
+![Fundamentals of Computer Graphics 4th Edition by Steve Marschner, Peter Shirley](/assets/img/shirley.jpg){:height="100px" width="200px"} 
 
-![WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL by Kouichi Matsuda and Rodger Lea](/assets/img/webgl1.jpg) 
+![WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL by Kouichi Matsuda and Rodger Lea](/assets/img/webgl1.jpg){:height="100px" width="200px"} 
 
 
 ## Grading ##
