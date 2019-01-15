@@ -17,9 +17,9 @@ Find our class page at:  [https://piazza.com/illinois/spring2019/cs418](https://
 There is no book for the class. Notes and other materials will be posted online.
 We do have some suggested books that will totally be worth looking at if you need help figuring things out:
 
-![Fundamentals of Computer Graphics 4th Edition by Steve Marschner, Peter Shirley](/assets/img/shirley.jpg){:height="100px" width="200px"} 
+![Fundamentals of Computer Graphics 4th Edition by Steve Marschner, Peter Shirley](/assets/img/shirley.jpg){:height="200px" width="100px"} 
 
-![WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL by Kouichi Matsuda and Rodger Lea](/assets/img/wengl1.jpg){:height="100px" width="200px"} 
+![WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL by Kouichi Matsuda and Rodger Lea](/assets/img/wengl1.jpg){:height="200px" width="100px"} 
 
 
 ## Grading ##
@@ -37,27 +37,31 @@ The course grade for the class is broken down among the following items:
 There will be 4 machine problems during the semester. Assignments will be announced in class and on Piazza. Homework submission will be done electronically through Compass. The required files and acceptable file formats for submission will be specified in the assignment.
 
 ## Exams ##
-There will be three exams. Each exam is 50 minutes long and will be held in the Computer Based Testing Facility (CBTF). You will need to make a reservation in the [CBTF](https://cbtf.engr.illinois.edu) to take the exam. All exams are closed-everything (no book, notes, calculator, etc.). See the [CBTF policies](https://cbtf.engr.illinois.edu/for-students/policies.html) for more detail. You are responsible for all material covered in lectures and assignments. For DRES accommodations see [CBTF DRES Students](https://cbtf.engr.illinois.edu/for-students/dres-students.html).
+There will be three exams. Each exam is 50 minutes long and will be held in the Computer Based Testing Facility (CBTF). You will need to make a reservation in the [CBTF](https://cbtf.engr.illinois.edu) to take the exam. 
  
-+ Exam 1 Feb. 11 - 13
-+ Exam 2 Mar. 25 - 27
-+ Exam 3 Apr. 29 - May 1
++ **Exam 1** Feb. 11 - 13
++ **Exam 2** Mar. 25 - 27
++ **Exam 3** Apr. 29 - May 1
+
+All exams are closed-everything (no book, notes, calculator, etc.). See the [CBTF policies](https://cbtf.engr.illinois.edu/for-students/policies.html) for more detail. You are responsible for all material covered in lectures and assignments. For DRES accommodations see [CBTF DRES Students](https://cbtf.engr.illinois.edu/for-students/dres-students.html).
 
 ## Extra Credit ##
-At 3 lectures during the semester, I will take attendance. If you attended that lecture, you will receive 0.5% of the total course grade as extra credit. This means there is a total of 1.5% of the grade available as extra credit, which could easily be the difference between letter grades. This will be the only extra credit opportunity offered during the course.
+During 3 lectures during the semester we will 
 
 ## Late Homework or Projects ##
 Machine problems submitted after the due date lose 10% per day. In exceptional circumstances where extension may be reasonable (illness, family emergency etc.) arrangement must be made with the instructor.
 
 ## Collaboration ##
-You should collaborate on the MPs. You should not copy code verbatim from each other or the web. 
+You should collaborate on the MPs during the design process...you absolutely can figure out how to implement things together. If you work on MPs together, document your collaborators in the author comment in your submitted code.
+
+You should type the code in yourself. You should not copy code verbatim from each other or the web. You can reuse code from the course website. Each MP has a creative component and we expect that your MP will look noticeably different than other submissions. The penalty for egregious plagiarism will be a 0 on the assignment. 
 
 ## Software ##
- We will use HTML/JavaScript/WebGL and GLSL for the programming assignments. No prior knowledge of these is required for the class.
+We will use HTML/JavaScript/WebGL and GLSL for the programming assignments. No prior knowledge of these is required for the class.
 
 ## Commenting Code ##
- All files, classes, methods and properties should be documented with JSDoc comments with the appropriate tags and types.
- Details can be found in the Google JavaScript Style Guide.
+All files, classes, methods and properties should be documented with JSDoc comments with the appropriate tags and types.
+Details can be found in the Google JavaScript Style Guide.
 
 ## Other Policies ##
 Do not make class material publicly available. This includes copies of lectures, homework, solutions, handouts, and code provided by us.
@@ -67,18 +71,17 @@ If you are taking the course for 4 credits, you will complete extra work on Mach
 
 ## Language References and Resources ##
 
-JavaScript:  https://developer.mozilla.org/en-US/docs/Web/JavaScript
+JavaScript:[Mozilla JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  
-Suggested Editors: Brackets, LightTable
+Suggested Editor: [Brackets](http://http://brackets.io/)
  
-Chrome DevTools Overview: https://developers.google.com/web/tools/chrome-devtools/
+Debugging Tools: [Chrome DevTools Overview](https://developers.google.com/web/tools/chrome-devtools/)
  
-Matrix Library for WebGL: http://glmatrix.net/
+Matrix/Vector Library for WebGL: [glmatrix](http://glmatrix.net/)
  
-WebGL Tutorial: http://webglfundamentals.org/
+WebGL Tutorial and API: [Mozilla WebGL Guide](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+
+Another WebGL Tutorial: [WebGL Fundamentals](http://webglfundamentals.org/)
  
-WebGL API: https://www.khronos.org/webgl/
- 
-OpenGL ES GLSL Version 1.0 (WebGL GLSL) Specification: [PDF] 
-Tentative Schedule (Note that slides and topics for future lectures may change):
+
 
