@@ -35,7 +35,7 @@ The course grade for the class is broken down among the following items:
 
 + Machine Problem 1	 10%
 + Machine Problem 2	 15%
-+ Machine Problem 3	 15%
++ Machine Problem 3	 20%
 + Machine Problem 4	 10%
 + Exam 1	 15%
 + Exam 2 	15%
@@ -54,9 +54,9 @@ There will be three exams. Each exam is 50 minutes long and will be held in the 
 All exams are closed-everything (no book, notes, calculator, etc.). See the [CBTF policies](https://cbtf.engr.illinois.edu/for-students/policies.html) for more detail. You are responsible for all material covered in lectures and assignments. For DRES accommodations see [CBTF DRES Students](https://cbtf.engr.illinois.edu/for-students/dres-students.html).
 
 ## Extra Credit ##
-During 3 lectures during the semester we will 
+During 3 lectures during the semester we will work on a set of group problem-solving exercises. These dates will be announced a week before they occur. **Participation in each of these events is worth 1% extra credit towards your total course grade.** Also, you will learn things, so you should definitely attend.
 
-## Late Homework or Projects ##
+## Late Work ##
 Machine problems submitted after the due date lose 10% per day. In exceptional circumstances where extension may be reasonable (illness, family emergency etc.) arrangement must be made with the instructor.
 
 ## Collaboration ##
