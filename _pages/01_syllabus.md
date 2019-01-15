@@ -6,7 +6,7 @@ layout: page
 ---
 
 ### Office Hours ###
-+ Eric Shaffer: Tuesdays 2-3pm 2209 Siebel Center
++ Eric Shaffer: Tuesdays 1-2pm 2209 Siebel Center
 + Ashwin Vijay: TBA
 
 ### Piazza ###
