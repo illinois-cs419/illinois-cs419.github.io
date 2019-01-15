@@ -6,8 +6,8 @@ layout: page
 ---
 
 ## Office Hours ##
-Eric Shaffer: Tuesdays 2-3pm 2209 Siebel Center
-Ashwin Vijay: TBA
++ Eric Shaffer: Tuesdays 2-3pm 2209 Siebel Center
++ Ashwin Vijay: TBA
 
 ## Piazza ##
 We will be using Piazza for class discussion. Rather than emailing questions to the teaching staff, we encourage you to post your questions on Piazza. 
@@ -20,22 +20,22 @@ We do have some suggested books that will totally be worth looking at if you nee
 ## Grading ##
 The course grade for the class is broken down among the following items:
 
-Machine Problem 1	 10%
-Machine Problem 2	 15%
-Machine Problem 3	 15%
-Machine Problem 4	 10%
-Exam 1	 15%
-Exam 2 	15%
-Exam 3	 15%
++ Machine Problem 1	 10%
++ Machine Problem 2	 15%
++ Machine Problem 3	 15%
++ Machine Problem 4	 10%
++ Exam 1	 15%
++ Exam 2 	15%
++ Exam 3	 15%
  
 ## Machine Problems: ##
 There will be 4 machine problems during the semester. Assignments will be announced in class and on Piazza. Homework submission will be done electronically through Compass. The required files and acceptable file formats for submission will be specified in the assignment.
 
 ## Exams: ##
 There will be three exams. We will use the Computer Based Testing Facility. 
-Exam 1 TBA
-Exam 2 TBA
-Exam 3 TBA
++ Exam 1 TBA
++ Exam 2 TBA
++ Exam 3 TBA
 
 ## Extra Credit: ##
 At 3 lectures during the semester, I will take attendance. If you attended that lecture, you will receive 0.5% of the total course grade as extra credit. This means there is a total of 1.5% of the grade available as extra credit, which could easily be the difference between letter grades. This will be the only extra credit opportunity offered during the course.
