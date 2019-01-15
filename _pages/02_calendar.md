@@ -14,6 +14,6 @@ layout: page
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
-|**Jan 15**|WebGL      | [Lecture 2](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture2-Introduction.pptx) | | |
+|**Jan 17**|WebGL      | [Lecture 2](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture2-Introduction.pptx) | | |
 |:-----------|:------------------|:------------|:--------|:-------------|
 |===
