@@ -22,13 +22,17 @@ We do have some suggested books that will totally be worth looking at if you nee
 _Fundamentals of Computer Graphics 4th Edition_ by Steve Marschner, Peter Shirley
 
 Deals with the theoretical and mathematical aspects of computer graphics. Very readable.
+
 [UIUC Library E-book link](https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8503840)
 
-![WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL by Kouichi Matsuda and Rodger Lea](/assets/img/wengl1.jpg){:height="200px" width="160px"}
+![WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL by Kouichi Matsuda and Rodger Lea](/assets/img/wengl1.jpg){:height="200px" width="180px"}
 
-_WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL_ by Kouichi Matsuda and Rodger Lea
+_WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL_
+
+by Kouichi Matsuda and Rodger Lea
 
 A bit old now, but pretty easy to read with decent example code. 
+
 [UIUC Library E-book link](https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8494400)
 
 
