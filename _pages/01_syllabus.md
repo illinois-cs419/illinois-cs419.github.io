@@ -69,7 +69,7 @@ We will use HTML/JavaScript/WebGL and GLSL for the programming assignments. No p
 
 ### Commenting Code ###
 All files, classes, methods and properties should be documented with JSDoc comments with the appropriate tags and types.
-Details can be found in the Google JavaScript Style Guide.
+Details can be found in the [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html#jsdoc).
 
 ### Other Policies ###
 Do not make class material publicly available. This includes copies of lectures, homework, solutions, handouts, and code provided by us.
@@ -79,7 +79,7 @@ If you are taking the course for 4 credits, you will complete extra work on Mach
 
 ### Language References and Resources ###
 
-JavaScript:[Mozilla JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+JavaScript: [Mozilla JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  
 Suggested Editor: [Brackets](http://http://brackets.io/)
  
