@@ -5,12 +5,12 @@ navbar: true
 layout: page
 ---
 
-|**Date** &nbsp; &nbsp; &nbsp; &nbsp;|**Topic**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;      |**Materials** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ||**Assignments** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+|**Date** &nbsp; &nbsp; &nbsp; &nbsp;|**Topic**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;      |**Slides** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |**Materials**|**Assignments** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
-|**Jan 15**|Introduction      | [Lecture 1](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture1-Introduction.pptx) | |[HelloColor.html](https://illinois-cs418.github.io/assets/HelloColor/HelloColor.html) |
-|||||[HelloColor.js](https://illinois-cs418.github.io/assets/HelloColor/HelloColor.js)
+|**Jan 15**|Introduction      | [Lecture 1](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture1-Introduction.pptx) | [HelloColor.html](https://illinois-cs418.github.io/assets/HelloColor/HelloColor.html) ||
+||||[HelloColor.js](https://illinois-cs418.github.io/assets/HelloColor/HelloColor.js)||
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
@@ -18,7 +18,8 @@ layout: page
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
-|**Jan 22**|Affine Transformations      | [Lecture 3]() | | |
+|**Jan 22**|Affine      | [Lecture 3]() | | |
+||Transformations||||
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
