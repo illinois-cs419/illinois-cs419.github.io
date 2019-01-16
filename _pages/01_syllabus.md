@@ -81,7 +81,7 @@ If you are taking the course for 4 credits, you will complete extra work on Mach
 
 JavaScript: [Mozilla JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  
-Suggested Editor: [Brackets](http://http://brackets.io/)
+Suggested Editor: [Brackets](http://brackets.io/)
  
 Debugging Tools: [Chrome DevTools Overview](https://developers.google.com/web/tools/chrome-devtools/)
  
