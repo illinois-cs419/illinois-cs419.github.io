@@ -17,6 +17,7 @@ To complete the MP, you will need to create a digital model of the logo, write c
 ### Modeling ###
 You will need to model the logo with a 2-D mesh of triangles. One approach to creating the mesh would be to get some graph paper, 
 draw the logo and figure out a set of coordinates for the vertices and a set of edges for the triangles that works. 
+**You do not need to make the blue line around orange I curve as in the logo...just create straight-line block I model** 
 Once you have the coordinates and triangles, just write up a set of JavaScript arrays in your code containing those numbers. 
 
 ### Rendering ###
@@ -43,8 +44,12 @@ the buffer, make sure you use gl.DYNAMIC_DRAW.
 
 ### Your Own Animation ###
 
-Implement a second animation of your own design. It could have two logos collide or fight. It could be a stick figure walking
-across the screen. It doesn't have to be complex, but it should be your own. Do something creative. You should use an HTML radio button
+Implement a second animation of your own design. It should still be simple, but it should be more than just a slightly different
+shape doing a similaar dance. Some possibilities:
++ It could have two logos collide. 
++ It could be a mosaic in which the vertex positions don't change but the colors of the pieces do.
++ It could be a stick figure jumping or walking
+It doesn't have to be complex, but it should be your own. Do something creative. You should use an HTML radio button
 on the webpage to switch between the logo animation and your animation.
 
 ### Submission ###
