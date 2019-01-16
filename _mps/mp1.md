@@ -51,7 +51,8 @@ on the webpage to switch between the logo animation and your animation.
 
 You will need to submit the following file in a zip archive via Compass:
 
-mp1.html
+mp1.html  
+
 mp1.js
 
 All of your original code should be in those 2 files. You should also include any additional files you use. 
