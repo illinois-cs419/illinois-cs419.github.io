@@ -7,7 +7,8 @@ layout: page
 ### <span style="color:blue"> Dancing Logo  </span>
 **Due: January 30, 11:55pm**
 
-![Logo](/assets/img/logo.png){:height="200px" width="100px"}
+![Logo](/assets/img/logo.png){:height="327px" width="226x"}  
+
 For your first Machine Problem, you will create a 2-D animation of the majestic and inspiring University of Illinois
 logo (as shown above). You will create a short 2-D animation of your choice...more details below....
 
@@ -69,13 +70,15 @@ The assignment will be graded based on the following:
 |:----------------+----------------------|
 | **Feature**     | **Points** |
 |:--------------------|-------:|
-| Program runs without crashing, sucessfully creating a WebGL context and rendering multiple frames. | 2     |
-|Code is well documented, with comments for each function explaning what that function does. | 1 |
-| Logo model looks substantially like the provided image and is a set of triangle meshes.          | 1     | 
-| Affine transformations in Vertex Shader used in the animation.   | 1      |
-| Non-uniform transformation implemented by changing the buffer|1|
-|Implement your own animation, different than the logo|2|
-| Creativity in your animation |1|
-| **TOTAL**	        |10        |
+|Program runs without crashing and renders multiple frames. | 2     |
+|Code is well documented, with comments for each function   | 1     |
+|explaning what that function does.                         |       |
+|Logo model looks substantially like the provided image     | 1     |
+|and is a set of triangles.                                 |       | 
+|Affine transformations  used in Vertex Shader              | 1     | 
+|Non-uniform transformation implemented by changing buffer  | 1     |
+|Implement your own animation, different than the logo      | 2     |
+| Creativity in your animation                              | 1     |
+| **TOTAL**	                                                | 10    |
 |===
 | 
