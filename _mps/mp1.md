@@ -10,7 +10,7 @@ layout: page
 ![Logo](/assets/img/logo.png){:height="163px" width="113x"}  
 
 For your first Machine Problem, you will create a 2-D animation of the majestic and inspiring University of Illinois
-logo (as shown above). You will create a short 2-D animation of your choice...more details below....
+logo (as shown above). You will also create a short 2-D animation of your choice...more details below....
 
 To complete the MP, you will need to create a digital model of the logo, write code to render it, and write code to animate it.
 
@@ -58,7 +58,7 @@ mp1.js
 All of your original code should be in those 2 files. You should also include any additional files you use. 
 In particular you can use gl-matrix and the WebGL utilities used in the examples in class:
 
-Utility code: webgl-utils.js
+Utility code: webgl-utils.js  
 glMatrix library: gl-matrix-min.js
 
 Name your submission as <NetID>_MP1.zip and submit it to Compass, where <NetID> is your netid.
