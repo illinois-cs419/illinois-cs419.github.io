@@ -7,7 +7,7 @@ layout: page
 ### <span style="color:blue"> Dancing Logo  </span>
 **Due: January 30, 11:55pm**
 
-![Scene](/assets/img/blocki.jpg){:height="200px" width="100px"}
+![Logo](/assets/img/logo.png){:height="200px" width="100px"}
 For your first Machine Problem, you will create a 2-D animation of the majestic and inspiring University of Illinois
 logo (as shown above). You will create a short 2-D animation of your choice...more details below....
 
