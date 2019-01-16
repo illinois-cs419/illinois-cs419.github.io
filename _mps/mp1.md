@@ -66,7 +66,7 @@ In particular you can use gl-matrix and the WebGL utilities used in the examples
 Utility code: webgl-utils.js  
 glMatrix library: gl-matrix-min.js
 
-Name your submission as <NetID>_MP1.zip and submit it to Compass, where <NetID> is your netid.
+Name your submission as NETID_MP1.zip and submit it to Compass, where NETID is your netid.
 This MP (as are the other MP's) is more than just an assignment for a grade to verify graphics programming proficiency.
 It is also an opportunity to impress me, your friends/family and your future employer or graduate school. 
 
