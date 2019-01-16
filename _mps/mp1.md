@@ -17,7 +17,7 @@ To complete the MP, you will need to create a digital model of the logo, write c
 ### Modeling ###
 You will need to model the logo with a 2-D mesh of triangles. One approach to creating the mesh would be to get some graph paper, 
 draw the logo and figure out a set of coordinates for the vertices and a set of edges for the triangles that works. 
-**You do not need to make the blue line around orange I curve as in the logo...just create straight-line block I model** 
+**You do not need to make the blue line around orange I curve as in the logo...just create a straight-line block I model** 
 Once you have the coordinates and triangles, just write up a set of JavaScript arrays in your code containing those numbers. 
 
 ### Rendering ###
