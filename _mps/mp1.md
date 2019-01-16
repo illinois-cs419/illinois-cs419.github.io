@@ -5,7 +5,7 @@ layout: page
 ---
 
 ### <span style="color:blue"> Dancing Logo  </span>
-**Due: January 30, 11:55pm**
+**Due: January 31, 11:55pm**
 
 ![Logo](/assets/img/logo.png){:height="163px" width="113x"}  
 
