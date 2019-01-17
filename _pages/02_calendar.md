@@ -14,7 +14,7 @@ layout: page
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
-|**Jan 17**|WebGL      | [Lecture 2](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture2-Webgl.pptx) |[HelloTriangle.html](https://illinois-cs418.github.io/assets/HelloTriangle.html) | [MP1 Due Jan. 31](https://illinois-cs418.github.io/mp1/) |
+|**Jan 17**|WebGL      | [Lecture 2](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture2-Webgl.pptx) |[HelloTriangle.html](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Hello%20Triangle.html) | [MP1 Due Jan. 31](https://illinois-cs418.github.io/mp1/) |
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
