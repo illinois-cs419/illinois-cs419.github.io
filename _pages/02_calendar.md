@@ -9,8 +9,8 @@ layout: page
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
-|**Jan 15**|Introduction      | [Lecture 1](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture1-Introduction.pptx) | [HelloColor.html](https://illinois-cs418.github.io/assets/HelloColor/HelloColor.html) ||
-||||[HelloColor.js](https://illinois-cs418.github.io/assets/HelloColor/HelloColor.js)||
+|**Jan 15**|Introduction      | [Lecture 1](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture1-Introduction.pptx) | [HelloColor.html](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/CodeExamples/Hello%20Color/Hello%20Color.html) ||
+||||[HelloColor.js](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/CodeExamples/Hello%20Color/HelloColor.js)||
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
