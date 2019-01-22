@@ -18,10 +18,10 @@ layout: page
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
-|**Jan 22**|Affine      | [Lecture 3](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture3-Transformations.pptx) |HelloAnimation.html | |
-||Transformations||HelloAnimation.js||
-||||webgl-utils.js||
-||||gl-matrix-min.js||
+|**Jan 22**|Affine      | [Lecture 3](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture3-Transformations.pptx) |[HelloAnimation.html](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/CodeExamples/Hello%20Animation/HelloAnimation.html) | |
+||Transformations||[HelloAnimation.js](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/CodeExamples/Hello%20Animation/HelloAnimation.js)||
+||||[webgl-utils.js](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/CodeExamples/Hello%20Animation/webgl-utils.js)||
+||||[gl-matrix-min.js](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/CodeExamples/Hello%20Animation/gl-matrix-min.js)||
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
