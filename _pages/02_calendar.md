@@ -18,8 +18,10 @@ layout: page
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
-|**Jan 22**|Affine      | [Lecture 3](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture3-Transformations.pptx) | | |
-||Transformations||||
+|**Jan 22**|Affine      | [Lecture 3](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture3-Transformations.pptx) |HelloAnimation.html | |
+||Transformations||HelloAnimation.js||
+||||webgl-utils.js||
+||||gl-matrix-min.js||
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
