@@ -31,7 +31,7 @@ suggested here is probably the simplest.
 You will need to write code to change the location of vertices over time to animate your model. Your code should use two different
 methods for changing the vertices:
 
-+ Use 2 or 3 affine transformations (such as scaling, rotation, or translation). Use the glMatrix library to implement these as
++ Use 2 or 3 **kinds** of affine transformations (such as scaling, rotation, or translation). Use the glMatrix library to implement these as
  matrix transformations. These transformations should be applied to the vertices in the Vertex Shader.
  
 + Implement another motion by directly changng the vertex positions in the vertex buffer. Have this motion be something non-uniform
