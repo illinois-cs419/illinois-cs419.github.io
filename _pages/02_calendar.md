@@ -28,5 +28,14 @@ layout: page
 |**Jan 24**|Animation      | [Lecture 4](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture4-Animation.pptx) | | |
 ||||[Lab 1 Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab1-2019.pptx)||
 ||||[Lab 1 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab2.zip)||
+|:-----------|:----------------|:------------|:--------|:--------------|
+|------------|-------------------|-------------|---------|--------------|
+|:-----------|:-----------------|:------------|:--------|:--------------|
+|**Jan 29**|Hierarchical Modeling      | [Lecture 5]() | | |
+||||[Worksheet 1](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet1.pdf)||
+|:-----------|:----------------|:------------|:--------|:--------------|
+|------------|-------------------|-------------|---------|--------------|
+|:-----------|:-----------------|:------------|:--------|:--------------|
+|**Jan 31**|Viewing      | [Lecture 6]() | | |
 |:-----------|:------------------|:------------|:--------|:-------------|
 |===
