@@ -41,7 +41,7 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
 |**Feb 5**|Projection      | [Lecture 7](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture9-OrthoProjection.pptx) | | |
-|||||[Lecture 8](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture10-PerspectiveProjection.pptx) | | |
+|||[Lecture 8](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture10-PerspectiveProjection.pptx) | | |
 :-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
