@@ -33,6 +33,7 @@ layout: page
 |:-----------|:-----------------|:------------|:--------|:--------------|
 |**Jan 29**|Hierarchical     | [Lecture 5](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture5-Hierarchical%20Modeling.pptx) | | |
 ||Modeling||[Worksheet 1](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet1.pdf)||
+||||[Solution](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet1-soln.pdf)||
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
