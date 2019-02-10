@@ -45,9 +45,10 @@ layout: page
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
-|**Feb 7**| Exam Review      |  | | |
-||||[Worksheet 2](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet2.pdf)||
+|**Feb 7**| Exam Review      |  |[Worksheet 2](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet2.pdf)||
+||||[Solution](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet2-soln.pdf)||
 ||||[Worksheet 3](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet3.pdf)||
+||||[Solution](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet3-soln.pdf)||
 |:-----------|:----------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
