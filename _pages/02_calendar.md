@@ -61,6 +61,7 @@ layout: page
 |**Feb 14**| Meshes      |[Lecture 9](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture8-Basic%20Meshing.pptx)  | | |
 ||||[Lab 2 Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019.pptx)||
 ||||[Lab 2 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab2-Mesh.zip)||
+||||||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
