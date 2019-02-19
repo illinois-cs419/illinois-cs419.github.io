@@ -80,9 +80,9 @@ The assignment will be graded based on the following:
 ||| 
 |Scene uses an elevation-based colormap to shade the terrain           | 2     | 
 |||
-|Shading is done using the Blinn-Phong reflectance model and Gouraud shading  | 1     |
+|Shading is done using the Blinn-Phong reflectance model and Gouraud shading  | 2     |
 |||
-|The scene exhbibts reasonable aesthetic quality (i.e it looks good)      | 2     |
+|The scene exhbibts reasonable aesthetic quality (i.e it looks good)      | 1     |
 |||
 | **TOTAL**	                                                | 9    |
 |===
