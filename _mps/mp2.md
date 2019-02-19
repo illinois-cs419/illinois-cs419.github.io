@@ -19,18 +19,18 @@ To procedurally generate the terrain, you should implement the diamond-square al
 
 This [wikipedia entry on diamond-sqaure](https://en.wikipedia.org/wiki/Diamond-square_algorithm) is a good introduction. We will discuss details of how to implement it WebGL in lecture on Thursday February 21 by working on Lab 3. 
 
-In brief, your implementation should generate an indexed mesh and render it using the WebGL function `void gl.drawElements(mode, count, type, offset)`. You should pay attention to the `type` parameter as the type `gl.UNSIGNED_SHORT` is the largest supported natively in WebGL 1.0. This will limit your mesh to having only 65536 vertices. If you want more, you will need to use the extension [`OES_element_index_uint`](https://developer.mozilla.org/en-US/docs/Web/API/OES_element_index_uint).
+In brief, your implementation should generate an indexed mesh and render it using the WebGL function `void gl.drawElements(mode, count, type, offset)`. You should pay attention to the `type` parameter as the type `gl.UNSIGNED_SHORT` is the largest supported natively in WebGL 1.0. This will limit your mesh to having only 65536 vertices. If you want more, you will need to use the extension [`OES_element_index_uint`{:.language-js}](https://developer.mozilla.org/en-US/docs/Web/API/OES_element_index_uint).
 
 In [Lab 3](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3.zip), we will work on one possible approach to generating an indexed mesh structure. We will create a grid of vertices in the X-Y plane and triangulate them. You can use a Model transformation to rotate this flat terrain to position it however you want to kae viewing easier. If you use this as the basis for your code, you will then just need to set the z coordinates of the triangles according diamond-square algorithm to complete the terrain model. 
 
 
 **Debugging Tips** 
-- Start by generating a small flat terrain (for example 3 vertices by 3 vertices).
+- Start by generating a small flat terrain (for example 3 vertices by 3 vertices).  
  Use this to set up the view you want.
-- Then, add in the ability to set the z coordinates of the vertices. 
+- Then, add in the ability to set the z coordinates of the vertices.   
 Do something simple like random heights.
 - Then, work on implementing the diamond-square algorithm.
-- Be aware that Lab 2 and Lab 3 both use an older version of the glMatrix library.
+- Be aware that Lab 2 and Lab 3 both use an older version of the glMatrix library.  
 You may need to update the code if you use a newer version of the glMatrix library.
 
 ### 2. Implement a perspective view of the scene ###
