@@ -71,8 +71,8 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**Feb 21**| MP 2 Kickoff |  | | |
-||||[Lab 3 Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab3-2019.pptx)||
+|**Feb 21**| Surface |[Lecture 11](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture11-SurfaceNormals.pptx)   | | |
+||Normals||[Lab 3 Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab3-2019.pptx)||
 ||||[Lab 3 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3.zip)||
 ||||||
 |:-----------|:------------------|:------------|:--------|:--------------|
@@ -84,6 +84,6 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**Feb 28**| Shading     |[Lecture 11]()  | | |
+|**Feb 28**| Shading     |  | | |
 |:-----------|:------------------|:------------|:--------|:--------------|
 |===
