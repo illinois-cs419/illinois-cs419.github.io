@@ -65,8 +65,8 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**Feb 19**| Terrain Generation      |[Lecture 10](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/)  | |[MP2 Due March 4](https://illinois-cs418.github.io/mp2-1/) |
-||||[Worksheet 4](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet4.pdf)||
+|**Feb 19**| Terrain   |[Lecture 10](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture10-TerrainGeneration.pptx)  | |[MP2 Due March 4](https://illinois-cs418.github.io/mp2-1/) |
+||Generation||[Worksheet 4](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet4.pdf)||
 ||||||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
@@ -79,7 +79,7 @@ layout: page
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
 |**Feb 26**| Shading  | | | |
-||Extra Credit Exercise||||
+||Extra Credit||||
 ||||||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
