@@ -7,7 +7,7 @@ layout: page
 ### <span style="color:blue">Terrain Generation</span>
 **Due: March 2, 11:55pm**
 
-![terrain](/assets/img/terrain.PNG){:height="163px" width="113x"}  
+![terrain](/assets/img/terrain.PNG)  
 
 For your second Machine Problem, you will procedurally model a piece of terrain. For now, this can be a static scene. We will add interaction in the second part of the MP.
 
@@ -23,10 +23,12 @@ In brief, your implementation should generate an indexed mesh and render it usin
 
 In [Lab 3](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3.zip), we will work on one possible approach to generating an indexed mesh structure. We will create a grid of vertices in the X-Y plane and traingulate them. You can use a Model transformation to rotate this flat terrain to position it however you want to kae viewing easier. If you use this as the basis for your code, you will then just need to set the z coordinates of the triangles according diamond-square algorithm to complete the terrain model. 
 
-**Be aware that Lab 2 and Lab 3 both use an older version of the glMatrix library...you may need to update the code if you use a newer version of the glMatrix library**
 
 **Debugging Tips** 
-Start by generating a small flat terrain (for example 3 vertices by 3 vertices). Use this to set up the view you want. Then, add in the ability to set the z coordinates of the vertices...do something simple like random heights. Then, work on implementing the diamond-square algorithm.
+- Start by generating a small flat terrain (for example 3 vertices by 3 vertices). Use this to set up the view you want.
+- Then, add in the ability to set the z coordinates of the vertices...do something simple like random heights.
+- Then, work on implementing the diamond-square algorithm.
+- Be aware that Lab 2 and Lab 3 both use an older version of the glMatrix library...you may need to update the code if you use a newer version of the glMatrix library.
 
 ### Implement a perspective view of the scene ###
 
