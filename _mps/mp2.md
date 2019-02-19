@@ -82,7 +82,7 @@ The assignment will be graded based on the following:
 |||
 |Shading is done using the Blinn-Phong reflectance model and Gouraud shading  | 2     |
 |||
-|The scene exhbibts reasonable aesthetic quality (i.e it looks good)      | 1     |
+|The scene exhibits reasonable aesthetic quality (i.e it looks good)      | 1     |
 |||
 | **TOTAL**	                                                | 9    |
 |===
