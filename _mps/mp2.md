@@ -72,7 +72,7 @@ The assignment will be graded based on the following:
 | **Feature**     | **Points**           |
 |:--------------------|-----------------:|
 |Code is well documented, with comments for each function   | 1     |
-|explaniing what that function does.                        |       |
+|                        |       |
 |||
 |Code renders a terrain generated using the diamond-square algorithm   | 3      |
 ||| 
