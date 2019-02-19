@@ -7,7 +7,7 @@ layout: page
 ### <span style="color:blue">Terrain Generation</span>
 **Due: March 2, 11:55pm**
 
-![terrain](/assets/img/terrain.png){:height="163px" width="113x"}  
+![terrain](/assets/img/terrain.PNG){:height="163px" width="113x"}  
 
 For your second Machine Problem, you will procedurally model a piece of terrain. For now, this can be a static scene. We will add interaction in the second part of the MP.
 
@@ -19,7 +19,7 @@ To procedurally generate the terrain, you should implement the diamond-square al
 
 This [wikipedia entry on diamond-sqaure](https://en.wikipedia.org/wiki/Diamond-square_algorithm) is a good introduction. We will discuss details of how to implement it WebGL in lecture on Thursday February 21 by working on Lab 3. 
 
-In brief, your implementation should generate an indexed mesh and render it using the WebGL function `void gl.drawElements(mode, count, type, offset)`. You should pay attention to the `type` parameter as the type `gl.UNSIGNED_SHORT` is the largest supported natively in WebGL 1.0. This will limit your mesh to having only 65536 vertices. If you want more, you will need to use the extension `OES_element_index_uint` which is documented [here][https://developer.mozilla.org/en-US/docs/Web/API/OES_element_index_uint].
+In brief, your implementation should generate an indexed mesh and render it using the WebGL function `void gl.drawElements(mode, count, type, offset)`. You should pay attention to the `type` parameter as the type `gl.UNSIGNED_SHORT` is the largest supported natively in WebGL 1.0. This will limit your mesh to having only 65536 vertices. If you want more, you will need to use the extension [`OES_element_index_uint`](https://developer.mozilla.org/en-US/docs/Web/API/OES_element_index_uint).
 
 In [Lab 3](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3.zip), we will work on one possible approach to generating an indexed mesh structure. We will create a grid of vertices in the X-Y plane and traingulate them. You can use a Model transformation to rotate this flat terrain to position it however you want to kae viewing easier. If you use this as the basis for your code, you will then just need to set the z coordinates of the triangles according diamond-square algorithm to complete the terrain model. 
 
