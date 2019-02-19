@@ -7,7 +7,7 @@ layout: page
 ### <span style="color:blue">Terrain Generation</span>
 **Due: March 2, 11:55pm**
 
-![Logo](/assets/img/terrain.png){:height="163px" width="113x"}  
+![terrain](/assets/img/terrain.png){:height="163px" width="113x"}  
 
 For your second Machine Problem, you will Write code to procedurally model a piece of terrain. For now, this can be a static scene. We will add interaction in the second part of the MP.
 
@@ -61,14 +61,14 @@ Name your submission as NETID_MP1.zip and submit it to Compass, where NETID is y
 The assignment will be graded based on the following:
 
 |:----------------+----------------------|
-| **Feature**     | **Points** |
-|:--------------------|-------:|
+| **Feature**     | **Points**           |
+|:--------------------|-----------------:|
 |Code is well documented, with comments for each function   | 1     |
-|explaniing what that function does.                         |       |
+|explaniing what that function does.                        |       |
 |||
-|Code renders a terrain generated using the diamond-square algorithm.     | 3      |
+|Code renders a terrain generated using the diamond-square algorithm   | 3      |
 ||| 
-|Scene uses an elevation-based colormap to shade the terrain              | 2     | 
+|Scene uses an elevation-based colormap to shade the terrain           | 2     | 
 |||
 |Shading is done using the Blinn-Phong reflectance model and Gouraud shading  | 1     |
 |||
@@ -76,4 +76,3 @@ The assignment will be graded based on the following:
 |||
 | **TOTAL**	                                                | 9    |
 |===
-| 
