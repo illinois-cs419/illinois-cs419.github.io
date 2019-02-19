@@ -17,7 +17,7 @@ You will need to implement the following:
 
 To procedurally generate the terrain, you should implement the diamond-square algorithm. This fractal-based terrain generation algorithm is quite old, first published in 1982, but does a acceptable job generating a rocky terrain consideirng how short the code is. Realistic terrain generation in modern games requires considerably more complicated algorithms and tools...see [this talk by Ubisoft developer Etienne Carrier](https://www.youtube.com/watch?v=NfizT369g60) if you are interested in seeing the tools technical artists use these days. 
 
-This [wikipedia entry on diamond-sqaure]() is a good introduction. We will discuss details of how to implement it WebGL in lecture on Thursday February 21 by working on Lab 3. 
+This [wikipedia entry on diamond-sqaure](https://en.wikipedia.org/wiki/Diamond-square_algorithm) is a good introduction. We will discuss details of how to implement it WebGL in lecture on Thursday February 21 by working on Lab 3. 
 
 In brief, your implementation should generate an indexed mesh and render it using the WebGL function `void gl.drawElements(mode, count, type, offset)`. You should pay attention to the `type` parameter as the type `gl.UNSIGNED_SHORT` is the largest supported natively in WebGL 1.0. This will limit your mesh to having only 65536 vertices. If you want more, you will need to use the extension (`OES_element_index_uint`)[https://developer.mozilla.org/en-US/docs/Web/API/OES_element_index_uint].
 
