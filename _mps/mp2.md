@@ -37,7 +37,7 @@ You may need to update the code if you use a newer version of the glMatrix libra
 
 Your code should generate a view matrix and a perspective projection matrix in the javascript portion of the app and send them to the vertex shader...and use them to transform the vertices. You should use the [glMatrix library](http://glmatrix.net/) functions **`lookAt(out, eye, center, up)`** and **`perspective(out, fovy, aspect, near, far)`** to generate the matrices. It is up to you to understand how to specify the parameters to generate a good view. 
 
-### 3. Implement the Phong reflection model ###
+### 3. Implement the Blinn-Phong reflection model ###
 Implement the Blinn-Phong illumination model with Gouraud shading. This means your shading calculations should be done per-vertex...meaning in the vertex shader. You can position your light source(s) anywhere in the scene as long as the rendered images are well-lit. You can use the [Lab 2 shader code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab2-Mesh.zip) as a starting point...it implements the Phong illumination model and Gouraud shading. You will need to understand the difference between the two reflection models and make the relatively minor change to the code to switch it to Blinn-Phong. In addition, you will need to change how the shader handles material colors...you will need to generate a color for the terrian based on elevation as described below. 
 
 ### 4. Implement an elevation-based colormap for the terrain ###
