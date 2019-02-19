@@ -13,7 +13,7 @@ For your second Machine Problem, you will procedurally model a piece of terrain.
 
 You will need to implement the following:
 
-### Implement the diamond-square algorithm ###
+### 1. Implement the diamond-square algorithm ###
 
 To procedurally generate the terrain, you should implement the diamond-square algorithm. This fractal-based terrain generation algorithm is quite old, first published in 1982, but does a acceptable job generating a rocky terrain consideirng how short the code is. Realistic terrain generation in modern games requires considerably more complicated algorithms and tools...see [this talk by Ubisoft developer Etienne Carrier](https://www.youtube.com/watch?v=NfizT369g60) if you are interested in seeing the tools technical artists use these days. 
 
@@ -21,28 +21,31 @@ This [wikipedia entry on diamond-sqaure](https://en.wikipedia.org/wiki/Diamond-s
 
 In brief, your implementation should generate an indexed mesh and render it using the WebGL function `void gl.drawElements(mode, count, type, offset)`. You should pay attention to the `type` parameter as the type `gl.UNSIGNED_SHORT` is the largest supported natively in WebGL 1.0. This will limit your mesh to having only 65536 vertices. If you want more, you will need to use the extension [`OES_element_index_uint`](https://developer.mozilla.org/en-US/docs/Web/API/OES_element_index_uint).
 
-In [Lab 3](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3.zip), we will work on one possible approach to generating an indexed mesh structure. We will create a grid of vertices in the X-Y plane and traingulate them. You can use a Model transformation to rotate this flat terrain to position it however you want to kae viewing easier. If you use this as the basis for your code, you will then just need to set the z coordinates of the triangles according diamond-square algorithm to complete the terrain model. 
+In [Lab 3](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3.zip), we will work on one possible approach to generating an indexed mesh structure. We will create a grid of vertices in the X-Y plane and triangulate them. You can use a Model transformation to rotate this flat terrain to position it however you want to kae viewing easier. If you use this as the basis for your code, you will then just need to set the z coordinates of the triangles according diamond-square algorithm to complete the terrain model. 
 
 
 **Debugging Tips** 
-- Start by generating a small flat terrain (for example 3 vertices by 3 vertices). Use this to set up the view you want.
-- Then, add in the ability to set the z coordinates of the vertices...do something simple like random heights.
+- Start by generating a small flat terrain (for example 3 vertices by 3 vertices).
+ Use this to set up the view you want.
+- Then, add in the ability to set the z coordinates of the vertices. 
+Do something simple like random heights.
 - Then, work on implementing the diamond-square algorithm.
-- Be aware that Lab 2 and Lab 3 both use an older version of the glMatrix library...you may need to update the code if you use a newer version of the glMatrix library.
+- Be aware that Lab 2 and Lab 3 both use an older version of the glMatrix library.
+You may need to update the code if you use a newer version of the glMatrix library.
 
-### Implement a perspective view of the scene ###
+### 2. Implement a perspective view of the scene ###
 
 Your code should generate a view matrix and a perspective projection matrix in the javascript portion of the app and send them to the vertex shader...and use them to transform the vertices. You should use the [glMatrix library](http://glmatrix.net/) functions `lookAt(out, eye, center, up)` and ` perspective(out, fovy, aspect, near, far)` to generate the matrices. It is up to you to understand how to specify the parameters to generate a good view. 
 
-### Implement the Phong reflection model ###
+### 3. Implement the Phong reflection model ###
 Implement the Blinn-Phong illumination model with Gouraud shading. This means your shading calculations should be done per-vertex...meaning in the vertex shader. You can position your light source(s) anywhere in the scene as long as the rendered images are well-lit. You can use the [Lab 2 shader code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab2-Mesh.zip) as a starting point...it implements the Phong illumination model and Gouraud shading. You will need to understand the difference between the two reflection models and make the relatively minor change to the code to switch it to Blinn-Phong. In addition, you will need to change how the shader handles material colors...you will need to generate a color for the terrian based on elevation as described below. 
 
-### Implement an elevation-based colormap for the terrain ###
+### 4. Implement an elevation-based colormap for the terrain ###
 
 In your shading calculation, you should assign colors to vertices based on the elevation of the vertex. If you use the z-coordinate as elevation, that means you should base your color assignment on the value of the z-coordinate. For example, you could define four different intervals of z values and assign blue to the vertices in the lowest interval, green to the second lowest, brown to the second highest, and white to the highest. You should create your own scheme; do something that looks good. In terms of implementation, you can compute the color to be used in the vertex shader by making the necessary information available to the shader program. Or, you could compute the color on the CPU (i.e. in the javascript portion of the app) and pass it as an attribute. Computing the color in the shader program will be more perfomant. 
 
 
-### Comment appropriately ###
+### 5. Comment appropriately ###
 
 You should comment each file with an author comment and comment each function you write with a header. Use JSDoc comments with the appropriate tags and types.
 Details can be found in the Google JavaScript Style Guide. 
