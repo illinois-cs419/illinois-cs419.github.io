@@ -5,7 +5,7 @@ layout: page
 ---
 
 ### <span style="color:blue">Terrain Generation</span>
-**Due: March 2, 11:55pm**
+**Due: March 4, 11:55pm**
 
 ![terrain](/assets/img/terrain.PNG)  
 
