@@ -65,7 +65,7 @@ You will need to submit the following files in a zip archive via Compass:
 
 - **gl-matrix-min.js** where this is whichever version of the glMatrix library you used.
 
-Name your submission as NETID_MP1.zip and submit it to Compass, where NETID is your netid.
+Name your submission as NETID_MP2.zip and submit it to Compass, where NETID is your netid.
 
 ### Grading Rubric ###
 The assignment will be graded based on the following:
