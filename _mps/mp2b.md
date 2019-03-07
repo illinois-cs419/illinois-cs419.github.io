@@ -20,7 +20,7 @@ The airplane should automatically move forward at a fixed speed. The user will c
 You will need to implement the following: 
 
 #### A quaternion based viewing system ####
-The glMatrix library provides support for using [quaternions](http://glmatrix.net/docs/module-quat.html). We would suggest using that library instead of creating your own quaternian class. **Note** if you are using the example code from this course, that code uses an older version of the glMatrix library. The library downloaded from the course website may not include all of the functions documented in the current API. It is suggested that you donwload the current glMatrix library from the web and work with that version.
+The glMatrix library provides support for using [quaternions](http://glmatrix.net/docs/module-quat.html). We would suggest using that library instead of creating your own quaternion class. **Note** if you are using the example code from this course, that code uses an older version of the glMatrix library. The library downloaded from the course website may not include all of the functions documented in the current API. It is suggested that you donwload the current glMatrix library from the web and work with that version.
 
 #### A working and documented user interface #### 
 You should implement a user interface that minimally implements the arrow-key and +/- key controls described above. You can add additional controls to affect yaw if you wish.
