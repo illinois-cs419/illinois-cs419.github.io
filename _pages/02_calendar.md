@@ -96,7 +96,7 @@ layout: page
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
 |**Mar 5**| Fog    | [Lecture 14](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-FogAndFlying.pptx)  |  |  [MP2-2 Due Mar 15](https://illinois-cs418.github.io/mp2-2/)|
-|||[Lab 4 Slides]()|[Lab 4 Code]()||
+|||[Lab 4 Slides](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/Labs/CS418-Lab4-2019.pptx?raw=true)|[Lab 4 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab4.zip)||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
