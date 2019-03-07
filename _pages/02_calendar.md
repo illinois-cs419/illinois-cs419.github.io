@@ -90,9 +90,15 @@ layout: page
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**Mar 5**| Orientation     | [Lecture 13](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/Lecture5-2019.pptx)  | | |
+|**Mar 5**| Orientation     | [Lecture 13](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/Lecture5-2019.pptx)  | [3D Math Primer for Graphics and Game Development by Dunn](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=800971&ppg=240)| |
 ||Interaction|[Notes](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture15-SimpleInteraction.pptx)|||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
+|**Mar 5**| Fog    | [Lecture 14]()  |  |  [MP2-2 Due March. 15](https://illinois-cs418.github.io/mp2-2/)|
+|||[Lab 4 Slides]()|[Lab 4 Code]()||
+|:-----------|:------------------|:------------|:--------|:--------------|
+|------------|-------------------|-------------|---------|---------------|
+|:-----------|:------------------|:------------|:--------|:--------------|
+|**Mar 12**| Textures   | [Lecture 15]()  |  |  |
 |===
