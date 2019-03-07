@@ -100,5 +100,5 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**Mar 12**| Textures   | [Lecture 15]()  |[HelloTexture]()  |  |
+|**Mar 12**| Textures   | [Lecture 15](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture16-TextureMapping.pptx)  |[HelloTexture]()  |  |
 |===
