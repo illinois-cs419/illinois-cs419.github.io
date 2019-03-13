@@ -104,8 +104,9 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**Mar 14**| Texture   | [Lecture 16]()  |[WebGL Texture Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Using_textures_in_WebGL)|
-||Filtering||[Worksheet 6]()||
+|**Mar 14**| Texture   | [Lecture 16]()  |[WebGL Texture](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Using_textures_in_WebGL)|
+||Filtering||[Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Using_textures_in_WebGL)||
+|||[Worksheet 6]()|||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
