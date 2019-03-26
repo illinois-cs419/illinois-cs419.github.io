@@ -125,5 +125,6 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |**Mar 28**| Normal Maps  ||||
 ||Environment Maps||||
+||||[Worksheet 7](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet7.pdf)||
 |
 |===
