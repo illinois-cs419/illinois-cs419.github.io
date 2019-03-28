@@ -123,8 +123,8 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**Mar 28**| Normal Maps  ||||
-||Environment Maps||||
+|**Mar 28**| Environment Maps  |[Lecture 17](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture19-EnvironmentMapping.pptx)|||
+||Normal Maps|[Lecture 18](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture19-EnvironmentMapping.pptx)|||
 ||||[Worksheet 7](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet7.pdf)||
 |
 |===
