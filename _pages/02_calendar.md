@@ -104,10 +104,10 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**Mar 14**| Texture   | [Lecture 16](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture18-TextureFiltering.pptx)  |[WebGL Texture](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Using_textures_in_WebGL)|
-||Filtering||[Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Using_textures_in_WebGL)||
-|||[Worksheet 6](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet6.pdf)|||
-|||[Solution](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet6-solution.pdf)|||
+|**Mar 14**| Texture   | [Lecture 16](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/Lectures/CS418-Lecture18-TextureFiltering.pptx)  ||[WebGL Texture](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Using_textures_in_WebGL)|
+||Filtering||[Worksheet 6](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet6.pdf)|[Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Using_textures_in_WebGL)|
+||||||
+||||[Solution](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet6-solution.pdf)||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
@@ -136,7 +136,7 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |**Apr 4**| Meshes Again |  |[Worksheet 9](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet9.pdf)||
 ||||||
-|||[Lab 5 Slides](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/Labs/CS418-Lab5-2019.pptx?raw=true)|[Lab 4 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab5.zip)||
+|||[Lab 5 Slides](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/Labs/CS418-Lab5-2019.pptx?raw=true)|[Lab 5 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab5.zip)||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
