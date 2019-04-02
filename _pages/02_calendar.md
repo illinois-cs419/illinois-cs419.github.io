@@ -124,18 +124,18 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**Mar 28**| Environment  |[Lecture 17](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture19-EnvironmentMapping.pptx)|||
-||Maps||[Worksheet 7](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet7.pdf)||
+|**Mar 28**| Environment  |[Lecture 17](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture19-EnvironmentMapping.pptx)|[Worksheet 7](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet7.pdf)||
+||Maps||||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**Apr 2**| Normal Maps |[Lecture 18](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture20-NormalMapping.pptx) || [MP3-1 Due Apr 14](https://illinois-cs418.github.io/mp3-1/)| 
-||||[Worksheet 8](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet8.pdf)||
+|**Apr 2**| Normal Maps |[Lecture 18](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture20-NormalMapping.pptx) |[Worksheet 8](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet8.pdf)| [MP3-1 Due Apr 14](https://illinois-cs418.github.io/mp3-1/)| 
+||||||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**Apr 4**| Meshes Again |  |||
-||||[Worksheet 9](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet9.pdf)||
+|**Apr 4**| Meshes Again |  |[Worksheet 9](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet9.pdf)||
+||||||
 |||[Lab 5 Slides](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/Labs/CS418-Lab5-2019.pptx?raw=true)|[Lab 4 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab5.zip)||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
