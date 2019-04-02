@@ -27,23 +27,26 @@ You can make your own cubemaps as well. There is a somewhat dated tutorial on ge
 Please note that they use 3.js to render... so don't steal their code. You need to use WebGL.
 Alterrnatively you can try to use one of the cubemaps from [this collection](http://www.humus.name/index.php?page=Textures).
 
-Teapot Loading
-Utah Teapot OBJ file: Teapot
+#### Teapot Mesh ####
+You can grab an OBJ file containing the famous Utah Teapot Mesh [here](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/teapot_0.obj).
 
 ##### Background Reading and Resources #####
 
-The OBJ file format is documented in this wikipedia article.
+The OBJ file format is documented in this [wikipedia article](https://en.wikipedia.org/wiki/Wavefront_.obj_file).
 You will need to get the OBJ file from the server, and then parse it to generate the vertex and face arrays. If you know how to use AJAX or jquery you can use those to get the file.
-If you don't know how to use those, you can use the function given in readText.js to get a file and send it to the function you will write to parse the file.
+
+If you don't know how to use those, you can use the function given in [readText.js]() to get a file and send it to the function you will write to parse the file.
+
 Use the above linked teapot model, which consists only of vertices and triangular faces. Load the vertices into a vertex position array, and the triangle faces into a face array whose elements are triples of vertex indices. You will need to create per-vertex normals, which you can create by setting a per-face normal, and then setting the vertex normal to be the sum of its adjacent face normals, normalized (so the resulting vertex normal is unit length). You can create a normal accumulator entry for every vertex and initialize it to zero. Then loop through every face and add its normal to the normal accumulator of each of its three vertices. Then for each vertex, normalize (make unit length) its accumulated normal vector.
 
 ##### Running a Local Server #####
 To get around the issue of reading files from the local filesystem, it is best to test by running a local webserver. There are two relatively easy ways to do this:
 
-If you use the Brackets editor, the live preview function will start up a server (and browser) to test your code.
++ If you use the Brackets editor, the live preview function will start up a server (and browser) to test your code.
 Just have Chrome open, and the open your html file in Brackets. Click the lightning bolt icon in the top right of the Brackets window.
-Alternatively, you can install node.js Then install and run httpserver to serve the directory that it is run from.
-User Interface:
++ Alternatively, you can install node.js Then install and run httpserver to serve the directory that it is run from.
+
+#### User Interface ####
 Your initial user interface should alllow to the user view to orbit the tepot (just letting the view circle the teapot by rotating around the y-axis is fine, it needn't employ quaternions).
 This effect can be achieved by rotating the world (teapot and enclosing environment box) assuming the teapot is at the origin.
 
@@ -75,6 +78,6 @@ The assignment will be graded based on the following:
 |User can change view in an orbit around the teapot, light behaves correctly| 2|
 |Teapot surface is shaded correctly| 2|
 |Environment is rendered on a box enclosing the viewer| 2|
-|Your code should be commented and user interface on the webpage should be clear 1|
+|Your code should be commented and user interface on the webpage should be clear| 1|
 | **TOTAL**	                                                | 9   |
 |===
