@@ -37,7 +37,7 @@ You can grab an OBJ file containing the famous Utah Teapot Mesh [here](https://g
 The OBJ file format is documented in this [wikipedia article](https://en.wikipedia.org/wiki/Wavefront_.obj_file).
 You will need to get the OBJ file from the server, and then parse it to generate the vertex and face arrays. If you know how to use AJAX or jquery you can use those to get the file.
 
-If you don't know how to use those, you can use the function given in [readText.js]() to get a file and send it to the function you will write to parse the file.
+If you don't know how to use those, you can use the function given in [readText.js](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/readText.js) to get a file and send it to the function you will write to parse the file.
 
 Use the above linked teapot model, which consists only of vertices and triangular faces. Load the vertices into a vertex position array, and the triangle faces into a face array whose elements are triples of vertex indices. **Note that the indices of the vertices in the OBJ start at 1**. This means you will need to adjust them assuming your arrays start indexing at 0. You will need to create per-vertex normals for the mesh as well, which you should compute as the average normal of the the trangles incident on the vertex.
 
@@ -49,8 +49,7 @@ Just have Chrome open, and the open your html file in Brackets. Click the lightn
 + Alternatively, you can install [node.js](https://nodejs.org/en/) Then install and run [httpserver](https://www.npmjs.com/package/httpserver) to serve the directory that it is run from.
 
 #### User Interface ####
-Your initial user interface should alllow to the user view to orbit the tepot (just letting the view circle the teapot by rotating around the y-axis is fine, it needn't employ quaternions).
-This effect can be achieved by rotating the world (teapot and enclosing environment box) assuming the teapot is at the origin.
+Your initial user interface should alllow to the user view to orbit the tepot (just letting the view circle the teapot by rotating around the y-axis is fine, it needn't employ quaternions). This effect can be achieved by rotating the world (teapot and enclosing environment box) assuming the teapot is at the origin.
 
 #### Lighting ####
 Use a point light source to light the model from the direction (1,1,1). You can adjust the ambient light as you wish, but it must be possible to see the effects of diffuse shading and a specular highlight on the teapot. Use the Blinn-Phong reflectance model and Phong shading.
