@@ -7,7 +7,7 @@ layout: page
 ### <span style="color:blue"></span>
 **Due: April 14, 11:55pm**
 
-![teapot](/assets/img/teapot.PNG)  
+![teapot](/assets/img/teapot.png)  
 Your goal is to write an app that loads the Utah teapot from a file and renders it. Your app should have the following features:
 
 + Perspective
@@ -17,15 +17,15 @@ Your goal is to write an app that loads the Utah teapot from a file and renders 
 Your app should look something like the image above, but your teapot won't be reflective.
 
 #### Skyboxing ####
-Create and draw an environment using skyboxing...render a large cube surrrounding the viewer...this is the skybox. Use the cube map images to texture map the inside of the skybox. You should use the same set of six images that you will use for the teapot environment map later in Part B. 
+Create and draw an environment using skyboxing...render a large cube surrrounding the viewer...this is the skybox. Use the cube map images to texture map the inside of the skybox. You should use the same set of six images that you will use for the teapot environment map later in Part 2 of this MP. 
+
 Pro-tip: Instead of texture mapping each side of the skybox independently, you can create an environment map and use that...you just have to figure out what direction vector to use when accessing the environment map to color a fragment on the box.
 
 ##### Background Reading and Resources #####
-
- A set of 6 image files forming a cubemap are available in this zip file. You can use these for the MP if you wish.
-You can make your own cubemaps as well. There is a somewhat dated tutorial on generating cube maps here.
+ A set of 6 image files forming a cubemap are available in this [zip file](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/sample.zip). You can use these for the MP if you wish.
+You can make your own cubemaps as well. There is a somewhat dated tutorial on generating cube maps [here](https://aerotwist.com/tutorials/create-your-own-environment-maps/).
 Please note that they use 3.js to render... so don't steal their code. You need to use WebGL.
-Alterrnatively you can try to use one of the cubemaps from this collection.
+Alterrnatively you can try to use one of the cubemaps from [this collection](http://www.humus.name/index.php?page=Textures).
 
 Teapot Loading
 Utah Teapot OBJ file: Teapot
