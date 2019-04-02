@@ -128,7 +128,7 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
-|**April 2**| Normal Maps | || [MP3-1 Due Apr 14](https://illinois-cs418.github.io/mp3-1/)| 
+|**April 2**| Normal Maps |[Lecture 18](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture20-NormalMapping.pptx) || [MP3-1 Due Apr 14](https://illinois-cs418.github.io/mp3-1/)| 
 ||||[Worksheet 8](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet8.pdf)||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
