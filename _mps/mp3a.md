@@ -16,6 +16,7 @@ Your app should have the following features:
 + Phong or Blinn-Phong Reflectance Model
 + Skyboxing
 + Allow the user view to orbit around the teapot
+
 Your app should look something like the image above, but your teapot won't be reflective.
 
 #### Skyboxing ####
@@ -25,9 +26,8 @@ Pro-tip: Instead of texture mapping each side of the skybox independently, you c
 
 ##### Background Reading and Resources #####
  A set of 6 image files forming a cubemap are available in this [zip file](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/sample.zip). You can use these for the MP if you wish.
-You can make your own cubemaps as well. There is a somewhat dated tutorial on generating cube maps [here](https://aerotwist.com/tutorials/create-your-own-environment-maps/).
-Please note that they use 3.js to render... so don't steal their code. You need to use WebGL.
-Alterrnatively you can try to use one of the cubemaps from [this collection](http://www.humus.name/index.php?page=Textures).
+ 
+You can make your own cubemaps as well. There is a somewhat dated tutorial on generating cube maps [here](https://aerotwist.com/tutorials/create-your-own-environment-maps/).Please note that they use 3.js to render... so don't steal their code. You need to use WebGL. Alterrnatively you can try to use one of the cubemaps from [this collection](http://www.humus.name/index.php?page=Textures).
 
 #### Teapot Mesh ####
 You can grab an OBJ file containing the famous Utah Teapot Mesh [here](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/teapot_0.obj).
@@ -46,6 +46,7 @@ To get around the issue of reading files from the local filesystem, it is best t
 
 + If you use the Brackets editor, the live preview function will start up a server (and browser) to test your code.
 Just have Chrome open, and the open your html file in Brackets. Click the lightning bolt icon in the top right of the Brackets window.
+
 + Alternatively, you can install [node.js](https://nodejs.org/en/) Then install and run [httpserver](https://www.npmjs.com/package/httpserver) to serve the directory that it is run from.
 
 #### User Interface ####
@@ -65,6 +66,8 @@ You will need to submit the following files in a zip archive via Compass:
 - **webgl-utils.js** if you use it  
 
 - **gl-matrix-min.js** where this is whichever version of the glMatrix library you used.
+
+- All the image and OBJ files required for the app to run
 
 Name your submission as NETID_MP3.zip and submit it to Compass, where NETID is your netid.
 
