@@ -8,7 +8,9 @@ layout: page
 **Due: April 14, 11:55pm**
 
 ![teapot](/assets/img/teapot.png)  
-Your goal is to write an app that loads the Utah teapot from a file and renders it. Your app should have the following features:
+Your goal is to write an app that loads the Utah teapot from a file and renders it. 
+
+Your app should have the following features:
 
 + Perspective
 + Phong or Blinn-Phong Reflectance Model
@@ -37,22 +39,21 @@ You will need to get the OBJ file from the server, and then parse it to generate
 
 If you don't know how to use those, you can use the function given in [readText.js]() to get a file and send it to the function you will write to parse the file.
 
-Use the above linked teapot model, which consists only of vertices and triangular faces. Load the vertices into a vertex position array, and the triangle faces into a face array whose elements are triples of vertex indices. You will need to create per-vertex normals, which you can create by setting a per-face normal, and then setting the vertex normal to be the sum of its adjacent face normals, normalized (so the resulting vertex normal is unit length). You can create a normal accumulator entry for every vertex and initialize it to zero. Then loop through every face and add its normal to the normal accumulator of each of its three vertices. Then for each vertex, normalize (make unit length) its accumulated normal vector.
+Use the above linked teapot model, which consists only of vertices and triangular faces. Load the vertices into a vertex position array, and the triangle faces into a face array whose elements are triples of vertex indices. **Note that the indices of the vertices in the OBJ start at 1**. This means you will need to adjust them assuming your arrays start indexing at 0. You will need to create per-vertex normals for the mesh as well, which you should compute as the average normal of the the trangles incident on the vertex.
 
 ##### Running a Local Server #####
 To get around the issue of reading files from the local filesystem, it is best to test by running a local webserver. There are two relatively easy ways to do this:
 
 + If you use the Brackets editor, the live preview function will start up a server (and browser) to test your code.
 Just have Chrome open, and the open your html file in Brackets. Click the lightning bolt icon in the top right of the Brackets window.
-+ Alternatively, you can install node.js Then install and run httpserver to serve the directory that it is run from.
++ Alternatively, you can install [node.js](https://nodejs.org/en/) Then install and run [httpserver](https://www.npmjs.com/package/httpserver) to serve the directory that it is run from.
 
 #### User Interface ####
 Your initial user interface should alllow to the user view to orbit the tepot (just letting the view circle the teapot by rotating around the y-axis is fine, it needn't employ quaternions).
 This effect can be achieved by rotating the world (teapot and enclosing environment box) assuming the teapot is at the origin.
 
 #### Lighting ####
-Use a point light source to light the model from the direction (1,1,1). You can adjust the ambient light as you wish, but it must be possible to see the effects of diffuse shading and a specular
-highlight on the teapot. Use the Blinn-Phong reflectance model and Phong shading.
+Use a point light source to light the model from the direction (1,1,1). You can adjust the ambient light as you wish, but it must be possible to see the effects of diffuse shading and a specular highlight on the teapot. Use the Blinn-Phong reflectance model and Phong shading.
 
 ## Submission ##
 
