@@ -136,7 +136,7 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |**Apr 4**| Meshes Again |  |[Worksheet 9](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet9.pdf)||
 ||||||
-|||[Lab 5 Slides](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/Labs/CS418-Lab5-2019.pptx?raw=true)|[Lab 5 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab5.zip)||
+|||[Lab 5 Slides](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/Labs/CS418-Lab5-2019.pptx?raw=true)|[Lab 5 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab5-2019.zip)||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
