@@ -21,7 +21,7 @@ IMPORTANT: The tutorial code is in C++ and uses OpenGL. If you follow their code
 
 You will upload your files to compass in a zipped folder with name ${NetID}_MP3-4CR.zip. Include all of the files necessary for your application to run locally. Name your webpage Normal.html
 
-Grading:
+#### Grading ####
 Your score on this MP will be added to your scores for the other parts of MP 3. So your MP3 will be out of 25 points total rather than 15, and whatever percentage you receive will be used to compute how much of the 15% credit for the MP you will recieve.  
 
 |:----------------+----------------------|
