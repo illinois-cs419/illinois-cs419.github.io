@@ -20,10 +20,10 @@ When a sphere hits one of the walls in the box, it should reflect in physically 
 
 #### Particles ####
 You should keep an array or list of particles.
-Each particle will be have a postion P and velocity V...both of these quantities will be three-dimensional quantities.
-Each particle will be represented by a sphere
-It is acceptable to render all the spheres with a uniform radius and color, however...
-...you can include other attributes if you like. For example, you could have each sphere have an individual color or radius or alpha value....
+
+Each particle will be have a postion P and velocity V...both of these quantities will be three-dimensional quantities. Each particle will be represented by a sphere.
+
+It is acceptable to render all the spheres with a uniform radius and color, however...you can include other attributes if you like. For example, you could have each sphere have an individual color or radius or alpha value....
  
 You only need to generate one sphere mesh...you simply draw that mesh in multiple different spots each frame...once for each particle.
 You can use some of the code on the course website that can generate and render a sphere.
@@ -31,7 +31,9 @@ You can use some of the code on the course website that can generate and render 
 #### User Interface ####
 
 Your user interface should allow you to create spheres using a mouse click or key press. Each creation event should create X spheres, where X is some number of your choosing.
+
 The spheres should be genereated with a random position and velocity.
+
 You will need to bound those values to be reasonable (e.g. position inside the box).
 You will also need a reset button that will remove all existing spheres from the scene.
  
@@ -43,7 +45,7 @@ Update the velocity using the set of forces you are implementing (e.g. gravity a
  
 Implement 2 forces that affect the spheres: gravity and friction. If you want to violate physics for fun and have the spheres gain velocity after hitting walls, you can do that as well.
 
-## Submission ##
+### Submission ###
 
 You will need to submit the following files in a zip archive via Compass:
 
