@@ -7,7 +7,7 @@ layout: page
 ### <span style="color:blue"> A Simple Particle System</span>
 **Due: May 1, 11:55pm**
 
-![spheres](/assets/img/mp4.png)  
+![spheres](/assets/img/mp4.png){:height="300px" width="300px"}   
 
 Write a simple particle system using WebGL to handle the display. 
 Particle systems are typically used to model fine-grained physical effects like fire, smoke, and water.
