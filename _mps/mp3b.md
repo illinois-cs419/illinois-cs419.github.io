@@ -4,7 +4,7 @@ permalink: "/mp3-2/"
 layout: page
 ---
 
-### <span style="color:blue"></span>
+### <span style="color:blue">Environment Mapping</span>
 **Due: April 21, 11:55pm**
 
 ![teapot](/assets/img/teapot.png)  
