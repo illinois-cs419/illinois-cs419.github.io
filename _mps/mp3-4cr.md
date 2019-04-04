@@ -7,8 +7,8 @@ layout: page
 ### <span style="color:blue">Normal Maps</span>
 **Due: May 1, 11:55pm**
 
-![terrain color](/assets/img/blocks_normal.jpg){:height="300px" width="300px"} 
-![terrain color](/assets/img/stone_nrm_render-256x256.png){:height="300px" width="300px"} 
+![normal map](/assets/img/blocks_normal.JPG){:height="300px" width="300px"} 
+![sphere image](/assets/img/stone_nrm_render-256x256.png){:height="300px" width="300px"} 
 
 ### 4-Credit Students ###
 Your assignment is to implement normal mapping in WebGL and GLSL and demonstrate it on a sphere. You can use the map you see above or acquire or make your own.
