@@ -1,5 +1,5 @@
 ---
-title: MP2 4 Credit
+title: MP3 4 Credit
 permalink: "/mp3-4cr/"
 layout: page
 ---
