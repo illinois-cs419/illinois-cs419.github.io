@@ -7,7 +7,7 @@ layout: page
 ### <span style="color:blue">Normal Maps</span>
 **Due: May 1, 11:55pm**
 
-![terrain color](/assets/img/blocks_normal.png){:height="300px" width="300px"} 
+![terrain color](/assets/img/blocks_normal.jpg){:height="300px" width="300px"} 
 ![terrain color](/assets/img/stone_nrm_render-256x256.png){:height="300px" width="300px"} 
 
 ### 4-Credit Students ###
