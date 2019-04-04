@@ -13,7 +13,8 @@ layout: page
 ### 4-Credit Students ###
 Your assignment is to implement normal mapping in WebGL and GLSL and demonstrate it on a sphere. You can use the map you see above or acquire or make your own.
 
-If you need help understanding how to do this, there's a good tutorial here: http://www.keithlantz.net/2011/10/tangent-space-normal-mapping-with-glsl/
+If you need help understanding how to do this, there's a good tutorial [here](http://www.keithlantz.net/2011/10/tangent-space-normal-mapping-with-glsl).
+
 IMPORTANT: The tutorial code is in C++ and uses OpenGL. If you follow their code, you'll need to translate it to JS and WebGL. The GLSL shader code will be very similar.
 
 #### Submission ####
