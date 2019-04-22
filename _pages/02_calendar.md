@@ -155,12 +155,14 @@ layout: page
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
 |**Apr 18**| Physics|[Lecture 20](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture26.pptx) ||[MP4 Due May 1](https://illinois-cs418.github.io/mp4/)| 
-|| Bezier Curves||||
+|| Bezier Curves|[Lecture 21](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/418-Lecture%202X-Bezier%20Curves.pdf)|[Worksheet 13]()||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
 |**Apr 23**| Subdivision| |||| 
-||Surfaces|||| 
+||Surfaces|[Lecture 22](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Subdivision.pdf)||| 
+||Bezier||||
+||Surfaces|[Lecture 23](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/418-Lecture%2030%20-%20Bezier%20Patches.pdf)|[Worksheet 14]()||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
