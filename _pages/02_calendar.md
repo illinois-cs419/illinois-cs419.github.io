@@ -163,6 +163,7 @@ layout: page
 ||Surfaces|[Lecture 22](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Subdivision.pdf)||| 
 ||Bezier||||
 ||Surfaces|[Lecture 23](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/418-Lecture%2030%20-%20Bezier%20Patches.pdf)|[Worksheet 14](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet-Physics.pdf)||
+||||[Solution](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet-Physics-soln.pdf)||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
