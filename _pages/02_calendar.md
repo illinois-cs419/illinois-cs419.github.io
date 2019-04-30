@@ -125,17 +125,17 @@ layout: page
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
 |**Mar 28**| Environment  |[Lecture 17](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture19-EnvironmentMapping.pptx)|[Worksheet 7](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet7.pdf)||
-||Maps||||
+||Maps||[Solution](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS418-Mipmap-soln.pdf)||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
 |**Apr 2**| Normal Maps |[Lecture 18](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture20-NormalMapping.pptx) |[Worksheet 8](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet8.pdf)| [MP3-1 Due Apr 14](https://illinois-cs418.github.io/mp3-1/)| 
-||||||
+||||[Solution]([Solution](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS418-CubeMap-soln.pdf))||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
 |**Apr 4**| Meshes Again |  |[Worksheet 9](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet9.pdf)||
-||||||
+||||[Solution](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS418-NormalMap-soln.pdf)||
 |||[Lab 5 Slides](https://github.com/illinois-cs418/cs418CourseMaterial/blob/master/Labs/CS418-Lab5-2019.pptx?raw=true)|[Lab 5 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab5-2019.zip)||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
@@ -156,6 +156,7 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:--------------|
 |**Apr 18**| Physics|[Lecture 20](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture26.pptx) ||[MP4 Due May 1](https://illinois-cs418.github.io/mp4/)| 
 || Bezier Curves|[Lecture 21](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/418-Lecture%202X-Bezier%20Curves.pdf)|[Worksheet 13](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-WorksheetBezier.pdf)||
+||||[Solution](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-WorksheetBezier-soln.pdf)||
 |:-----------|:------------------|:------------|:--------|:--------------|
 |------------|-------------------|-------------|---------|---------------|
 |:-----------|:------------------|:------------|:--------|:--------------|
