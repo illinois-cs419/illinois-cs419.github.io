@@ -1,7 +1,7 @@
-# CS 498 VR: The Website 
+# CS 418: The Website 
 
-Course website for CS 498 Virtual Reality at the University of Illinois.
-[![Build Status](https://travis-ci.org/illinois-cs498vr/illinois-cs498vr.github.io.svg?branch=master)](https://travis-ci.org/illinois-cs498vr/illinois-cs498vr.github.io)
+Course website for CS 418 Interactive Computer Graphics at the University of Illinois.
+[![Build Status](https://travis-ci.org/illinois-cs418/illinois-cs418.github.io.svg?branch=master)](https://travis-ci.org/illinois-cs418llinois-cs418.github.io)
 
 ## Getting Started
 
