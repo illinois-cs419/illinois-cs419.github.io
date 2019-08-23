@@ -1,28 +1,50 @@
----
-title: CS 418 Interactive Computer Graphics
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: assets/img
-  values:
-    image: true
-email: shaffer1@illinois.edu
-description: 'Webpage for the course CS 418 at the University of Illinois
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-'
-baseurl: ''
-url: http://illinois-cs418.github.io
-sass:
-  sass_dir: _sass
-include:
-- _pages
-- _mps
-kramdown:
-  input: GFM
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: CS 418 Interactive Computer Graphics
+description: >- # this means to ignore newlines until "baseurl:"
+  © University of Illinois, 2019
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://courses.engr.illinois.edu/cs418" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  shaffer1
+issues: https://github.com/illinois-cs418/illinois-cs418.github.io/issues/new
+# Build settings
+markdown: kramdown
+theme: minima
+
+collections:
+  assignments:
+    output: true
+  projects:
+    output: true
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .vscode/
+  - .gitignore
+  - .git/
+
+# Information about the lab
+lab:
+  unity-version: 2018.2.14

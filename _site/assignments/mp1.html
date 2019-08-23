@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>MP1: The Room | CS 418 Interactive Computer Graphics</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="MP1: The Room" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="MP 1.1 Create a new project by clicking through the prompts when you click the NEW button on the top right. Fill in the appropriate details to your heart’s content." />
+<meta property="og:description" content="MP 1.1 Create a new project by clicking through the prompts when you click the NEW button on the top right. Fill in the appropriate details to your heart’s content." />
+<link rel="canonical" href="http://localhost:4000/assignments/mp1.html" />
+<meta property="og:url" content="http://localhost:4000/assignments/mp1.html" />
+<meta property="og:site_name" content="CS 418 Interactive Computer Graphics" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-08-23T17:12:28-05:00" />
+<script type="application/ld+json">
+{"description":"MP 1.1 Create a new project by clicking through the prompts when you click the NEW button on the top right. Fill in the appropriate details to your heart’s content.","@type":"BlogPosting","url":"http://localhost:4000/assignments/mp1.html","headline":"MP1: The Room","dateModified":"2019-08-23T17:12:28-05:00","datePublished":"2019-08-23T17:12:28-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/assignments/mp1.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="CS 418 Interactive Computer Graphics" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">CS 418 Interactive Computer Graphics</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/assignments">Assignments</a><a class="page-link" href="/calendar">Course Calendar</a><a class="page-link" href="/officehours.html">Office Hours</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  
+  <header class="post-header">
+    <h1 class="post-title">MP1: The Room</h1>
+  </header>
+  
+
+  <div class="post-content assignment">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' defer></script>
+
+
+	<h4>Due Dates:</h4>
+	
+		MP1.1: <strong>Jan. 28, 2019 @ 11:59 PM</strong><br>
+	
+		MP1.2: <strong>Feb. 4, 2019 @ 11:59 PM</strong><br>
+	
+
+
+<hr>
+
+
+	<h4>Provided Material:</h4>
+	<ul>
+	
+	<li><a href="/mps/MP1.zip">MP1.1.2 ZIP</a></li>
+	
+	</ul>
+	<hr>
+
+
+
+	<h2>Important Notes</h2>
+	
+	<ol>
+  <li>Read the submission instructions carefully!
+If you are missing some files, but we can still grade, you will lose 20%.
+If we cannot grade your work due to missing files, you will receive no credit.</li>
+  <li><a href="https://google.com">Google</a>,
+the <a href="https://docs.unity3d.com/Manual/index.html">Unity Documentation</a>,
+the <a href="https://wiki.unity3d.com/index.php/Main_Page">Unity Wiki</a>,
+and the <a href="https://forum.unity.com/">Unity Forums</a>
+are excellent sources of information, 
+especially as you start to use more advanced features of Unity.</li>
+  <li>To earn extra credit, you must submit with a partner.
+Use the Piazza teammate search function to help find one,
+or chat up your neighbors in lecture.</li>
+  <li>Save your project onto the <code class="highlighter-rouge">U:</code> drive, which is your EWS storage, and available across all of the computers in the lab.
+If you save to the <code class="highlighter-rouge">C:</code> drive, your project will only exist on that single computer.</li>
+  <li>If you use your own machine, make sure you use the version of Unity installed on all of the lab machines to avoid 
+compatibility issues. The lab machines currently use version 2018.2.14, which can be found in the 
+<a href="https://unity3d.com/get-unity/download/archive">Unity Downloads Archive</a></li>
+</ol>
+
+	<hr>
+
+
+<div class="toc">
+<h3 id="toc">Table of Contents</h3>
+
+<ul>
+  <li><a href="#mp-11">MP 1.1</a>
+    <ul>
+      <li><a href="#111">1.1.1</a>
+        <ul>
+          <li><a href="#player">Player</a></li>
+          <li><a href="#lighting">Lighting</a></li>
+          <li><a href="#planet-and-moon">Planet and Moon</a></li>
+          <li><a href="#text">Text</a></li>
+          <li><a href="#scripting">Scripting</a></li>
+        </ul>
+      </li>
+      <li><a href="#112">1.1.2</a>
+        <ul>
+          <li><a href="#material">Material</a></li>
+          <li><a href="#scripting-1">Scripting</a></li>
+          <li><a href="#store-assets">Store Assets</a></li>
+        </ul>
+      </li>
+      <li><a href="#submit">Submit</a></li>
+    </ul>
+  </li>
+  <li><a href="#mp-12">MP 1.2</a>
+    <ul>
+      <li><a href="#121">1.2.1</a>
+        <ul>
+          <li><a href="#skybox">Skybox</a></li>
+          <li><a href="#directional-light">Directional Light</a></li>
+          <li><a href="#scripting---trigger-game">Scripting - Trigger Game</a></li>
+        </ul>
+      </li>
+      <li><a href="#122">1.2.2</a>
+        <ul>
+          <li><a href="#vr-experiences">VR Experiences</a></li>
+        </ul>
+      </li>
+      <li><a href="#submit-1">Submit</a></li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<hr>
+
+<div class="mp-content">
+	<h2 id="mp-11">MP 1.1</h2>
+<p>Create a new project by clicking through the prompts when you click the NEW button on the top right. Fill in the appropriate details to your heart’s content.</p>
+
+<p><img src="/img/assignments/mp1/image23.png" alt="splash screen" /></p>
+
+<p>Next, read through the following Unity Tutorial, to familiarize yourself with the very basics of the Unity interface:</p>
+
+<ul>
+  <li><a href="https://docs.unity3d.com/Manual/LearningtheInterface.html">Basic Interface Tutorial</a></li>
+  <li><a href="https://docs.unity3d.com/Manual/UsingTheEditor.html">More In Depth Interface Tutorial</a></li>
+</ul>
+
+<p>Feel free to look through some more tutorials, to familiarize yourself with the basics of Unity.</p>
+
+<hr />
+
+<h3 id="111">1.1.1</h3>
+
+<p><img src="/img/assignments/mp1/image16.png" alt="Oh hai Mark!" /></p>
+
+<p><strong>The Room:</strong> Oh hai Mark!</p>
+
+<p><em>You will build a cubic room out of six planes. 
+Make sure to orient these planes so the visible sides face inwards, and ensure that the player cannot walk through any of them. 
+The room should be 15x15x15 Unity units (aka meters).</em></p>
+
+<p>First, create a plane. It can be found in the top bar menus, under <code class="highlighter-rouge">GameObject</code> → <code class="highlighter-rouge">3D Object</code> → <code class="highlighter-rouge">Plane</code>, as shown below.</p>
+
+<p><img src="/img/assignments/mp1/image3.png" alt="Create plane" /></p>
+
+<p>Now, by default the plane is <script type="math/tex">10 \times 10 (X \times Z)</script> units. In order to make your room 15 units wide, you have to scale the plane. On the right side (in the default editor layout) you will find the Inspector window. This window provides details about the currently selected object. Select the plane in the Scene view, and the Inspector will fill with information and settings for said plane. Find the “Scale” option, and set it to 1.5 on the <script type="math/tex">X</script> and <script type="math/tex">Z</script> to make your plane 15 units wide and long.</p>
+
+<p><img src="/img/assignments/mp1/image7.png" alt="Inspector" /><br />
+Note: The plane has no thickness, so the value in <script type="math/tex">Y</script> can be any positive integer.</p>
+
+<p>By default, your scene has a directional light in it. This is basically the sun- a light source that illuminates your entire scene from a specified angle, from very far away. You’ll notice that your planes do not block this light. That’s because planes only block light (and render) from one side. Bear this in mind when creating objects in Unity in the future! Please delete the directional light (don’t worry, youll add new lights in later).</p>
+
+<p>In the hierarchy view, you can select your plane, and duplicate it.</p>
+
+<p><img src="/img/assignments/mp1/image4.png" alt="Duplicate" /></p>
+
+<p>From there, simply change the new plane’s rotation and position to make it one of the walls or ceilings. Unity measures position from the center of the object, so if you want your walls to match up with the floor (at height 0), your walls will need to be at 7.5</p>
+
+<p><img src="/img/assignments/mp1/image15.png" alt="Scene window" /></p>
+
+<p>Note: In the image above, rotating the plane also rotated its axes (the blue z axis now points down). Make sure to account for that when rotating and moving objects!</p>
+
+<hr />
+
+<h4 id="player">Player</h4>
+
+<p><em>Place an OVR Player Controller prefab in the room. This prefab handles basic movement, collision, and camera control.</em></p>
+
+<p>The lab computers come with the Oculus OVR plugin installed. You can import it by going to <code class="highlighter-rouge">Assets</code> → <code class="highlighter-rouge">Import Package</code> → <code class="highlighter-rouge">OculusUtilites</code>, and then click import.</p>
+
+<p><img src="/img/assignments/mp1/image20.png" alt="Import OculusUtilities" /></p>
+
+<p>If, for whatever reason, you can’t find it, go to the <a href="https://developer.oculus.com/downloads/package/oculus-utilities-for-unity-5/">Oculus Website</a> and download their Unity package. Unzip the unity package file, and then go to <code class="highlighter-rouge">Assets</code> → <code class="highlighter-rouge">Import Package</code> → <code class="highlighter-rouge">Custom Package</code>. Find the unzipped OculusUntilites.unitypackage, and import all of the items within. You should now have an “OVR” folder in your “Assets” folder.</p>
+
+<p>In this class, you will be primarily using two prefab objects from this package (both found in <code class="highlighter-rouge">OVR</code> → <code class="highlighter-rouge">Prefabs</code>). The first prefab, the <code class="highlighter-rouge">OVRCameraRig</code>, is a camera for the Oculus, that handles all of the movement and position tracking for the oculus, as well as the rendering on the Oculus display. The second prefab, the <code class="highlighter-rouge">OVRPlayerController</code>, is a more complicated version of the OVRCameraRig. It includes the camera from the OVRCameraRig, but also includes basic joystick movement controls, and a capsule-shaped collider (so that the player doesn’t walk through solid objects). Place an <code class="highlighter-rouge">OVRPlayerController</code> into your scene, at <script type="math/tex">(0,1,0)</script>, and delete the “main camera” object.</p>
+
+<p>There’s just one more thing you need to do to finish enabling VR. Go to <code class="highlighter-rouge">Edit</code> → <code class="highlighter-rouge">Project Settings</code> → <code class="highlighter-rouge">Player</code>, which will open up the player settings in the inspector window. In <code class="highlighter-rouge">XR Settings</code> (or <code class="highlighter-rouge">Other settings</code>, depending on your version of Unity), check the <code class="highlighter-rouge">Virtual reality supported</code> option. Now, when you play your scene, it should render inside the Oculus.</p>
+
+<p><strong>If you have issues importing, please check Piazza to see if others have had your issue, and make a post if you need more information.</strong></p>
+
+<hr />
+
+<h4 id="lighting">Lighting</h4>
+
+<p><em>At the center of the roof of the room, place a point source of light. This light will change color by pressing the <code class="highlighter-rouge">Tab</code> key, which is detailed in the scripting section.</em></p>
+
+<p>First, read up on the <a href="https://docs.unity3d.com/Manual/Lighting.html">types of light in Unity</a>. Then, go to <code class="highlighter-rouge">GameObject</code> → <code class="highlighter-rouge">Light</code> → <code class="highlighter-rouge">Point Light</code>, and bring a point light into your scene. Place it at <script type="math/tex">(0,15,0)</script>.</p>
+
+<p><img src="/img/assignments/mp1/image13.png" alt="Point Light" /></p>
+
+<p>Select your light, and your inspector view should have a <code class="highlighter-rouge">Light</code> component like this:</p>
+
+<p><img src="/img/assignments/mp1/image6.png" alt="Light Object" /></p>
+
+<p>Of primary importance are the <code class="highlighter-rouge">range</code> (the radius of your light), color, and intensity values. Set the shadow type to <code class="highlighter-rouge">soft shadows</code>, and read up on <a href="https://docs.unity3d.com/Manual/Shadows.html">Unity Shadows</a>. Set the <code class="highlighter-rouge">Mode</code> to <code class="highlighter-rouge">Realtime</code>, and read up on <a href="https://docs.unity3d.com/Manual/LightModes.html">Lighting Modes In Unity</a>. Set your range and intensity so that your room is brightly lit.</p>
+
+<hr />
+
+<h4 id="planet-and-moon">Planet and Moon</h4>
+
+<p><em>Create a large sphere, and have it float in the middle of the room. Create another, smaller sphere, set it as a child object of the bigger sphere, and move it next to the bigger sphere, 4 units away on the X-axis. You will make it orbit the larger sphere in the Scripting section.</em></p>
+
+<p>Create two spheres (<code class="highlighter-rouge">GameObject</code> → <code class="highlighter-rouge">3D</code> → <code class="highlighter-rouge">Sphere</code>). Scale the first sphere to 2 in all directions, and place it in the center of your room. In the Hierarchy view, drag the second sphere onto the first. They should now look like this-</p>
+
+<p><img src="/img/assignments/mp1/image22.png" alt="Spheres" /></p>
+
+<p>What this means is that the second sphere is a child of the first sphere. So now, whenever you change the position, rotation, or size of the parent sphere, its child will make the same movement, rotation, or scaling. Furthermore, the <script type="math/tex">(0,0,0)</script> position of the child is now its parent’s position, NOT the global <script type="math/tex">(0,0,0)</script>. That is, the child’s position is an offset from the parent’s position. Finally, if the parent rotates, then the child will rotate about its parent’s axes, not its own axes (this will make more sense later). For more information on parent-child relationships, see the <a href="https://docs.unity3d.com/Manual/Hierarchy.html">Hierarchy</a> page of the Unity Manual.<br />
+Set the position of the child sphere to be <script type="math/tex">(2,0,0)</script>, which is four units from the parent sphere on the X-axis (why?).</p>
+
+<hr />
+
+<h4 id="text">Text</h4>
+
+<p><em>Put large text on a wall, detailing the controls and listing your netIDs. Feel free to experiment with what you can put on a canvas, but keep it grandmother appropriate!</em></p>
+
+<p>Check out the Unity tutorial on <a href="https://docs.unity3d.com/Manual/HOWTO-UIWorldSpace.html">Creating Worldspace UIs</a>. Create a text canvas by going to <code class="highlighter-rouge">GameObject</code> → <code class="highlighter-rouge">UI</code> → <code class="highlighter-rouge">Text</code>. This will create a Unity Canvas, and some text on that canvas as a child of the canvas. It may also happen to be massive. Not what we want.</p>
+
+<p>To remedy this, select the canvas (not the text) from the hierarchy view. Its inspector should look like this:</p>
+
+<p><img src="/img/assignments/mp1/image2.png" alt="Canvas Inspector" /></p>
+
+<p>The first thing to do is change the Render mode from <code class="highlighter-rouge">Screen Space - Overlay</code>, to <code class="highlighter-rouge">World Space</code>. This changes our canvas from a UI element that is glued to the camera, to an object that is stationary in the world. Traditional UIs do not work well in VR, and we highly, highly advise against sticking any UI elements to the camera in your future MPs and Projects. Always attach UI elements to something in the world (See <a href="https://developer.oculus.com/design/latest/concepts/bp-vision/">this</a>).</p>
+
+<p>Now that the canvas is a world space object, we can make it a more reasonable size. However, since the “Rect Transform”’s width and height determine the resolution of our text canvas, we cannot set them to be, say, <script type="math/tex">5 \times 5</script>, because then our text resolution would be 5 pixels by 5 pixels. Set the width and height to 1000 (that is <script type="math/tex">1000 \times 1000</script> pixels). Shrink the canvas by setting the scale. We want our canvas to be 10 units by 10 units, and be <script type="math/tex">1000 \times 1000</script> pixels, so our scaling is <script type="math/tex">\frac{10}{1000} = 0.01</script>. Make sure your text’s Rect Transform has the same width and height as its parent canvas, but leave the scale as 1. Place your canvas against one of the walls. You want to place your text ever so slightly (like, 0.001) in front of the wall it is against to avoid Z-fighting (which is where two objects have the same depth, and Unity can’t figure out which one to render). Below is an example of Z-fighting-</p>
+
+<p><img src="/img/assignments/mp1/image24.png" alt="Z-fighting" /></p>
+
+<p>Now, you can set your text color, size, font, width, whether it wraps or overflows, etc. Make your text have you and your partner’s NetIDs, as well as the controls for your game. Make sure it is big enough for us to read. If the text appears blurry or jagged, then increase the width and height of the canvas and text (to increase the resolution), and scale them down further.</p>
+
+<hr />
+
+<h4 id="scripting">Scripting</h4>
+
+<p>You will need to write a couple of scripts for this part of the MP. Read up on <a href="https://docs.unity3d.com/Manual/CreatingAndUsingScripts.html">Scripts</a> in Unity, and familiarize yourself with C# syntax. It should be very familiar to any of you who have worked with Java. If you are unfamiliar with programming, you can check out this <a href="https://www.tutorialspoint.com/csharp/">C# tutorial</a>. You’ll only need the basics of objects, classes, and variables for now. Throughout this course, you will find the <a href="https://docs.unity3d.com/ScriptReference/">Scripting API Reference</a> a useful source of information.</p>
+
+<ol>
+  <li>
+    <p><strong>Light Switch:</strong> <em>Pressing the Tab key should change the color of the point light in the room. Pressing it repeatedly should change the color each time, i.e. have it be a toggle or a switch between a series of colors. Make sure that the color change is large enough so it is immediately apparent!</em><br />
+Create a new script, called “Lightswitch”, and attach it to your point light. You can attach a script by selecting the light, then dragging the script from the “Assets” tab to the inspector tab on the right. When a Unity Script is attached to a GameObject, that script will run when the game is started. Furthermore, the <code class="highlighter-rouge">this</code> reference in the script will refer to the object that the script is attached to.<br />
+Our first step is to get the light component of our point light GameObject. Read the <a href="https://docs.unity3d.com/Manual/ControllingGameObjectsComponents.html">Controlling GameObjects using GetComponent</a> tutorial, then add these lines to your script-<br />
+<img src="/img/assignments/mp1/image9.png" alt="Inititalize Light" /><br />
+This will get the light component of the object this script is attached to (calling <code class="highlighter-rouge">GetComponent&lt;&gt;()</code> is the same as calling <code class="highlighter-rouge">this.GetComponent&lt;&gt;()</code>), and set it to the <code class="highlighter-rouge">light</code> variable when we boot up the game. To register input, we use the <a href="https://docs.unity3d.com/ScriptReference/Input.html">Input</a> library of Unity, specifically, the <code class="highlighter-rouge">Input.GetKeyDown</code> method. This will return true when the specified key is first pressed down. Since we want to listen for the <code class="highlighter-rouge">tab</code> key, then in our <code class="highlighter-rouge">Update</code> function, we write-<br />
+<img src="/img/assignments/mp1/image14.png" alt="Get Tab Key Down" /><br />
+Setting the light color is easy, you can either create a new color using the “new Color(red,green,blue)” constructor, or one of the predefined colors. How you change the light is up to you, but the light should visibly change every time we press tab. Maybe you use a boolean variable to track the current color, or an integer (for more than two colors). That is up to you.</p>
+  </li>
+  <li>
+    <p><strong>Orbit:</strong> <em>The moon should orbit the planet sphere. The easiest way to do this is to have the planet constantly rotate. Since the moon is a child of the planet, it will also rotate around the planet.</em><br />
+GameObjects’ rotation and position are controlled by their <a href="https://docs.unity3d.com/ScriptReference/Transform.html">transform</a> parameter, accessed with <code class="highlighter-rouge">&lt;GameObjectName&gt;.transform</code>. This class is well worth looking through, though the most important parts for this class are the <code class="highlighter-rouge">transform.position</code>, which is the 3 vector of the object’s x, y, and z coordinates in the global frame (as opposed to the local frame, which is relative to this object’s parent’s position), and the <code class="highlighter-rouge">Rotate</code> method.<br />
+Most of Unity rotations are done using something called quaternions, which are better than the standard way of measuring rotation (the rotation about the x,y,and z axis). You will learn about quaternions, and why they are awesome, in class later. For now, simply know that the <code class="highlighter-rouge">transform.Rotate(Vector3(a,b,c))</code> will rotate you <code class="highlighter-rouge">a</code> degrees about the object’s x axis, <code class="highlighter-rouge">b</code> degrees about the y, and <code class="highlighter-rouge">c</code> degrees about the z.<br />
+Create a script, called “orbit”, and attach it to the parent sphere. In its update method, add this line-<br />
+<img src="/img/assignments/mp1/image21.png" alt="transform.Rotate" /><br />
+This will rotate the parent sphere by 2 degrees about the y axis every frame.</p>
+  </li>
+  <li>
+    <p><strong>Room Switch:</strong> <em>Pressing the ‘2’ key should switch to the MP1.1.2!</em><br />
+Create the “room switch” script, and attach it to the player. Simply use <code class="highlighter-rouge">Input.GetKeyDown("2")</code>, and set the player’s <code class="highlighter-rouge">transform.position</code> to the Vector3 corresponding to the center of your room for MP 1.1.2 (wherever you end up putting it). Don’t forget, the player controller needs to be 1 unit above the ground (since the coordinates for the player refer to its center, and the player is 2 units tall).</p>
+  </li>
+  <li>
+    <p><strong>Quit key:</strong> <em>Pressing ‘Esc’ should exit the game.</em><br />
+This can be simply added on to the “room switch” script. You will want to add the following lines to the update method-<br />
+<img src="/img/assignments/mp1/image19.png" alt="Exit game" /><br />
+<code class="highlighter-rouge">Application.Quit()</code> quits a Unity application, but it will not stop a game running in editor. So, we check if we are in editor, and stop the editor if we are.</p>
+  </li>
+</ol>
+
+<hr />
+
+<h3 id="112">1.1.2</h3>
+
+<p><strong>In 1.1.2 you will be working in the same scene as 1.1.1, but with <em>fewer instructions</em>.</strong></p>
+
+<p>You are expected to <a href="http://lmgtfy.com/?q=google">Google</a> the specifics – <a href="https://unity3d.com/learn/tutorials">Unity has a great tutorial on practically everything</a> you will need for this MP, and the <a href="https://forum.unity.com/">Unity Forum</a> also provides high-quality answers for debugging advice.</p>
+
+<p><img src="/img/assignments/mp1/image17.jpg" alt="Hi doggy!" /></p>
+
+<p><strong>The Room 2:</strong> Hi doggy!</p>
+
+<p>Create a new room, at least 50 units away from the first room. Inside the MP1 zip file, we’ve provided you with a package of a wall that contains a door. Your new room will use this object as one of the walls. The floor plan of the room will be a hexagon (meaning there will be six walls), and the ceiling will be slanted (not parallel to the floor). It is ok if the walls pass through each other (or through the floor), provided the final room is fully enclosed, and looks good from the inside. Use Unity cubes this time, so that the directional light is blocked. You can make the cubes very thin, so that they are like the planes you used before (except, of course, being solid on all sides). Add a point light in your room, as we will need to clearly see all of the features of the room.</p>
+
+<p>To import the package, unzip the MP1 zip folder,then go to <code class="highlighter-rouge">Assets</code>→<code class="highlighter-rouge">Import package</code>→<code class="highlighter-rouge">Custom package</code>, navigate to your unzipped MP1 folder, and import the <code class="highlighter-rouge">.unitypackage</code> file.</p>
+
+<p><em>Note</em> - The door object does not currently have a collider, so you can walk right through it. You can add a collider by clicking <code class="highlighter-rouge">Add Component</code> in the inspector window, then going to <code class="highlighter-rouge">Physics</code> -&gt; <code class="highlighter-rouge">Box Collider</code> (or <code class="highlighter-rouge">Mesh Collider</code>).</p>
+
+<hr />
+
+<h4 id="material">Material</h4>
+
+<p><em>Read up on <a href="https://docs.unity3d.com/Manual/Shaders.html">Materials, Shaders and Textures</a>, focusing mainly on the Materials, for now. We have provided you with an image (<code class="highlighter-rouge">tile.png</code>), and a normal map (it’s the weird purplish image <code class="highlighter-rouge">tile-normal.png</code>). Create a material with these images, and put it on one wall. Change the tiling, and put it on 2 different walls. Finally, change the metallicity, and put it on the remaining 2 walls. Make a simple colored material for the ceiling and floor, and apply it. Make sure each face is distinct enough that it is clearly visible to the grader. If that means you have to make the room look a little bit ridiculous, then go for it.</em></p>
+
+<p>To create a material, go to <code class="highlighter-rouge">Assets</code> → <code class="highlighter-rouge">Create</code> → <code class="highlighter-rouge">Material</code>.</p>
+
+<p><img src="/img/assignments/mp1/image25.png" alt="Create a Material" /></p>
+
+<p>This will generate a default material. Name it <code class="highlighter-rouge">Wall 1</code>. Select it, and you should see the following menu -</p>
+
+<p><img src="/img/assignments/mp1/image18.png" alt="Materials Menu" /></p>
+
+<p>Drag the <code class="highlighter-rouge">tile.png</code> image to the box labeled “Albedo”. Now, drag this material from the assets folder onto one of your walls (except the wall with the door) in the Scene view. It probably doesn’t look too good. Don’t worry, it’ll get better.
+Drag the <code class="highlighter-rouge">tile-normal.png</code> image to the box labeled “Normal Map”. Notice how it changes the perceived material of of the material. A normal map is a trick used to give the illusion of depth on a flat surface, by telling the engine to reflect light as if there were these little bumps and pits in the material.
+Create a new material, called <code class="highlighter-rouge">Wall 2</code>, and apply the albedo and normal maps the same as Wall 1. Apply it to another two walls (again, except the wall with the door). Right above the “Secondary Maps” subheading is the “Tiling” option, which has an option for <code class="highlighter-rouge">x</code> and <code class="highlighter-rouge">y</code>. Tiling causes a material to repeat itself on the same object, rather than covering the whole thing. So, changing tiling <code class="highlighter-rouge">x</code> to 2, means that the material will repeat once (that is, show up twice) in the x direction on the wall. Play with the tiling until you like the look of it. Below is an example of non tiled and tiled walls side by side -</p>
+
+<p><img src="/img/assignments/mp1/image1.png" alt="Tiling" /></p>
+
+<p>Create a new material, called <code class="highlighter-rouge">Wall 3</code> with the same albedo and normal map. Change its tiling to be different from walls 1 and 2. Right below the albedo option is a slider for metallic, and a slider for smoothness. Play around with these, and see how they affect the material. Both deal with how light reflects off the material, metallic giving a more metallic look, and smoothness helping to enhance or subdue the normal map. Paste this material on the remaining two walls.
+Finally, create a material, called <code class="highlighter-rouge">Floor</code>, that has no albedo or normal map. Next to the albedo option is a small color box. This shows what color the material will reflect. When the material has no albedo, the material will be this flat reflection color. Try and see what happens when you change the color of a material with an albedo. Apply this flat color onto the floor and ceiling of your room.</p>
+
+<hr />
+
+<h4 id="scripting-1">Scripting</h4>
+
+<p>You will be creating some scripts for this room as well.</p>
+
+<ol>
+  <li>
+    <p><strong>Room Switch:</strong> <em>Extend your room switch script so that pressing 1 moves you back to 1.1.1.</em><br />
+This is essentially the same as the movement script from MP 1.1.1. Extend the same “room switch” script again, and make it return you to the center of your first room.</p>
+  </li>
+  <li>
+    <p><strong>Trigger Zone:</strong> <em>Create a box collider, and make it a trigger. Place a sphere above the trigger zone. Make a script so that when the player enters the trigger zone, the ball falls.</em><br />
+To create the Trigger Zone script, first, watch the Unity Tutorials on <a href="https://unity3d.com/learn/tutorials/topics/physics/colliders">Colliders</a> and <a href="https://unity3d.com/learn/tutorials/topics/physics/colliders-triggers">Triggers</a>. Next, create a new empty <code class="highlighter-rouge">GameObject</code>. Next, hit <code class="highlighter-rouge">Add Component</code> → <code class="highlighter-rouge">Physics</code> → <code class="highlighter-rouge">Box Collider</code>. A Box Collider is (as the name would suggest) a box-shaped area that registers and reacts with collisions with other GameObjects. Make the box collider <script type="math/tex">2 \times 0.5 \times 2\ (x \times y \times z)</script> units. Select the “is trigger” option. Your object should look like this -<br />
+<img src="/img/assignments/mp1/image10.png" alt="Empty Collider" /><br />
+It should show up in the scene view as a green wireframe box. Place this game object in the back of your hexagonal room, across from the door, and create a sphere about 3-4 units directly above the center of the trigger GameObject.
+Add a script to your trigger object by clicking <code class="highlighter-rouge">Add Component</code> → <code class="highlighter-rouge">New Script</code>, and name it <code class="highlighter-rouge">BallDropScript</code>. Open the script, and create the following lines -<br />
+<img src="/img/assignments/mp1/image11.png" alt="Ball Drop Script" /><br />
+The <code class="highlighter-rouge">OnTriggerEnter</code> function will be called when the collider attached to our empty GameObject is entered. The <code class="highlighter-rouge">other</code> parameter is the collider that intersected this collider.<br />
+The <code class="highlighter-rouge">public GameObject</code> tag shows a neat feature of unity. Save your script, then navigate to your empty trigger GameObject. In the inspector, the  script component should look like this -<br />
+<img src="/img/assignments/mp1/image8.png" alt="Script in Inspector" /><br />
+So our public GameObject is now a field for the script component in Unity. Drag the sphere into this field. Now, whenever you reference the <code class="highlighter-rouge">ball</code> variable in your script, it will be referencing the sphere you dragged in. Pretty neat! You can read more about this in the <a href="https://docs.unity3d.com/Manual/VariablesAndTheInspector.html">Variables and the Inspector tutorial</a>.<br />
+Now, all that’s left is to make that sphere fall. You’ll need to get the rigid body of the sphere (rigid bodies deal with physics, read more here), using the <code class="highlighter-rouge">ball.GetComponent&lt;Rigidbody&gt;()</code> method. After that, simply set <code class="highlighter-rouge">rigidBody.useGravity</code> to <code class="highlighter-rouge">true</code>.</p>
+  </li>
+</ol>
+
+<hr />
+
+<h4 id="store-assets">Store Assets</h4>
+
+<p><em>Import at least one free asset from the <a href="https://www.assetstore.unity3d.com/">Unity Store</a>. Place it in the room. You will need a free Unity account for this.</em></p>
+
+<p><a href="https://id.unity.com/account/new">Create a Unity account</a>, then head over to the “Asset Store” tab, right next to the “Scene” and “Game” tabs -</p>
+
+<p><img src="/img/assignments/mp1/image26.png" alt="Asset Store Tab" /></p>
+
+<p>Sign into your Unity account using the “Log In” button at the upper right. Now, you can search for any free asset you desire, and put it in your room. Make sure it doesn’t intersect with your collider, or it will trigger the collider. It can be whatever you want (provided it’s school-appropriate, of course).</p>
+
+<hr />
+
+<h3 id="submit">Submit</h3>
+<p><em>Submit your unity project <strong>according to the <a href="#submission-instructions">submission instructions</a> at the bottom of this assignment.</strong></em></p>
+
+<hr />
+
+<h2 id="mp-12">MP 1.2</h2>
+
+<p>Create a new Unity project, called <code class="highlighter-rouge">CS498MP1_2</code>. <strong>Do not work in your MP 1.1 project.</strong><br />
+In this part, you will create a simple game with minimal hand-holding, as compared to MP 1.1. You are expected to look up how to do the tasks required of you, using the resources linked in 1.1.2.</p>
+
+<hr />
+
+<h3 id="121">1.2.1</h3>
+
+<p><img src="/img/assignments/mp1/image12.jpg" alt="Tearing me apart" /></p>
+
+<p><strong>The Room 3:</strong> You’re tearing me apart, Lisa!</p>
+
+<p><em>Create a more interesting room, with a window! The shape and size is all up to you, it should be large enough to comfortably accommodate all of the following requirements within it. The walls should be colored or textured, as well. The choice of wall color and texture is up to you (but keep it grandmother appropriate).</em></p>
+
+<p>For 20 points of extra credit, use a 3D modelling tool to create more complicated room geometry, like a curved roof, slanted windows, multiple levels, et cetera. Note in a README what you created. Some software options are-</p>
+<ul>
+  <li>Blender <a href="https://www.blender.org/">(link)</a>: Extremely powerful, but complicated</li>
+  <li>Google Sketchup <a href="https://www.sketchup.com/">(link)</a>: Simple, but somewhat limited</li>
+  <li>Probuilder <a href="https://assetstore.unity.com/packages/tools/modeling/probuilder-111418">(link)</a>: Most limited of the three, but is integrated directly into Unity.</li>
+</ul>
+
+<p>The default Unity modelling tools are extremely limited, so we highly recommend you familiarize yourself with one of the above tools. It will assist greatly in your final project. To get the extra credit, you must do a nontrivial amount of extra work with your modelling tool. That is, it should look like it took you more than 15 minutes to do.</p>
+
+<hr />
+
+<h4 id="skybox">Skybox</h4>
+
+<p>We have provided you with six images in <code class="highlighter-rouge">skybox.zip</code> that together, form a skybox. You are going to create a skybox with these images, and apply it to your scene. <a href="https://docs.unity3d.com/Manual/HOWTO-UseSkybox.html">Here is the Unity manual page for skyboxes</a>. Skybox asset credit: <a href="https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:9104">mgsvevo</a></p>
+
+<hr />
+
+<h4 id="directional-light">Directional Light</h4>
+
+<p>Create a directional light for the scene, set it to have hard shadows. Set its angle to match the sun in the skybox.</p>
+
+<hr />
+
+<h4 id="scripting---trigger-game">Scripting - Trigger Game</h4>
+
+<p>You are going to make a game similar to a cat chasing a laser pointer (where you’re the cat). In this room, you are going to place several box colliders (at least 4), and mark them as triggers. Place a point light at the center of each box collider. Every 3 seconds, one of these point lights should light up. The player should then move to the lit up point light, and press “A” on the controller (the <a href="https://docs.unity3d.com/ScriptReference/Collider.OnTriggerEnter.html">OnTriggerEnter</a> and <a href="https://docs.unity3d.com/ScriptReference/Collider.OnTriggerExit.html">OnTriggerExit</a> methods should be helpful here). When the player does so, they will get one point, and another light should light up at random (bypassing the normal 3 second timer). The player’s score should be displayed on the wall, in sharp (NOT blurry) text. We should be able to quit at any time upon pressing the Start button on the controller.</p>
+
+<p>Using a controller in Unity is not quite as simple as using the keyboard. Unfortunately, because you can’t see the keyboard in VR, and all of the keys largely feel the same, keyboards do not work well in VR. Controllers, with their contours and designated button shapes, are much easier to use blind.</p>
+<ul>
+  <li><a href="https://docs.unity3d.com/Manual/ConventionalGameInput.html">Unity Manual page on Input</a></li>
+  <li><a href="http://wiki.unity3d.com/index.php?title=Xbox360Controller">Unity wiki page on Xbox controllers</a></li>
+  <li><a href="https://blogs.msdn.microsoft.com/uk_faculty_connection/2014/12/02/adding-xbox-controller-support-and-input-to-your-unity3d-game/">Additionally, a Microsoft Blog page on Xbox controller input in Unity</a> - (note: the controller drivers are already installed)</li>
+  <li><a href="https://docs.unity3d.com/Manual/TimeFrameManagement.html">Unity Manual page on Time and Frame Management</a></li>
+</ul>
+
+<p>A very useful variable here is Unity’s <a href="https://docs.unity3d.com/ScriptReference/Time-deltaTime.html"><code class="highlighter-rouge">Time.deltaTime</code></a>. This variable, when used inside the <code class="highlighter-rouge">Update</code> method, will tell you how many real-time seconds have elapsed since the last frame. This is hugely important, as you do not want to tie game logic to your framerate.</p>
+
+<hr />
+
+<h3 id="122">1.2.2</h3>
+
+<h4 id="vr-experiences">VR Experiences</h4>
+
+<p>Your final task is to choose and try out four (4) of the VR demos available through the Oculus or Steam store, or from the VR shared <code class="highlighter-rouge">V:</code> drive. You will have to create a Steam and/or Oculus account for this step. Oculus titles will need a TA to help install, while Steam will not. For each demo, write at least 3 sentences with a short description of the demo, something you liked, and something you did not like. One experience must be a student experience, and one must be an Oculus/Steam experience. You can find oculus games at <a href="https://share.oculus.com/">https://share.oculus.com/</a> or on Steam at <a href="http://store.steampowered.com/search/?vrsupport=102">http://store.steampowered.com/search/?vrsupport=102</a>. Please put your names, netIDs, and reviews in a PDF named <code class="highlighter-rouge">HW1DemoWriteUp.pdf</code>. Hint: some TAs have access to some paid experiences, which will be fun to try out.</p>
+
+<hr />
+
+<h3 id="submit-1">Submit</h3>
+<p><em>Submit your unity project <strong>according to the <a href="#submission-instructions">submission instructions</a> at the bottom of this assignment.</strong></em></p>
+
+</div>
+
+
+	<hr>
+	<h2>Submission Instructions</h2>
+	
+	<h3 id="step-1-create-a-unity-package-file">Step 1: Create a Unity package file</h3>
+
+<ol>
+  <li>Save your Unity scene in the Assets folder with a descriptive title.</li>
+  <li>Using the editor, find the created scene in the Project menu</li>
+  <li>Right click on the scene and select “Export Package…”</li>
+  <li>Export the file using default settings. Make sure that “Include dependencies” is enabled.</li>
+  <li>This will create a <code class="highlighter-rouge">.unitypackage</code> file. We may use this during grading if your executable does not work, so make sure you also submit the data folder.</li>
+</ol>
+
+<h3 id="step-2-create-a-standalone-build">Step 2: Create a standalone build</h3>
+
+<ol>
+  <li>Save the project to <code class="highlighter-rouge">C:\Users\&lt;your netid&gt;\&lt;project name&gt;</code> temporarily, rather than the EWS <code class="highlighter-rouge">U:</code> drive. Local storage is faster when building.</li>
+  <li>Go to <em>Edit → Project Settings → Player</em>. Make sure the “Virtual Reality Supported” box under XR Settings is checked.</li>
+  <li>Go to <em>File → Build Settings</em>.</li>
+  <li>Open the scene with your work for the MP.</li>
+  <li>Click “Add Open Scenes”. You must have saved the scene to the assets folder for this to work.</li>
+  <li>Click “Build”.</li>
+  <li>This will create an executable (<code class="highlighter-rouge">.exe</code>) for running the build, a folder containing your scene data, a “Mono” folder, and <code class="highlighter-rouge">UnityPlayer.dll</code>.</li>
+</ol>
+
+<h3 id="step-3-copy-the-input-manager-file">Step 3: Copy the Input Manager file</h3>
+
+<ol>
+  <li>Shut down your project.</li>
+  <li>In your project folder, navigate to the <code class="highlighter-rouge">ProjectSettings</code> subfolder.</li>
+  <li>Find the <code class="highlighter-rouge">InputManager.asset</code> file, and copy it to your submission folder. This will allow us to
+replicate any new gamepad buttons or joysticks you mapped.</li>
+</ol>
+
+<h3 id="step-4-zip-the-files-and-submit-through-compass">Step 4: Zip the files and submit through Compass</h3>
+
+<ol>
+  <li>Create a zip file containing the following items:
+    <ul>
+      <li>The <code class="highlighter-rouge">.unitypackage</code> created in Step 1</li>
+      <li>The <code class="highlighter-rouge">.exe</code>, <code class="highlighter-rouge">.dll</code>, <code class="highlighter-rouge">Mono</code>, AND <strong>DATA FOLDER</strong> created in Step 2</li>
+      <li>The <code class="highlighter-rouge">InputManager.asset</code> file found in Step 3</li>
+      <li>A <code class="highlighter-rouge">README.txt</code> file containing any special instructions or notes you think are relevant for evaluating your assignment.</li>
+      <li>If applicable, your writeup PDF.</li>
+    </ul>
+  </li>
+  <li><strong>Make sure the executable in your submission folder runs correctly on the Rift before submitting.</strong></li>
+  <li>Name the file by separating NetIDs with underscores- <code class="highlighter-rouge">_cs498vr_MP#_part#.zip</code>.
+EXAMPLE: If <code class="highlighter-rouge">steve1</code> and <code class="highlighter-rouge">anna2</code> worked together, the file for MP 1.1 should be called
+<code class="highlighter-rouge">steve1_anna2_cs498vr_MP1_1.zip</code>.</li>
+  <li>Only one partner should submit the zip.</li>
+</ol>
+
+<h3 id="do-not-submit-your-entire-project-folder">DO NOT SUBMIT YOUR ENTIRE PROJECT FOLDER</h3>
+
+
+
+
+	<hr>
+	<table id="rubric">
+	<thead><tr>
+		<th>Name</th>
+		<th>Points</th>
+		<th>Description</th>
+	</tr></thead>
+	
+	<tbody>
+	
+	<tr>
+		<td>
+			1.1.1
+		</td>
+		<td>
+			
+			
+		</td>
+		<td>
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Room
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			15x15 room made from 6 planes, with OVRPlayerController
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Light
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Bright point light in center of room ceiling
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Planet and moon
+		</td>
+		<td>
+			10
+			
+		</td>
+		<td>
+			Planet and rotating moon in center of room
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Text
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Text displays NetIDs and controls
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Light Switch
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Light changes color every time tab key is pressed
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Room Switch
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Pressing “2” moves on to 1.1.2
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Quit
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Pressing “Esc” quits the game
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			1.1.2
+		</td>
+		<td>
+			
+			
+		</td>
+		<td>
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Room Switch
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Pressing “1” moves back to 1.1.1
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Room
+		</td>
+		<td>
+			10
+			
+		</td>
+		<td>
+			Room is Hexagonal, with slanted roof and prefab door. Roof and ceiling have flat, colored texture.
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Material 1
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Created material with albedo and normal map, placed on wall
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Material 2- tiling
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			2 walls have altered tiling
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Material 3- smoothness/metallicity
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			2 walls have altered smoothness and/or mentallicity
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Trigger zone
+		</td>
+		<td>
+			10
+			
+		</td>
+		<td>
+			When walking beneath floating ball, it falls to the floor
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			1.2.1
+		</td>
+		<td>
+			
+			
+		</td>
+		<td>
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Room
+		</td>
+		<td>
+			10
+			
+		</td>
+		<td>
+			Built a room, with a window, and colored/textured walls.
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Skybox
+		</td>
+		<td>
+			10
+			
+		</td>
+		<td>
+			Custom Skybox in sky
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Directional Light
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Has directional light, which matches skybox
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Trigger Zone Lights
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Has at least 4 trigger zones with lights
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Random Trigger Zone
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Active trigger zone is random
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Xbox Controls
+		</td>
+		<td>
+			25
+			
+		</td>
+		<td>
+			Can press “A” on controller to get points when in lit trigger zone, “start” to quit
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Score Display
+		</td>
+		<td>
+			15
+			
+		</td>
+		<td>
+			Score is tracked and displayed clearly on wall
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Trigger Zone Timer
+		</td>
+		<td>
+			25
+			
+		</td>
+		<td>
+			Every 3 seconds, active trigger zone changes
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Extra Credit
+		</td>
+		<td>
+			20
+			
+		</td>
+		<td>
+			Built nontrivial room geometry with blender, sketchup, or probuilder
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			1.2.2
+		</td>
+		<td>
+			
+			
+		</td>
+		<td>
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Experience 1
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Likes and dislikes for an Oculus/Steam experience
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Experience 2
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Likes and dislikes for a student experience
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Experience 3
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Likes and dislikes for any experience
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			Experience 4
+		</td>
+		<td>
+			5
+			
+		</td>
+		<td>
+			Likes and dislikes for any experience
+		</td>
+	</tr>
+	
+	</tbody>
+	
+	<tfoot style='background-color:#ddd;'>
+	<tr>
+		<td>Total</td>
+		<td>220</td>
+		<td></td>
+	</tr>
+	</tfoot>
+	
+	</table>
+	
+	
+	
+		<p>The given total number of points (200) does not match the summed total of points from the rubric.</p>
+	
+
+
+  </div>
+
+</article>
+
+      </div>
+    </main><div class="fool-modal-wrapper">
+      
+	<div class="fool-modal">
+	  <a class="closebtn">&times;</a>
+	  <svg version="1.1" class="stadium" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	  viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+		<path class="st0" d="M1120.6,443.3c-14.6-11.7-31.3-19.8-49.4-24.1c-10.4-2.5-20.8-3.6-31.4-4c-7.9-0.3-15.8-0.2-23.7-0.2
+		c-37.4,0-74.8,0-112.2,0c-7.9,0-15.8-0.1-23.7,0.2c-10.7,0.3-21.1,1.5-31.5,4c-18.2,4.4-34.8,12.5-49.4,24.2
+		C770.1,466.9,753,502.4,753,540c0,37.6,17.1,73.1,46.4,96.7c14.6,11.7,31.3,19.8,49.4,24.2c10.4,2.5,20.8,3.6,31.4,4
+		c7.9,0.3,15.8,0.2,23.7,0.2c37.4,0,74.8,0,112.2,0c7.9,0,15.8,0.1,23.7-0.2c10.7-0.3,21.1-1.5,31.5-4c18.2-4.4,34.8-12.5,49.4-24.2
+		c29.3-23.5,46.4-59.1,46.4-96.7C1167,502.4,1149.9,466.9,1120.6,443.3z M1065.8,573.6c-5.5,3.8-11.7,6.3-18.2,7.3
+		c-6.6,1.1-13.1,1-19.7,1c-45.3,0-90.5,0-135.8,0c-6.6,0-13.1,0-19.7-1c-6.6-1.1-12.7-3.5-18.2-7.3c-11.1-7.6-17.7-20.2-17.7-33.7
+		c0-13.5,6.7-26,17.7-33.6c5.5-3.8,11.7-6.3,18.2-7.3c6.6-1.1,13.1-1,19.7-1c45.3,0,90.5,0,135.8,0c6.6,0,13.1,0,19.7,1
+		c6.6,1.1,12.7,3.5,18.2,7.3c11.1,7.6,17.7,20.2,17.7,33.7C1083.6,553.5,1076.9,566,1065.8,573.6z"/>
+	  </svg>
+	  <div class="spinner"></div>
+	  <div class="helptext"><a>Click here to close forever</a></div>
+	</div>
+  </div><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">CS 418 Interactive Computer Graphics</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        
+        
+        <p><a href="https://github.com/illinois-cs418/illinois-cs418.github.io/issues/new">Report an issue</a></p>
+        
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/shaffer1"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">shaffer1</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>© University of Illinois, 2019</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+<!-- local scripts -->
+    <script src="/assets/customer-scripts.js" type="text/javascript"></script>
+    <script src="/assets/szn.js" type= "text/javascript"></script>
+
+    <!-- anchors -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.js"></script>
+
+    <!-- collapsible sections -->
+
+<script src="/assets/collapse-sections.js" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+	// FIXME make it work if `sections` is an object and not an array 
+	
+		
+			sections('.mp-content', false);
+		
+	
+	</script>
+
+<!-- inline scripts -->
+    <script>anchors.add()</script>
+    
+  </body>
+
+</html>
