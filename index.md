@@ -46,10 +46,10 @@ We weight grades as follows:
 
 | | 3 credits | 4 credits |  
 | ----- | ------ | ----- |  
-| MP 1 | 15% | 20% | 
-| MP 2 | 15% | 20% | 
-| MP 3 | 15% | 20% | 
-| MP 4 | 10% | 20% | 
+| MP 1 | 15% | 10% | 
+| MP 2 | 15% | 10% | 
+| MP 3 | 15% | 10% | 
+| MP 4 | 10% | 10% | 
 | Midterm Exam 1 | 15% | 15% |  
 | Midterm Exam 2 | 15% | 15% |
 | Midterm Exam 3 | 15% | 15% | 
@@ -68,6 +68,8 @@ You can expect the cutoffs to be approximately as follows
 60 - 70: D
 Below 60: F
 
+## Extra Credit ##
+During 3 lectures during the semester we will work on a set of group problem-solving exercises. These dates will be announced a week before they occur. **Participation in each of these events is worth 1% extra credit towards your total course grade.** Also, you will learn things, so you should definitely attend.
 
 ## Textbooks ##
 
@@ -97,6 +99,3 @@ Click the header to join/view the forum. You do not need a passcode. If you want
 See the [schedule for office hours](/officehours).
 
 * Professor Eric Shaffer, Siebel 2209
-
-### Extra Credit ###
-During 3 lectures during the semester we will work on a set of group problem-solving exercises. These dates will be announced a week before they occur. **Participation in each of these events is worth 1% extra credit towards your total course grade.** Also, you will learn things, so you should definitely attend.
