@@ -21,15 +21,14 @@ We recommend the following courses and skills:
 - [CS 225](https://courses.engr.illinois.edu/cs225/){:target="_blank" rel="noopener"} - prior general programming experience
 - [Math 225](https://math.illinois.edu/resources/department-resources/syllabus-math-225){:target="_blank" rel="noopener"} or [Math 415](https://math.illinois.edu/resources/department-resources/syllabus-math-415){:target="_blank" rel="noopener"} - basic linear algebra, especially 3D transforms
 
-
-
 ## Lectures ##
 Lecture is held in 1404 Siebel Center on MWF 9-9:50am
 
 ## Assignments ##
-
-
 See the [Assignments page](/assignments) for more details.
+
+### 4 Credit Option ###
+If you are taking the course for 4 credits, you will complete an extra project which will
 
 
 ## Exams ##
@@ -50,11 +49,13 @@ We weight grades as follows:
 
 | | 3 credits | 4 credits |  
 | ----- | ------ | ----- |  
-| Assignments | 20% | 20% |  
-| Midterm Exam 1 | 12% | 12% |  
-| Midterm Exam 2 | 12% | 12% |
-| Midterm Exam 3 | 16% | 16% |
-| Final Project | 40% | 25% |  
+| MP 1 | 15% | 20% | 
+| MP 2 | 15% | 20% | 
+| MP 3 | 15% | 20% | 
+| MP 4 | 10% | 20% | 
+| Midterm Exam 1 | 15% | 15% |  
+| Midterm Exam 2 | 15% | 15% |
+| Midterm Exam 3 | 15% | 15% | 
 | 4th Credit Project | | 15% |  
 
 You can expect the cutoffs to be approximately as follows
