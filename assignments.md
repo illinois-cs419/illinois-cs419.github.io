@@ -4,18 +4,35 @@ permalink: /assignments
 title: Assignments
 ---
 
-## Lab Information ##
-The lab computers are Falcon Northwest PCs with dual 27-inch monitors, NVidia GeForce Titan Black or 1080 graphics cards, Windows 10, Visual Studio, and [standard EWS-provided software](https://it.engineering.illinois.edu/ews-windows-lab-software). Each computer has an Oculus Rift CV1 (donated by Oculus/Facebook), an XBox controller, and two Touch Controllers.
+## Development Environment Information ##
 
-If you choose to develop outside the lab, you should test and experience your work at least once on the lab computers, as we will also grade your work there.
+We will use HTML/JavaScript/WebGL and GLSL for the programming assignments. No prior knowledge of these is required for the class.
+Code examples in the course use WebGL 1.0. You are encouraged to use that version as well.
 
-Unfortunately, we have only 20 workstations and over 200 students. Therefore, you should start early on assignments and work in the lab during less popular times. Unless announced otherwise, the lab is available 24/7.
+You may develop using any environment you wish. You just need a editor or development environment in which to write the code and browser in which to test. Here are some useful resources:
 
-## Assignment Policies ##
++JavaScript: [Mozilla JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ 
++Suggested Editor: [Brackets](http://brackets.io/)
+ 
++Debugging Tools: [Chrome DevTools Overview](https://developers.google.com/web/tools/chrome-devtools/)
+ 
++Matrix/Vector Library for WebGL: [glmatrix](http://glmatrix.net/)
+ 
++WebGL Tutorial and API: [Mozilla WebGL Guide](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 
-- Read the submission instructions in each handout carefully!
-- You must work in pairs on all assignments. We recommend using Piazza to find a group.
-- We will accept assignments only up to two days late, with a 20% penalty.
+**All files, classes, methods and properties should be documented with JSDoc comments with the appropriate tags and types.
+Details can be found in the [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html#jsdoc).**
+
+**We will grade your assignments by running them using Google Chrome. Please test your code in Chrome before submitting to make sure it will run there.**
+
+### Late Work ###
+Machine problems submitted after the due date lose 10% of the total assignment value per day. In exceptional circumstances where extension may be reasonable (illness, family emergency etc.) arrangement must be made with the instructor.
+
+### Collaboration ###
+You should collaborate on the MPs during the design process...you absolutely can figure out how to implement things together. If you work on MPs together, document your collaborators in the author comment in your submitted code.
+
+You should type the code in yourself. You should not copy code verbatim from each other or the web. You can reuse code from the course website. Each MP has a creative component and we expect that your MP will look noticeably different than other submissions. The penalty for egregious plagiarism will be a 0 on the assignment. 
 
 ## Regrade Requests ##
 To submit a regrade request:
@@ -27,14 +44,8 @@ To submit a regrade request:
 For MPs:
 
 - The course staff will regrade MPs.
-- Include NetIDs for both you **and your partner**.
 - Major issues (e.g. a submission issue resulted in a zero) have priority over minor issues (e.g. lost points on one small feature of the MP).
 - We may not regrade your work until after all MPs have finished.
-
-For exams:
-
-- The course instructor will regrade exams.
-- Include a brief description of the question.
 
 ## Academic Integrity ##
 You should be familiar with the Student Code [definitions on academic integrity](http://studentcode.illinois.edu/article1_part4_1-401.html). We expect you to abide by them.
