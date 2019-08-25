@@ -20,7 +20,10 @@
   date: "Sep 4"
   materials: ""
   title: "[]()"
-
+- 
+  date: "Sep 6"
+  materials: ""
+  title: "[]()"
 - 
   date: "Sep 9"
   materials: ""
@@ -30,7 +33,10 @@
   date: "Sep 11"
   materials: ""
   title: ""
-
+- 
+  date: "Sep 13"
+  materials: ""
+  title: "[]()"
 - 
   date: "Sep 16"
   materials: ""
@@ -40,7 +46,10 @@
   date: "Sep 18"
   materials: ~
   title: ""
-
+- 
+  date: "Sep 20"
+  materials: ""
+  title: "[]()"
 - 
   date: "Sep 23"
   materials: ""
@@ -50,7 +59,11 @@
   date: "Sep 25"
   materials: ""
   title: "**No Lecture: Exam Week**"
-- 
+-
+  date: "Sep 27"
+  materials: ""
+  title: "[]()"
+-
   date: "Sep 30"
   materials: ""
   title: ""
@@ -58,6 +71,11 @@
   date: "Oct 2"
   materials: ""
   title: ""
+- 
+  date: "Oct 4"
+  materials: ""
+  title: "[]()"
+
 - 
   date: "Oct 7"
   materials: ""
@@ -67,7 +85,10 @@
   date: "Oct 9"
   materials: ""
   title: ""
-
+- 
+  date: "Sep 11"
+  materials: ""
+  title: "[]()"
 - 
   date: "Oct 14"
   materials: "" 
@@ -77,6 +98,10 @@
   materials: ""
   title: ""
 - 
+  date: "Oct 18"
+  materials: ""
+  title: "[]()"
+- 
   date: "Oct 21"
   materials: ""
   title: ""
@@ -85,7 +110,10 @@
   date: "Oct 23"
   materials: ""
   title: ""
-
+- 
+  date: "Oct 25"
+  materials: ""
+  title: "[]()"
 -
   date: "Oct 28"
   materials: ~
@@ -97,6 +125,10 @@
   title: "**No Lecture: Exam Week"
 
 - 
+  date: "Nov 1"
+  materials: ""
+  title: "[]()"
+- 
   date: "Nov 4"
   materials: ~
   title: ""
@@ -105,7 +137,10 @@
   date: "Nov 6"
   materials: ""
   title: ""
-
+- 
+  date: "Nov 8"
+  materials: ""
+  title: "[]()"
 - 
   date: "Nov 11"
   materials: ""
@@ -117,6 +152,10 @@
   title: ""
 
 - 
+  date: "Nov 15"
+  materials: ""
+  title: "[]()"
+- 
   date: "Nov 18"
   materials: ""
   title: ""
@@ -125,7 +164,10 @@
   date: "Nov 20"
   materials: ~
   title: ""
-
+- 
+  date: "Nov 22"
+  materials: ""
+  title: "[]()"
 - 
   date: "Nov 25"
   materials: ~
@@ -137,6 +179,10 @@
   title: "**No Lecture: Fall Break**"
 
 - 
+  date: "Nov 29"
+  materials: ""
+  title: "[]()"
+- 
   date: "Dec 2"
   materials: ""
   title: ""
@@ -145,7 +191,10 @@
   date: "Dec 4"
   materials: ""
   title: ""
-
+- 
+  date: "Dec 6"
+  materials: ""
+  title: "[]()"
 - 
   date: "Dec 9"
   materials: ~
