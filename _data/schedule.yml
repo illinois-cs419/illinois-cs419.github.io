@@ -1,13 +1,16 @@
 - 
   date: "Aug 26"
-  materials: "LaValle, Ch 1"
-  title: "[Defining VR, course overview, course project expectations](https://github.com/illinois-cs498vr/CourseMaterial/raw/master/Lectures/Lecture1-Introduction%20to%20VR.pdf)"
+  materials: ""
+  title: "[Introduction to Computer Graphics]()"
 
 - 
   date: "Aug 28"
-  materials: "LaValle, Ch 2.1, 2.2"
-  title: "[Design Processes: Basic Principles and Top Down Design Processes](https://github.com/illinois-cs498vr/CourseMaterial/raw/master/Lectures/CS%20498%20Jan%2014th%20through%20Jan%2028th.pptx)"
-
+  materials: ""
+  title: "[Introduction to WebGL]()"
+- 
+  date: "Aug 30"
+  materials: ""
+  title: "[Affine Transformations]()"
 - 
   date: "Sep 2"
   materials: ~
@@ -15,8 +18,8 @@
 
 - 
   date: "Sep 4"
-  materials: "LaValle, Ch 2.3"
-  title: "[3D Computer Graphics: Geometric Modeling](https://github.com/illinois-cs498vr/CourseMaterial/raw/master/Lectures/Lecture4.pptx)"
+  materials: ""
+  title: "[]()"
 
 - 
   date: "Sep 9"
