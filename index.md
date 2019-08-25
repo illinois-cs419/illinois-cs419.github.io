@@ -6,14 +6,21 @@ layout: page
 permalink: /
 ---
 
-![Zeld: Breath of the Wild](/img/Main-Day.jpg){:class="img-responsive" style="display:block; margin:auto"}
-
+![Zelda: Breath of the Wild](/img/Main-Day.jpg){:class="img-responsive" style="display:block; margin:auto"}
 
 ## Overview ##
 
+Interactive Computer Graphics is about the techniques and technologies used to generate synthetic digital imagery in real-time. The main focus of the course will be 3D photorealistic rendering and the current, practical rendering methods used in games and other applications.
 
-## Course Objectives ##
+The topics we will cover include:
++ Geoemetric modeling
++ Mathematics for animation and perspective rendering
++ Shading and programmable shaders
++ Rasterization
++ Physics simulation
++ Global illumination
 
+We will learn how to implement 3D web applications using WebGL and JavaScript. WebGL shares many of the same characteristics as Vulkan, Direct3D, and other popular low-level graphics APIs, so the skills you learn should be transferable.
 
 ## Prerequisites ##
 We recommend the following courses and skills:
@@ -23,6 +30,9 @@ We recommend the following courses and skills:
 
 ## Lectures ##
 Lecture is held in 1404 Siebel Center on MWF 9-9:50am
+
+## Discussion Sections ##
+We will not use discussion sections this semester...you only need to attend lecture.
 
 ## Assignments ##
 See the [Assignments page](/assignments) for more details.
@@ -53,7 +63,7 @@ We weight grades as follows:
 | Midterm Exam 1 | 15% | 15% |  
 | Midterm Exam 2 | 15% | 15% |
 | Midterm Exam 3 | 15% | 15% | 
-| 4th Credit Project | | 15% |  
+| 4 Credit Project | | 15% |  
 
 You can expect the cutoffs to be approximately as follows
 98 - 100: A+  
@@ -69,7 +79,7 @@ You can expect the cutoffs to be approximately as follows
 Below 60: F
 
 ## Extra Credit ##
-During 3 lectures during the semester we will work on a set of group problem-solving exercises. These dates will be announced a week before they occur. **Participation in each of these events is worth 1% extra credit towards your total course grade.** Also, you will learn things, so you should definitely attend.
+During 10 lectures during the semester we will work on a set of group problem-solving exercises. Each of these events is worth 0.5% extra credit towards your total course grade. **This is an opportunity to earn 5% extra credit in total**. Also, you will learn things, so you should definitely attend.
 
 ## Textbooks ##
 
