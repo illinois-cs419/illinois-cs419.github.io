@@ -40,7 +40,7 @@ See the [Assignments page](/assignments) for more details.
 ### 4 Credit Option ###
 If you are taking the course for 4 credits, you will complete an extra project which will consist be your choice of one of the following:
 + Implement a video game using [Unity](https://unity.com/) or [Unreal Engine](https://www.unrealengine.com/en-US/). 
-+ Implement an infomration visualization application using [D3.js](https://d3js.org/) or [VTK.js](https://blog.kitware.com/vtk-js-9-0-0-release-notes/).
++ Implement an information visualization application using [D3.js](https://d3js.org/) or [VTK.js](https://blog.kitware.com/vtk-js-9-0-0-release-notes/).
 + Complete a short research project that would could, but does not have to, be submitted as a poster and 2 page paper to a computer graphics conference. You can see some of the submissions to SIGGRAPH 2019 [here](https://s2019.siggraph.org/conference/programs-events/posters/). 
 
 You may work in teams of up to 4 people on the project. More information about how to propose the project will provided by week 3 of the semester.
