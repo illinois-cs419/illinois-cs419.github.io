@@ -108,7 +108,7 @@ A bit old now, but pretty easy to read with decent example code.
 ## [Piazza](piazza.com/illinois/fall2019/cs418/home) ##
 We will use Piazza for answering questions and administering the course.
 
-Click the header to join/view the forum. You do not need a passcode. If you want to use a non-`illinois.edu` email address on Piazza, then send an email from your `illinois.edu` mail account to the course instructor with the email address you want to use, and we will add you manually.
+Click the header to join/view the forum. You do not need a passcode.
 
 ## Course Staff ##
 See the [schedule for office hours](/officehours).
