@@ -26,11 +26,11 @@
 - 
   date: "Sep 6"
   materials: "[Worksheet 1](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet1.pdf)""
-  title: "Animation in WebGL"
+  title: "[Animation in WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture4-Animation.pptx)"
 - 
   date: "Sep 9"
   materials: "" 
-  title: "[In-Class Exercise 1: Animation]()"
+  title: "[In-Class Exercise 1: Animation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab1-2019.pptx)"
 
 - 
   date: "Sep 11"
@@ -38,7 +38,7 @@
   title: "[Geometric Modeling with Triangle Meshes]()"
 - 
   date: "Sep 13"
-  materials: "[Hierarchical Modeling]()"
+  materials: "[Hierarchical Modeling](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture5-Hierarchical%20Modeling.pptx)"
   title: ""
 - 
   date: "Sep 16"
@@ -65,15 +65,15 @@
 -
   date: "Sep 27"
   materials: ""
-  title: "[]()"
+  title: "[In-Class Exercise 3: Shading]()"
 -
   date: "Sep 30"
   materials: ""
-  title: "[Clipping]()"
+  title: "[More Shading]()"
 - 
   date: "Oct 2"
   materials: ""
-  title: ""
+  title: "[Clipping]()"
 - 
   date: "Oct 4"
   materials: ""
