@@ -25,38 +25,38 @@
   title: "[Affine Transformations](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture3-Transformations.pptx)"
 - 
   date: "Sep 6"
-  materials: ""
-  title: "In Class Exercise: Basic WebGL Programming"
+  materials: "[Worksheet 1](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet1.pdf)""
+  title: "Animation in WebGL"
 - 
   date: "Sep 9"
-  materials: "[Worksheet 1](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet1.pdf)" 
-  title: "Animation with WebGL"
+  materials: "" 
+  title: "[In-Class Exercise 1: Animation]()"
 
 - 
   date: "Sep 11"
-  materials: ""
-  title: "In-Class Exercise: Animation"
-- 
-  date: "Sep 13"
   materials: "Suggested Reading: [_Modeling with Polygon Meshes_, Chapter 2](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/ThirdParty/PolygonMeshProcessing-2.pdf)"
   title: "[Geometric Modeling with Triangle Meshes]()"
 - 
+  date: "Sep 13"
+  materials: "[Hierarchical Modeling]()"
+  title: ""
+- 
   date: "Sep 16"
   materials: ""
-  title: "[Hierarchical Modeling]()"
+  title: "[Setting up a View]()"
 
 - 
   date: "Sep 18"
   materials: ~
-  title: "[Setting up a View]()"
+  title: "[Projection Part 1]()"
 - 
   date: "Sep 20"
   materials: ""
-  title: "[Projection]()"
+  title: "[In-Class Exercise 2: Meshes]()"
 - 
   date: "Sep 23"
   materials: ""
-  title: ""
+  title: "[Projection Part 2]()"
 
 - 
   date: "Sep 25"
@@ -69,7 +69,7 @@
 -
   date: "Sep 30"
   materials: ""
-  title: ""
+  title: "[Clipping]()"
 - 
   date: "Oct 2"
   materials: ""
