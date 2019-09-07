@@ -1,4 +1,3 @@
-## Submission
 You will need to submit the following files in a *zip* archive via Compass:
 
 + mpN.html
