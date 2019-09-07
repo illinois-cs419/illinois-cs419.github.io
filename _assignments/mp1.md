@@ -14,7 +14,7 @@ rubric:
   -
     name: Commented
     points: 1
-    description: Code has comments for each function explaining what that function does, using the [Google JS commenting style](https://google.github.io/styleguide/jsguide.html#formatting-comments)
+    description: Each function in your code is commented in the required style.
   - 
     name: Affine Transformation
     points: 1
