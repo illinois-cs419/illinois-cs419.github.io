@@ -80,100 +80,97 @@
 - 
   date: "Oct 4"
   materials: ""
-  title: "[Texture Mapping]()"
-
-- 
+  title: "[In-Class Exercise: Fog and Flying]()"
+-
   date: "Oct 7"
   materials: ""
-  title: "[Texture Coordinate Generation]()"
+  title: "[Texture Mapping]()"
 
 - 
   date: "Oct 9"
   materials: ""
+  title: "[Texture Coordinate Generation]()"
+- 
+  date: "Oct 11"
+  materials: ""
   title: "[Texture Filtering]()"
 - 
-  date: "Sep 11"
-  materials: ""
-  title: "[Inside the Library: Clipping]()"
-- 
   date: "Oct 14"
-  materials: "" 
-  title: "[Inside the Library: Rasterization]()"
-- 
+  materials: ""
+  title: "[Environment Mapping]()"
+-
   date: "Oct 16"
   materials: ""
-  title: "[Color Representation]()"
-- 
+  title: "[In-Class Exercise: Cube Maps]()"
+-
   date: "Oct 18"
-  materials: ""
-  title: "[Compositing]()"
+  materials: ~
+  title: "[In-Class Exercise: Working with Meshes]()"
 - 
   date: "Oct 21"
   materials: ""
-  title: "[Normal Mapping]()"
-
+  title: "[Inside the Library: Clipping]()"
 - 
   date: "Oct 23"
-  materials: ""
-  title: "[Environment Mapping]()"
+  materials: "" 
+  title: "[Inside the Library: Rasterization]()"
 - 
   date: "Oct 25"
   materials: ""
+  title: "[Color Representation]()"
+- 
+  date: "Oct 28"
+  materials: ""
+  title: "[Compositing]()"
+- 
+  date: "Oct 30"
+  materials: ""
+  title: "[Normal Mapping]()"
+- 
+  date: "Nov 1"
+  materials: ""
   title: "[Shadow Mapping]()"
 -
-  date: "Oct 28"
+  date: "Nov 4"
   materials: ~
   title: "[Geometric Modeling: Bezier Curves]()"
 
 - 
-  date: "Oct 30"
+  date: "Nov 6"
   materials: ~
   title: "**No Lecture: Exam Week**"
 
 - 
-  date: "Nov 1"
+  date: "Nov 8"
   materials: ""
   title: "[Geometric Modeling: Bezier Surfaces]()"
 - 
-  date: "Nov 4"
+  date: "Nov 11"
   materials: ~
   title: "[Geometric Modeing: B-Splines]()"
 
 - 
-  date: "Nov 6"
+  date: "Nov 13"
   materials: ""
   title: "[Geometric Modeling: Paramtric Surfaces]()"
 - 
-  date: "Nov 8"
+  date: "Nov 15"
   materials: ""
   title: "[Geometric Modeing: Subdivision Surfaces]()"
 - 
-  date: "Nov 11"
-  materials: "[Geometric Modeling: Marching Cubes]()"
-  title: ""
+  date: "Nov 18"
+  materials: ""
+  title: "[Geometric Modeling: Marching Cubes]()"
 
 - 
-  date: "Nov 13"
+  date: "Nov 20"
   materials: ""
   title: "[Procedural Modeling: Iterated Function Systems]()"
 
 - 
-  date: "Nov 15"
-  materials: ""
-  title: "[Procedural Modeling: Texture Synthesis]()"
-- 
-  date: "Nov 18"
-  materials: ""
-  title: "[In-Class Exercise: Fog and Flying]()"
-
-- 
-  date: "Nov 20"
-  materials: ~
-  title: "[In-Class Exercise: Working with Meshes]()"
-- 
   date: "Nov 22"
   materials: ""
-  title: "[In-Class Exercise: Cube Maps]()"
+  title: "[Procedural Modeling: Texture Synthesis]()"
 - 
   date: "Nov 25"
   materials: ~
@@ -187,16 +184,16 @@
 - 
   date: "Nov 29"
   materials: ""
-  title: "[Ray Tracing]()"
+  title: "**No Lecture: Fall Break**"
 - 
   date: "Dec 2"
   materials: ""
-  title: "[Real Time Ray Tracing]()"
+  title: "[Ray Tracing]()"
 
 - 
   date: "Dec 4"
   materials: ""
-  title: "[Overview of Advanced Animation]()"
+  title: "[Real-Time Ray Tracing]()"
 - 
   date: "Dec 6"
   materials: ""
