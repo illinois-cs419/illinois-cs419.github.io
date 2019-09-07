@@ -63,19 +63,7 @@ Implement a second animation of your own design. It should still be simple, but 
 + It could be a mosaic in which the vertex positions don’t change but the colors of the pieces do.
 + It could be a stick figure jumping or walking It doesn’t have to be complex, but it should be your own. Do something creative. You should use an HTML radio button on the webpage to switch between the logo animation and your animation.
 
-## Submission
-You will need to submit the following file in a zip archive via Compass:
 
-+ mp1.html
-
-+ mp1.js
-
-All of your original code should be in those 2 files. You should also include any additional files you use. In particular you can use gl-matrix and the WebGL utilities used in the examples in class:
-
-Utility code: webgl-utils.js
-glMatrix library: gl-matrix-min.js
-
-Name your submission as  NETID_MP1.zip and submit it to Compass, where  NETID is your netid. This MP (as are the other MP's) is more than just an assignment for a grade to verify graphics programming proficiency. It is also an opportunity to impress me, your friends/family and your future employer or graduate school.
 
 
  	 
