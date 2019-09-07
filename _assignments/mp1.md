@@ -9,7 +9,7 @@ points: 10
 rubric:
   -
     name: Runs and renders
-    points: 2
+    points: 1
     description: Program runs without crashing and renders multiple frames.
   -
     name: Commented
@@ -21,11 +21,11 @@ rubric:
     description: Affine transformations used in the vertex shader
   - 
     name: Logo
-    points: 1
+    points: 2
     description: Logo model looks substantially like the provided image	and is a set of triangles.
   - 
     name: Change coordinates in buffer
-    points: 1
+    points: 2
     description: Non-uniform transformation implemented by changing coordinates in buffer	
   -
     name: Second animation
