@@ -51,7 +51,7 @@
 - 
   date: "Sep 18"
   materials: ~
-  title: "[Projection Part 1]()"
+  title: "[Projection]()"
 - 
   date: "Sep 20"
   materials: ""
@@ -59,7 +59,7 @@
 - 
   date: "Sep 23"
   materials: ""
-  title: "[Projection Part 2]()"
+  title: "[Procedural Geometric Modeling]()"
 
 - 
   date: "Sep 25"
@@ -76,54 +76,54 @@
 - 
   date: "Oct 2"
   materials: ""
-  title: "[Clipping]()"
+  title: "[Mathematics for Orientation]()"
 - 
   date: "Oct 4"
   materials: ""
-  title: "[]()"
+  title: "[Texture Mapping]()"
 
 - 
   date: "Oct 7"
   materials: ""
-  title: ""
+  title: "[Texture Coordinate Generation]()"
 
 - 
   date: "Oct 9"
   materials: ""
-  title: ""
+  title: "[Texture Filtering]()"
 - 
   date: "Sep 11"
   materials: ""
-  title: "[]()"
+  title: "[Inside the Library: Clipping]()"
 - 
   date: "Oct 14"
   materials: "" 
-  title: ""
+  title: "[Inside the Library: Rasterization]()"
 - 
   date: "Oct 16"
   materials: ""
-  title: ""
+  title: "[Color Representation]()"
 - 
   date: "Oct 18"
   materials: ""
-  title: "[]()"
+  title: "[Compositing]()"
 - 
   date: "Oct 21"
   materials: ""
-  title: ""
+  title: "[Normal Mapping]()"
 
 - 
   date: "Oct 23"
   materials: ""
-  title: ""
+  title: "[Environment Mapping]()"
 - 
   date: "Oct 25"
   materials: ""
-  title: "[]()"
+  title: "[Shadow Mapping]()"
 -
   date: "Oct 28"
   materials: ~
-  title: ""
+  title: "[Geometric Modeling: Bezier Curves]"
 
 - 
   date: "Oct 30"
@@ -133,47 +133,47 @@
 - 
   date: "Nov 1"
   materials: ""
-  title: "[]()"
+  title: "[Geometric Modeling: Bezier Surfaces]()"
 - 
   date: "Nov 4"
   materials: ~
-  title: ""
+  title: "[Geometric Modeing: B-Splines]()"
 
 - 
   date: "Nov 6"
   materials: ""
-  title: ""
+  title: "[Geometric Modeling: Paramtric Surfaces]()"
 - 
   date: "Nov 8"
   materials: ""
-  title: "[]()"
+  title: "[Geometric Modeing: Subdivision Surfaces]()"
 - 
   date: "Nov 11"
-  materials: ""
+  materials: "[Geometric Modeling: Marching Cubes]()"
   title: ""
 
 - 
   date: "Nov 13"
   materials: ""
-  title: ""
+  title: "[Procedural Modeling: Iterated Function Systems]()"
 
 - 
   date: "Nov 15"
   materials: ""
-  title: "[]()"
+  title: "[Procedural Modeling: Texture Synthesis]()"
 - 
   date: "Nov 18"
   materials: ""
-  title: ""
+  title: "[In-Class Exercise: Fog and Flying]()"
 
 - 
   date: "Nov 20"
   materials: ~
-  title: ""
+  title: "[In-Class Exercise: Working with Meshes]()"
 - 
   date: "Nov 22"
   materials: ""
-  title: "[]()"
+  title: "[In-Class Exercise: Cube Maps]()"
 - 
   date: "Nov 25"
   materials: ~
@@ -187,24 +187,24 @@
 - 
   date: "Nov 29"
   materials: ""
-  title: "[]()"
+  title: "[Ray Tracing]()"
 - 
   date: "Dec 2"
   materials: ""
-  title: ""
+  title: "[Real Time Ray Tracing]()"
 
 - 
   date: "Dec 4"
   materials: ""
-  title: ""
+  title: "[Overview of Advanced Animation]()"
 - 
   date: "Dec 6"
   materials: ""
-  title: "[]()"
+  title: "[Physics Simulation: A Simple Physics Engine]()"
 - 
   date: "Dec 9"
   materials: ~
-  title: ""
+  title: "[Physics Simulation: Collision Detection]()"
 
 - 
   date: "Dec 11"
