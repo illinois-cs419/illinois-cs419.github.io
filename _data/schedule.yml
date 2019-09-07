@@ -41,8 +41,8 @@
   title: "[Geometric Modeling with Triangle Meshes]()"
 - 
   date: "Sep 13"
-  materials: "[Hierarchical Modeling](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture5-Hierarchical%20Modeling.pptx)"
-  title: ""
+  materials: ~
+  title: "[Hierarchical Modeling](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture5-Hierarchical%20Modeling.pptx)"
 - 
   date: "Sep 16"
   materials: ""
@@ -59,7 +59,7 @@
 - 
   date: "Sep 23"
   materials: ""
-  title: "[Procedural Geometric Modeling]()"
+  title: "[Procedural Modeling: Terrains]()"
 
 - 
   date: "Sep 25"
@@ -123,7 +123,7 @@
 -
   date: "Oct 28"
   materials: ~
-  title: "[Geometric Modeling: Bezier Curves]"
+  title: "[Geometric Modeling: Bezier Curves]()"
 
 - 
   date: "Oct 30"
