@@ -37,12 +37,12 @@
 
 - 
   date: "Sep 11"
-  materials: "Suggested Reading: [_Modeling with Polygon Meshes_, Chapter 2](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/ThirdParty/PolygonMeshProcessing-2.pdf)"
-  title: "[Geometric Modeling with Triangle Meshes]()"
-- 
-  date: "Sep 13"
   materials: ~
   title: "[Hierarchical Modeling](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture5-Hierarchical%20Modeling.pptx)"
+- 
+  date: "Sep 13"
+  materials: "Suggested Reading: [_Modeling with Polygon Meshes_, Chapter 2](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/ThirdParty/PolygonMeshProcessing-2.pdf)"
+  title: "[Geometric Modeling with Triangle Meshes]()"
 - 
   date: "Sep 16"
   materials: ""
