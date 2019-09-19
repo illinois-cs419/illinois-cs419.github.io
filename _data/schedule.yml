@@ -55,11 +55,11 @@
 - 
   date: "Sep 20"
   materials: ""
-  title: "[Projection Part 2]()"
+  title: "[Procedural Mesh Generation]()"
 - 
   date: "Sep 23"
   materials: ""
-  title: "[Procedural Modeling: Terrains]()"
+  title: "[In-Class Exercise 3: Shading]]()"
 
 - 
   date: "Sep 25"
@@ -68,11 +68,11 @@
 -
   date: "Sep 27"
   materials: ""
-  title: "[In-Class Exercise 3: Shading]()"
+  title: "[Shading]() <br/> [Transforming Normals]()"
 -
   date: "Sep 30"
   materials: ""
-  title: "[More Shading]()"
+  title: "[Terrain Generation]()"
 - 
   date: "Oct 2"
   materials: ""
