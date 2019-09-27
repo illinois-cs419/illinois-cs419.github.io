@@ -42,7 +42,7 @@
 - 
   date: "Sep 13"
   materials: "Suggested Reading: [_Modeling with Polygon Meshes_, Chapter 2](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/ThirdParty/PolygonMeshProcessing-2.pdf)"
-  title: "[Geometric Modeling with Triangle Meshes](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture8-Basic%20Meshing.pptx)"
+  title: "[Modeling with Triangle Meshes](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture8-Basic%20Meshing.pptx)"
 - 
   date: "Sep 16"
   materials: ""
@@ -71,7 +71,7 @@
   title: "**No Lecture: Exam Week**"
 -
   date: "Sep 27"
-  materials: "[Worksheet 4](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet-Phong.pdf) [Shading]() <br/>
+  materials: "[Worksheet 4](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet-Phong.pdf) <br/>
               [Phong Reflection Model in Action](https://illinois-cs418.github.io/Examples/PhongReflection/HelloPhong.html)"
   title: "[Transforming Normals](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture11-SurfaceNormals.pptx)"
 -
