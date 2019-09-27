@@ -63,7 +63,7 @@
 - 
   date: "Sep 23"
   materials: ""
-  title: "[In-Class Exercise 2: Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019.pptx)"
+  title: "[In-Class Exercise 2: Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019)"
 
 - 
   date: "Sep 25"
@@ -71,8 +71,9 @@
   title: "**No Lecture: Exam Week**"
 -
   date: "Sep 27"
-  materials: ""
-  title: "[Shading]() <br/> [Transforming Normals]()"
+  materials: "[Worksheet 4](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet-Phong.pdf) [Shading]() <br/>
+              [Phong Reflection Model in Action](https://illinois-cs418.github.io/Examples/PhongReflection/HelloPhong.html)"
+  title: "[Transforming Normals](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture11-SurfaceNormals.pptx)"
 -
   date: "Sep 30"
   materials: ""
