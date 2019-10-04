@@ -43,18 +43,20 @@ For your second Machine Problem, you will procedurally model a piece of terrain.
 You will need to implement the following:
 
 ### 1. Terrain Generation ###
+Many basic terrain modeling algorithms employ something called *Perlin noise* to create a highly detailed natural appearance. Invented by Ken Perlin in 1982 while working on the movie *Tron*, Perlin noise uses randomness and repetition to synthesize 2D and 3D textures. In 1997, Perlin won an Academy Award for Technical Achievement from the Academy of Motion Picture Arts and Sciences for this contribution to graphics. Perlin noise and techniques based off of it are still widely used in games and movies today.
 
-.Realistic terrain generation in modern games requires considerably more complicated algorithms and tools...see [this talk by Ubisoft developer Etienne Carrier](https://www.youtube.com/watch?v=NfizT369g60) if you are interested in seeing the tools technical artists use these days. 
+Realistic terrain generation in modern games require tools that do more than just model the basic underlying terrain...these tools support operations like creation of vegetation and roads and erosion. See [this talk by Ubisoft developer Etienne Carrier](https://www.youtube.com/watch?v=NfizT369g60) if you are interested in seeing the tools technical artists use these days. 
 ![](/img/perlin1.jpg)
 
-Many terrain generators employ something called *Perlin noise* to create a highly detailed natural appearance. Invented by Ken Perlin in 1982 while working on the movie *Tron*, Perlin noise uses randomness and repetition to synthesize 2D and 3D textures. In 1997, Perlin won an Academy Award for Technical Achievement from the Academy of Motion Picture Arts and Sciences for this contribution to graphics. Perlin noise and techniques based off of it are still widely used in games and movies today.
-
-For this MP we will write code to generate a 3D terrain. We won't be using Perlin's function...instead we will do similar but less efficient...but easier to implement.
+For this MP we will write code to generate a basic 3D terrain. We won't be using Perlin's function...instead we will do something conceptually similar but less efficient...but easier to implement.
 
 The first step is to create a flat, triangulated surface in which all the vertices have $$z$$ coordinates of $$0$$.
-![](/img/rpart1.png)
+![](/img/rpart0.png)
 
 After that we will repeatedly, randomly generate a plane that partitions the vertices. On one side of the plane we will increase the height of each vertex by $$delta$$. On the other side, we decrease the vertex heights by delta. After enough iterations, you should see something resembling a 3D terrain.
+![](/img/rpart1.png)
+
+Here it is without the triangle boundaries, shaded using the Phong reflectance model.
 ![](/img/rpart2.png)
 
 #### Technical Notes ####
@@ -62,7 +64,7 @@ After that we will repeatedly, randomly generate a plane that partitions the ver
 first generate a random point $$p$$ in that rectangle. Then generate a random normal vector $$n$$ for the plane $$<x_n,y_n,0>$$, where $$x_n,y_n$$ is a point uniformly sampled on the unit circle. Given a vertex $$b$$, you can test which side of the plane that vertex falls on by using the dot product test $$ (b-p) \cdot n$$ /gt 0 $$.
 ![](/img/dottest.jpg)
 
-+ You will need to experiment with the parameters of algorithm to find ones that give good results. The image above used 100 iterations of partitioning on a $$64 \cross 64$$ grid of vertices spanning a unit square with $$delta = 0.005$$.
++ You will need to experiment with the parameters of algorithm to find ones that give good results. The image above used 100 iterations of partitioning on a $$64 \times 64$$ grid of vertices spanning a unit square with $$delta = 0.005$$.
 
 + Your implementation should generate an indexed mesh and render it using the WebGL function **`void gl.drawElements(mode, count, type, offset)`{: style="background-color: GainsBoro"}**. You should pay attention to the `type` parameter as the type **`gl.UNSIGNED_SHORT`{: style="background-color: GainsBoro"}** is the largest supported natively in WebGL 1.0. This will limit your mesh to having only 65536 vertices. If you want more, you will need to use the extension **[`OES_element_index_uint`{: style="background-color: GainsBoro"}](https://developer.mozilla.org/en-US/docs/Web/API/OES_element_index_uint)**.
 
