@@ -61,7 +61,7 @@ Here it is without the triangle boundaries, shaded using the Phong reflectance m
 
 #### Technical Notes ####
 + The rectangle for your surface should have corners $$(x_{min},y_{min},0)$$ and $$(x_{max},y_{max},0)$$. To generate a random plane
-first generate a random point $$p$$ in that rectangle. Then generate a random normal vector $$n$$ for the plane $$<x_n,y_n,0>$$, where $$x_n,y_n$$ is a point uniformly sampled on the unit circle. Given a vertex $$b$$, you can test which side of the plane that vertex falls on by using the dot product test $$ (b-p) \cdot n$$ /gt 0 $$.
+first generate a random point $$p$$ in that rectangle. Then generate a random normal vector $$n$$ for the plane $$<x_n,y_n,0>$$, where $$x_n,y_n$$ is a point uniformly sampled on the unit circle. Given a vertex $$b$$, you can test which side of the plane that vertex falls on by using the dot product test $$ (b-p) \cdot n$$ \gt 0 $$.
 ![](/img/dottest.jpg)
 
 + You will need to experiment with the parameters of algorithm to find ones that give good results. The image above used 100 iterations of partitioning on a $$64 \times 64$$ grid of vertices spanning a unit square with $$delta = 0.005$$.
