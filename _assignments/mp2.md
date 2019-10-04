@@ -57,6 +57,9 @@ After that we will repeatedly, randomly generate a plane that partitions the ver
 Here it is without the triangle boundaries, shaded using the Phong reflectance model.
 ![](/img/rpart2-2.png)
 
+If you wish to extend the basic algorithm to make it better in some way, you certainly can. It would be possible to start with a parabolic sheet instead of a flat plane to create a mountain, or maybe you want to write code that will cut a river through the terrain. 
+Just keep in mind that it should use the random partitioing as a base and look as least good as the images shown in this section.
+
 #### Technical Notes ####
 + The rectangle for your surface should have corners $$(x_{min},y_{min},0)$$ and $$(x_{max},y_{max},0)$$. To generate a random plane
 first generate a random point $$p$$ in that rectangle. Then generate a random normal vector $$n$$ for the plane $$<x_n,y_n,0>$$, where $$x_n,y_n$$ is a point uniformly sampled on the unit circle. Given a vertex $$b$$, you can test which side of the plane that vertex falls on by using the dot product test $$ (b-p) \cdot n$$ \gt 0 $$.
@@ -87,7 +90,9 @@ Implement the Blinn-Phong illumination model with Phong shading. This means your
 ### 4. Implement an elevation-based colormap for the terrain ###
 
 In your shading calculation, you should assign colors to vertices based on the elevation of the vertex. If you use the z-coordinate as elevation, that means you should base your color assignment on the value of the z-coordinate. For example, you could define four different intervals of z values and assign blue to the vertices in the lowest interval, green to the second lowest, brown to the second highest, and white to the highest.
+
 ![Example Terraing](/img/terrain.PNG)
+
 You can create your own scheme; do something that looks good. In terms of implementation, you can compute the color to be used in the fragment shader by making the necessary information available to the shader program. Or, you could compute the color on the CPU (i.e. in the javascript portion of the app) and pass it as an attribute and then a varying. Computing the color in the shader program will be more perfomant. 
 
 ### 5. Comment appropriately ###
