@@ -45,6 +45,7 @@ You will need to implement the following:
 ### 1. Terrain Generation ###
 
 .Realistic terrain generation in modern games requires considerably more complicated algorithms and tools...see [this talk by Ubisoft developer Etienne Carrier](https://www.youtube.com/watch?v=NfizT369g60) if you are interested in seeing the tools technical artists use these days. 
+![](modernterraing.jpg)
 
 Many terrain generators employ something called *Perlin noise* to create a highly detailed natural appearance. Invented by Ken Perlin in 1982 while working on the movie *Tron*, Perlin noise uses randomness and repetition to synthesize 2D and 3D textures. In 1997, Perlin won an Academy Award for Technical Achievement from the Academy of Motion Picture Arts and Sciences for this contribution to graphics. Perlin noise and techniques based off of it are still widely used in games and movies today.
 
@@ -58,9 +59,7 @@ After that we will repeatedly, randomly generate a plane that partitions the ver
 
 #### Technical Notes ####
 + The rectangle for your surface should have corners $$(x_{min},y_{min},0)$$ and $$(x_{max},y_{max},0)$$. To generate a random plane
-first generate a random point $$p$$ in that rectangle. Then generate a random normal vector $$n$$ for the plane $$<x_n,y_n,0>$$, where $$x_n,y_n$$ is a point uniformly sampled on the unit circle.
-
-Given a vertex $$b$$, you can test which side of the plane that vertex falls on by using the dot product test $$(b-p) \dot n$$ > 0$$.
+first generate a random point $$p$$ in that rectangle. Then generate a random normal vector $$n$$ for the plane $$<x_n,y_n,0>$$, where $$x_n,y_n$$ is a point uniformly sampled on the unit circle. Given a vertex $$b$$, you can test which side of the plane that vertex falls on by using the dot product test $$(b-p) \dot n$$ > 0$$.
 ![](dottest.jpg)
 
 + You will need to experiment with the parameters of algorithm to find ones that give good results. The image above used 100 iterations of partitioning on a $$64 \cross 64$$ grid of vertices spanning a unit square with $$delta = 0.005$$.
@@ -83,7 +82,7 @@ In order for the mesh to be shaded correctly **you will also need to generate pe
 Your code should generate a view matrix and a perspective projection matrix in the javascript portion of the app and send them to the vertex shader...and use them to transform the vertices. You should use the [glMatrix library](http://glmatrix.net/) functions **`lookAt(out, eye, center, up)`{: style="background-color: GainsBoro"}** and **`perspective(out, fovy, aspect, near, far)`{: style="background-color: GainsBoro"}** to generate the matrices. It is up to you to understand how to specify the parameters to generate a good view. 
 
 ### 3. Implement the Blinn-Phong reflection model ###
-Implement the Blinn-Phong illumination model with Phong shading. This means your shading calculations should be done per-fragment...meaning in the fragment shader. You can position your light source(s) anywhere in the scene as long as the rendered images are well-lit. You can use the [Lab 2 shader code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab2-Mesh.zip) as a starting point...it implements the Phong illumination model and Gouraud shading. You will need to understand the difference between the two reflection models and make the relatively minor change to the code to switch it to Blinn-Phong. In addition, you will need to change how the shader handles material colors...you will need to generate a color for the terrain based on elevation as described below.
+Implement the Blinn-Phong illumination model with Phong shading. This means your shading calculations should be done per-fragment...meaning in the fragment shader. You can position your light source(s) anywhere in the scene as long as the rendered images are well-lit. You can use the [Lab 3 shader code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3-Fa2019.zip) as a starting point...the completed code implements the Phong relfection model and Phong shading. You will need to understand the difference between the two reflection models and make the relatively minor change to the code to switch it to Blinn-Phong. In addition, you will need to change how the shader handles material colors...you will need to generate a color for the terrain based on elevation as described below.
 
 ### 4. Implement an elevation-based colormap for the terrain ###
 
