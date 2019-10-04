@@ -36,7 +36,7 @@ rubric:
     description: The color map is visually interesting and the terrain exhibits
 ---
 
-![Example Terraing](/img/terrain1.png)
+![Example Terraing](/img/terrain.PNG)
 
 For your second Machine Problem, you will procedurally model a piece of terrain. For now, this can be a static scene. We will add interaction in the second part of the MP.
 
