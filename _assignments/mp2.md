@@ -25,7 +25,7 @@ rubric:
   - 
     name: Elevation Color Map
     points: 2
-    description: The shading of the terrain changes is accomplished by mapping different ranges of elevation to different colors.
+    description: The shading of the terrain changes by mapping different ranges of elevation to different colors.
   - 
     name: Blinn-Phong Shading
     points: 1
