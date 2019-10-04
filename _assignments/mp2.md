@@ -44,27 +44,39 @@ You will need to implement the following:
 
 ### 1. Terrain Generation ###
 
-To procedurally generate the terrain, you should implement the diamond-square algorithm. This fractal-based terrain generation algorithm is quite old, first published in 1982, but does a acceptable job generating a rocky terrain consideirng how short the code is. 
+.Realistic terrain generation in modern games requires considerably more complicated algorithms and tools...see [this talk by Ubisoft developer Etienne Carrier](https://www.youtube.com/watch?v=NfizT369g60) if you are interested in seeing the tools technical artists use these days. 
 
-Realistic terrain generation in modern games requires considerably more complicated algorithms and tools...see [this talk by Ubisoft developer Etienne Carrier](https://www.youtube.com/watch?v=NfizT369g60) if you are interested in seeing the tools technical artists use these days. 
+Many terrain generators employ something called *Perlin noise* to create a highly detailed natural appearance. Invented by Ken Perlin in 1982 while working on the movie *Tron*, Perlin noise uses randomness and repetition to synthesize 2D and 3D textures. In 1997, Perlin won an Academy Award for Technical Achievement from the Academy of Motion Picture Arts and Sciences for this contribution to graphics. Perlin noise and techniques based off of it are still widely used in games and movies today.
 
-This [wikipedia entry on diamond-sqaure](https://en.wikipedia.org/wiki/Diamond-square_algorithm) is a good introduction. We will discuss details of how to implement it WebGL in lecture on Thursday February 21 by working on Lab 3. 
+For this MP we will write code to generate a 3D terrain. We won't be using Perlin's function...instead we will do similar but less efficient...but easier to implement.
 
-In brief, your implementation should generate an indexed mesh and render it using the WebGL function **`void gl.drawElements(mode, count, type, offset)`{: style="background-color: GainsBoro"}**. You should pay attention to the `type` parameter as the type **`gl.UNSIGNED_SHORT`{: style="background-color: GainsBoro"}** is the largest supported natively in WebGL 1.0. This will limit your mesh to having only 65536 vertices. If you want more, you will need to use the extension **[`OES_element_index_uint`{: style="background-color: GainsBoro"}](https://developer.mozilla.org/en-US/docs/Web/API/OES_element_index_uint)**.
+The first step is to create a flat, triangulated surface in which all the vertices have $$z$$ coordinates of $$0$$.
+![](terrain0.png)
 
-In [Lab 3](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3.zip), we will work on one possible approach to generating an indexed mesh structure. We will create a grid of vertices in the X-Y plane and triangulate them. You can use a Model transformation to rotate this flat terrain to position it however you want to make viewing easier. If you use this as the basis for your code, you will then need to set the z coordinates of the triangles according diamond-square algorithm to complete the terrain model.
+After that we will repeatedly, randomly generate a plane that partitions the vertices. On one side of the plane we will increase the height of each vertex by $$delta$$. On the other side, we decrease the vertex heights by delta. After enough iterations, you should see something resembling a 3D terrain.
+![](terrain1.png)
+
+#### Technical Notes ####
++ The rectangle for your surface should have corners $$(x_{min},y_{min},0)$$ and $$(x_{max},y_{max},0)$$. To generate a random plane
+first generate a random point $$p$$ in that rectangle. Then generate a random normal vector $$n$$ for the plane $$<x_n,y_n,0>$$, where $$x_n,y_n$$ is a point uniformly sampled on the unit circle.
+
+Given a vertex $$b$$, you can test which side of the plane that vertex falls on by using the dot product test $$(b-p) \dot n$$ > 0$$.
+![](dottest.jpg)
+
++ You will need to experiment with the parameters of algorithm to find ones that give good results. The image above used 100 iterations of partitioning on a $$64 \cross 64$$ grid of vertices spanning a unit square with $$delta = 0.005$$.
+
++ Your implementation should generate an indexed mesh and render it using the WebGL function **`void gl.drawElements(mode, count, type, offset)`{: style="background-color: GainsBoro"}**. You should pay attention to the `type` parameter as the type **`gl.UNSIGNED_SHORT`{: style="background-color: GainsBoro"}** is the largest supported natively in WebGL 1.0. This will limit your mesh to having only 65536 vertices. If you want more, you will need to use the extension **[`OES_element_index_uint`{: style="background-color: GainsBoro"}](https://developer.mozilla.org/en-US/docs/Web/API/OES_element_index_uint)**.
+
++ In [Lab 4](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3.zip), we will work on one possible approach to generating an indexed mesh structure. We will create a grid of vertices in the X-Y plane and triangulate them. You can use a Model transformation to rotate this flat terrain to position it however you want to make viewing easier. 
 
 In order for the mesh to be shaded correctly **you will also need to generate per-vertex normals** for the mesh. Each normal is a vector perpendicular to the mesh at the vertex, and is computed as an average of the normals of the triangles that surround the vertex. These normals will be another attribute that you will need to send down to the vertex shader.
-
 
 **Debugging Tips** 
 - Start by generating a small flat terrain (for example 3 vertices by 3 vertices).  
  Use this to set up the view you want.
-- Then, add in the ability to set the z coordinates of the vertices.   
-Do something simple like random heights.
+- Then, add in the ability to set the z coordinates of the vertices. Do something simple like random heights.
 - Then, work on implementing the terrain generation algorithm.
-- Be aware that Lab 2 and Lab 3 both use an older version of the glMatrix library.  
-You may need to update the code if you use a newer version of the glMatrix library.
+- Be aware that Lab code we have worked with may use an older version of the glMatrix library. You may need to update the code if you use a newer version of the glMatrix library.
 
 ### 2. Implement a perspective view of the scene ###
 
