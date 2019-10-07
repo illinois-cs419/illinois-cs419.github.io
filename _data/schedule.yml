@@ -33,7 +33,7 @@
               [HelloCircle JS file](https://illinois-cs418.github.io/Examples/Lab1/HelloCircle.js)  <br />
               [webgl-utils.js](https://illinois-cs418.github.io/Examples/Lab1/webgl-utils.js) <br />
               [gl-matrix-min.js](https://illinois-cs418.github.io/Examples/Lab1/gl-matrix-min.js)" 
-  title: "[In-Class Exercise 1: Animation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab1-2019.pptx)"
+  title: "[In-Class Activity 1: Animation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab1-2019.pptx)"
 
 - 
   date: "Sep 11"
@@ -59,11 +59,11 @@
               [SimpleModeling JS file](https://illinois-cs418.github.io/Examples/Lab2/simpleModeling.js)  <br />
               [webgl-utils.js](https://illinois-cs418.github.io/Examples/Lab1/webgl-utils.js) <br />
               [gl-matrix-min.js](https://illinois-cs418.github.io/Examples/Lab1/gl-matrix-min.js)"
-  title: "[In-Class Exercise 2: Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019.pptx)"
+  title: "[In-Class Activity 2: Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019.pptx)"
 - 
   date: "Sep 23"
   materials: ""
-  title: "[In-Class Exercise 2: Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019)"
+  title: "[In-Class Activity 2: Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019)"
 
 - 
   date: "Sep 25"
@@ -90,13 +90,13 @@
   title: "[Terrain Modeling](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture10-TerrainGeneration.pptx)"
 -
   date: "Oct 7"
-  materials: ""
-  title: "[Mathematics for Orientation]()"
+  materials: ""Suggested Reading:  [_3D math primer for graphics and game development_, Chapter 8](http://www.library.illinois.edu/proxy/go.php?url=https://www.taylorfrancis.com/books/9781439869819)"
+  title: "[Mathematics for Orientation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS-418-Orientation.pptx)"
 
 - 
   date: "Oct 9"
   materials: ""
-  title: "[Lab 4: Terrain Generation]()"
+  title: "[In-Class Activity 4: Terrain Generation]()"
 - 
   date: "Oct 11"
   materials: ""
