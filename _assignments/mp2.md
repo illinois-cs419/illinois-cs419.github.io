@@ -89,11 +89,13 @@ Implement the Blinn-Phong illumination model with Phong shading. This means your
 
 ### 4. Implement an elevation-based colormap for the terrain ###
 
-In your shading calculation, you should assign colors to vertices based on the elevation of the vertex. If you use the z-coordinate as elevation, that means you should base your color assignment on the value of the z-coordinate. For example, you could define four different intervals of z values and assign blue to the vertices in the lowest interval, green to the second lowest, brown to the second highest, and white to the highest.
+In your shading calculation, you should assign material colors (the $$k$$ values in the Blinn-Phong model) to vertices based on the elevation of the vertex. If you use the z-coordinate as elevation, that means you should base your color assignment on the value of the z-coordinate. For example, you could define four different intervals of z values and assign blue to the vertices in the lowest interval, green to the second lowest, brown to the second highest, and white to the highest.
 
 ![Example Terraing](/img/terrain.PNG)
 
-You can create your own scheme; do something that looks good. In terms of implementation, you can compute the color to be used in the fragment shader by making the necessary information available to the shader program. Or, you could compute the color on the CPU (i.e. in the javascript portion of the app) and pass it as an attribute and then a varying. Computing the color in the shader program will be more perfomant. 
+In the image above, you can see interpolation effects as colors are blended together. One way to achieve this look would be to assign the material colors either at the CPU level (in JavaScript) or in the vertex shader (which would be more performant) and pass them as varyings to the fragment shader to complete the shading process.
+
+Or, you could generate material colors in fragment shader...you can implement you linear interpolation based on elevation...or you could decide not to interpolate and to have a stratified appearance or something else more sophisticated.
 
 ### 5. Comment appropriately ###
 
