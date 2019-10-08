@@ -38,11 +38,11 @@ In one paragraph, state the purpose of the project. Broadly, your project should
 
 Your goal paragraph should pick one of the above areas and then provide some specifics. For example: what kind of game? Or, what data will you visualize and what capabilities will the application have?
 
-### 3. Required Materials and Technologies ###
+### 3. Required materials and technologies ###
 
 Provide a short list of what technologies you expect to use (e.g. JS and VTK.js). Are there assets or data or hardware resources you need to acquire?
 
-### 4. Proposed Deliverables and Rubric ###
+### 4. Proposed deliverables and rubric ###
 
 Provide a list of what you will deliver. For an application, it can a list of functions you will implement.
 For the research project it can a list of functions and/or a set of experiments you will run. You should assign points to each deliverable indicating the importance of that deliverable to the project. Use a set of 10 total points and divide those up. Imagine you are creating a grading rubric. 
