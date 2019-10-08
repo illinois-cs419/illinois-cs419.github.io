@@ -16,7 +16,7 @@ rubric:
     description: ...you have to include all the required information.
 ---
 
-For the 4 Credit project you must submit a 1 to 2 page proposal.**It should  be submitted as a PDF on Compass** 
+For the 4 Credit project you must submit a 1 to 2 page proposal.**It should  be submitted as a PDF on Compass.** 
 This proposal is worth 2% of of your total course grade.
 Please use the paper template at [this link](http://junctionpublishing.org/vgtc/Tasks/camera.html) for formatting. You can change the section headings however you wish.
 
@@ -31,9 +31,11 @@ or a similar code management system that will track the work for you.
 ### 2. Project goal ###
 
 In one paragraph, state the purpose of the project. Broadly, your project should fall into one of the following categories:
+
 + Implement a video game using Unity or Unreal Engine.
 + Implement an information visualization application using D3.js or VTK.js.
-+ Complete a short research project that could, but does not have to, be submitted as a poster and 2 page paper to a computer graphics conference. You can see some of the submissio?ns to SIGGRAPH 2019 here.
++ Complete a short research project that could, but does not have to, be submitted as a poster and 2 page paper to a computer graphics conference.
+
 Your goal paragraph should pick one of the above areas and then provide some specifics. For example: what kind of game? Or, what data will you visualize and what capabilities will the application have?
 
 ### 3. Required Materials and Technologies ###
@@ -43,9 +45,7 @@ Provide a short list of what technologies you expect to use (e.g. JS and VTK.js)
 ### 4. Proposed Deliverables and Rubric ###
 
 Provide a list of what you will deliver. For an application, it can a list of functions you will implement.
-For the research project it can a list of functions and/or a set of experiments you will run. You should assign points to each deliverable
-indicating the importance of that deliverable to the project. Use a set of 10 total points and divide those up. Imagine you are creating
-a grading rubric. 
+For the research project it can a list of functions and/or a set of experiments you will run. You should assign points to each deliverable indicating the importance of that deliverable to the project. Use a set of 10 total points and divide those up. Imagine you are creating a grading rubric. 
 
 **NOTES:**
 + Only one student per team needs to submit a proposal
@@ -54,4 +54,4 @@ a grading rubric.
 + If you are doing something experimental and it doesn't work, that's not a problem. A negative result is still a result you can report on and get full credit provided you made a good faith effort to complete the work successfully.
 + The project will be due on the last day of class Dec. 11, 2019.
 + You will submit a 2-page report along with any code developed for the project.
-
++ ....ignore the submission instructions below.....
