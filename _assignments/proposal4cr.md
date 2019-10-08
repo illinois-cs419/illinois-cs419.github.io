@@ -16,9 +16,10 @@ rubric:
     description: ...you have to include all the required information.
 ---
 
-
-For the 4 Credit project you must submit a 1 to 2 page proposal. **It should  be submitted as a PDF on Compass** This proposal is worth 2% of of your total course grade.
+For the 4 Credit project you must submit a 1 to 2 page proposal.**It should  be submitted as a PDF on Compass** 
+This proposal is worth 2% of of your total course grade.
 Please use the paper template at [this link](http://junctionpublishing.org/vgtc/Tasks/camera.html) for formatting. You can change the section headings however you wish.
+
 The proposal should have the following information:
 
 ### 1. Project title and team members ###
