@@ -4,7 +4,7 @@ title: "4 Credit Project: Proposal"
 index: 10
 due: "Oct. 16, 2019 @ 11:59 PM"
 material: ~
-points: 9
+points: 2
 rubric:
   -
     name: Did you submit a prpoosal?
@@ -53,4 +53,4 @@ a grading rubric.
 + If you are doing something experimental and it doesn't work, that's not a problem. A negative result is still a result you can report on and get full credit provided you made a good faith effort to complete the work successfully.
 + The project will be due on the last day of class Dec. 11, 2019.
 + You will submit a 2-page report along with any code developed for the project.
-+ 
+
