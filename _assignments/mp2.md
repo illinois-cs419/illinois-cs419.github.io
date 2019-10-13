@@ -36,7 +36,7 @@ rubric:
     description: The color map is visually interesting and the terrain exhibits good aesthethic quality (e.g. not totally random).
 ---
 
-For your second Machine Problem, you will procedurally model a piece of terrain. For now, this can be a static scene. We will add interaction in the second part of the MP will be assigned later.
+For your second Machine Problem, you will procedurally model a piece of terrain. For now, this can be a static scene. We will add interaction in the second part of the MP which will be assigned later.
 
 You will need to implement the following:
 
