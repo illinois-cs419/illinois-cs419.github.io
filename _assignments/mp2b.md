@@ -4,7 +4,7 @@ title: "MP2: Terrain Modeling Part 2"
 index: 10
 due: "Oct. 21, 2019 @ 11:59 PM"
 material: ~
-points: 9
+points: 6
 rubric:
   -
     name: Documentation
