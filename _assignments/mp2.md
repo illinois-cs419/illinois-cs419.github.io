@@ -1,6 +1,6 @@
 ---
 layout: assignment
-title: "MP2: Terrain Modeling"
+title: "MP2: Terrain Modeling Part 1"
 index: 10
 due: "Oct. 14, 2019 @ 11:59 PM"
 material: ~
@@ -36,7 +36,7 @@ rubric:
     description: The color map is visually interesting and the terrain exhibits good aesthethic quality (e.g. not totally random).
 ---
 
-For your second Machine Problem, you will procedurally model a piece of terrain. For now, this can be a static scene. We will add interaction in the second part of the MP.
+For your second Machine Problem, you will procedurally model a piece of terrain. For now, this can be a static scene. We will add interaction in the second part of the MP will be assigned later.
 
 You will need to implement the following:
 
