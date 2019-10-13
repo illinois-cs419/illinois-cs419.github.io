@@ -4,6 +4,8 @@ You will need to submit the following files in a *zip* archive via Compass:
 
 + mpN.js
 
++ You can use any naming convention you wish for additional JS you author and use (e.g. Terrain.js or Sphere.js, etc.)
+
 In the file name, replace N with the number of the MP (e.g. MP1.html). You should also include any additional files you use or have written. In particular you can use gl-matrix and the WebGL utilities used in the examples in class:
 
 Utility code: webgl-utils.js
