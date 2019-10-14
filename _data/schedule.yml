@@ -104,43 +104,43 @@
 - 
   date: "Oct 14"
   materials: ""
-  title: "[Environment Mapping]()"
+  title: "[Texture Filtering]()"
 -
   date: "Oct 16"
   materials: ""
-  title: "[In-Class Exercise: Cube Maps]()"
+  title: "[In-Class Activity 5: Fog]()"
 -
   date: "Oct 18"
   materials: ~
-  title: "[In-Class Exercise: Working with Meshes]()"
+  title: "[Texture Filtering]()"
 - 
   date: "Oct 21"
   materials: ""
-  title: "[Inside the Library: Clipping]()"
+  title: "[In-Class Activity 6: Texture Mapping]()"
 - 
   date: "Oct 23"
   materials: "" 
-  title: "[Inside the Library: Rasterization]()"
+  title: "[In-Class Activity 6: Texture Mapping]()"
 - 
   date: "Oct 25"
   materials: ""
-  title: "[Color Representation]()"
+  title: "[Environment Mapping]()"
 - 
   date: "Oct 28"
   materials: ""
-  title: "[Compositing]()"
+  title: "[Normal Mapping]()"
 - 
   date: "Oct 30"
   materials: ""
-  title: "[Normal Mapping]()"
+  title: "[Color Theory and Compositing]()"
 - 
   date: "Nov 1"
   materials: ""
-  title: "[Shadow Mapping]()"
+  title: "[Inside the Library: Rasterization]()"
 -
   date: "Nov 4"
   materials: ~
-  title: "[Geometric Modeling: Bezier Curves]()"
+  title: "[Inside the Library: Clipping]()"
 
 - 
   date: "Nov 6"
@@ -150,7 +150,7 @@
 - 
   date: "Nov 8"
   materials: ""
-  title: "[Geometric Modeling: Bezier Surfaces]()"
+  title: "[Geometric Modeling: Bezier Curves and Surfaces]()"
 - 
   date: "Nov 11"
   materials: ~
