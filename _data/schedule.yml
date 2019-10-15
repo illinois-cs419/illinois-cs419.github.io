@@ -108,8 +108,11 @@
           [Interaction in WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pptx)"
 -
   date: "Oct 16"
-  materials: ""
-  title: "[In-Class Activity 5: Fog]()"
+  materials: "[Mozilla Reference: DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events) <br />
+              [Mozilla Reference: Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers) <br />
+              [Mozilla Reference: Introduction to Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)"
+  title: "[Interaction in WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pptx) <br />
+          [In-Class Activity 5: Fog]()"
 -
   date: "Oct 18"
   materials: ~
