@@ -104,7 +104,7 @@
 - 
   date: "Oct 14"
   materials: " [Worksheet 5](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet6.pdf)"
-  title: "[Texture Filtering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pptx) <br />
+  title: "[Texture Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pptx) <br />
           [Interaction in WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pptx)"
 -
   date: "Oct 16"
@@ -116,7 +116,7 @@
 -
   date: "Oct 18"
   materials: ~
-  title: "[Texture Filtering]()"
+  title: "[Texture Filtering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pptx)"
 - 
   date: "Oct 21"
   materials: ""
