@@ -140,12 +140,12 @@
   title: "**No Lecture: Exam Week**"
 - 
   date: "Nov 1"
-  materials: ""
-  title: "[Inside the Library: Rasterization]()"
+  materials: "[Worksheet9](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet9.pdf)"
+  title: "[Normal Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture20-NormalMapping.pptx)"
 -
   date: "Nov 4"
   materials: ~
-  title: "[Inside the Library: Clipping]()"
+  title: "[Inside the Library: Rasterization]()"
 
 - 
   date: "Nov 6"
