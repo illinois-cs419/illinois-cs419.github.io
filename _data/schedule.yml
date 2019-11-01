@@ -145,12 +145,12 @@
 -
   date: "Nov 4"
   materials: ~
-  title: "[Inside the Library: Rasterization]()"
+  title: "[Color Theory]()"
 
 - 
   date: "Nov 6"
   materials: ~
-  title: "[Color Theory]()"
+  title: "[Compositing]()"
 
 - 
   date: "Nov 8"
@@ -164,7 +164,7 @@
 - 
   date: "Nov 13"
   materials: ""
-  title: "[Geometric Modeling: Paramtric Surfaces]()"
+  title: "[Geometric Modeling: Parametric Surfaces]()"
 - 
   date: "Nov 15"
   materials: ""
