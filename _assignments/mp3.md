@@ -46,7 +46,7 @@ rubric:
     description: Allow users to switch to viewing a cube-mapped refractive (glass) teapot.
 ---
 
-![teapot](/assets/img/teapot.png)  
+![teapot](/img/teapot.png)  
 Your goal is to write an app that loads the Utah teapot from a file and renders it. 
 
 Your app should have the following features:
