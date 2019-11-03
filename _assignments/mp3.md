@@ -57,13 +57,13 @@ Your app should have the following features:
 + Allow the user to make the teapot rotate.<br/>
 ** Note: This is different than oribiting the teapot and you should be able to both make the teapot rotate and orbit around it **
 + A control in the HTML that allows the user to switch between
-++ simply shading the teapot
-++ making the teapot reflective
-++ making the teapot refractive.
+  1. simply shading the teapot
+  2.making the teapot reflective
+  3. making the teapot refractive.
 
 + Your code should use a cubemap for the required texture effects.
-++ ** Reflection on the teapot should always be consistent with the scene rendered on the skybox **
-++ When using the cube map on the teapot, you do not have to also use Phong relection. 
+  1. ** Reflection on the teapot should always be consistent with the scene rendered on the skybox **
+  2. When using the cube map on the teapot, you do not have to also use Phong relection. 
 
 
 Your app should look something like the image above.
@@ -120,7 +120,7 @@ To get around the issue of reading files from the local filesystem, it is best t
 
 + Alternatively, you can install [node.js](https://nodejs.org/en/) Then install and run [httpserver](https://www.npmjs.com/package/httpserver) to serve the directory that it is run from.
 
-#### User Interface ####
+## User Interface ##
 Your user interface should alllow to the user view to orbit the teapot (just letting the view circle the teapot by rotating around the y-axis is fine, it needn't employ quaternions). This effect can be achieved by rotating the world (teapot and enclosing environment box) assuming the teapot is at the origin. Or you can implement it as part of the view tranformation. 
 
 You should also allow the user to make the teapot rotate. Again you can simply keep track of an angle of rotation around Y, and apply this transformation only to the teapot.
