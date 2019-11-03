@@ -64,7 +64,6 @@ Your app should have the following features:
   1. **Reflection on the teapot should always be consistent with the scene rendered on the skybox**
   2. When using the cube map on the teapot, you do not have to also use Phong relection. 
 
-
 Your app should look something like the image above.
 
 ## How to Work on the MP ##
@@ -81,11 +80,11 @@ Here's a suggested plan of attack:
 3. Add rotation for the teapot. Test.
 + Week 3: Implement phong shader and refractive shader
 1. Implement refraction. Test.
-1.2 Implement phong shader. Test.
+2. Implement phong shader. Test.
 
 
 ## Multiple Shaders ##
-You should implement more than one shader program for this MP. At a minimum, it makes sense to have separate shaders for the teapot and skybox. You could break it down even further and have three shader programs for the teapot (Phong, reflective, and refractive). ** Be very careful if you cut and paste code when doing this.** In given code uysing single shaders, lots of information, e.g. location of attributes in the shader program, is stored as attributes of the program object. You will need to handle these correctly for each shader program.
+You should implement more than one shader program for this MP. At a minimum, it makes sense to have separate shaders for the teapot and skybox. You could break it down even further and have three shader programs for the teapot (Phong, reflective, and refractive). **Be very careful if you cut and paste code when doing this.** In given code uysing single shaders, lots of information, e.g. location of attributes in the shader program, is stored as attributes of the program object. You will need to handle these correctly for each shader program.
 
 ## Skyboxing ##
 Create and draw an environment using skyboxing...render a large cube surrrounding the viewer...this is the skybox. Use the cube map images to texture map the inside of the skybox. You should use the same set of six images that you will use for the teapot environment map later in Part 2 of this MP. 
