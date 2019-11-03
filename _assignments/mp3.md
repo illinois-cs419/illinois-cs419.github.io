@@ -94,7 +94,7 @@ Just to be clear, instead of texture mapping each side of the skybox independent
 ### Background Reading and Resources ###
  + A set of 6 image files forming a cubemap are available in this [zip file](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/img/London.zip). You can use these for the MP if you wish.
  
-+ A good tutorial if using cube maps is available from [webglfundamentals.org](https://webglfundamentals.org/webgl/lessons/webgl-environment-maps.html) 
++ A good tutorial about using cube maps is available from [webglfundamentals.org](https://webglfundamentals.org/webgl/lessons/webgl-environment-maps.html) 
  
 + You can make your own cubemaps as well. Alternatively you can try to use one of the cubemaps from [this collection](http://www.humus.name/index.php?page=Textures).
 
