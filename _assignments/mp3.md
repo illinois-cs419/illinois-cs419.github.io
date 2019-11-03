@@ -54,11 +54,10 @@ Your app should have the following features:
 + Rendered in perspective
 + Skyboxing
 + Allow the user view to orbit around the teapot.
-+ Allow the user to make the teapot rotate.<br/>
-**This is different than oribiting the teapot and you should be able to both make the teapot rotate and orbit around it**
++ Allow the user to make the teapot rotate.
 + A control in the HTML that allows the user to switch between
   1. simply shading the teapot
-  2.making the teapot reflective
+  2. making the teapot reflective
   3. making the teapot refractive.
 
 + Your code should use a cubemap for the required texture effects.
@@ -86,7 +85,6 @@ Here's a suggested plan of attack:
 
 
 ## Multiple Shaders ##
-
 You should implement more than one shader program for this MP. At a minimum, it makes sense to have separate shaders for the teapot and skybox. You could break it down even further and have three shader programs for the teapot (Phong, reflective, and refractive). ** Be very careful if you cut and paste code when doing this.** In given code uysing single shaders, lots of information, e.g. location of attributes in the shader program, is stored as attributes of the program object. You will need to handle these correctly for each shader program.
 
 ## Skyboxing ##
