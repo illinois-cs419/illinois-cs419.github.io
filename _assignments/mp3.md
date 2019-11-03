@@ -102,14 +102,14 @@ Just to be clear, instead of texture mapping each side of the skybox independent
 + You can make your own cubemaps as well. Alternatively you can try to use one of the cubemaps from [this collection](http://www.humus.name/index.php?page=Textures).
 
 ## Teapot Mesh ##
-You can grab an OBJ file containing the famous Utah Teapot Mesh [here](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/teapot_0.obj).
+You can grab an OBJ file containing the famous Utah Teapot Mesh [here](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Meshes/teapot_0.obj).
 
 ### Background Reading and Resources ####
 
 The OBJ file format is documented in this [wikipedia article](https://en.wikipedia.org/wiki/Wavefront_.obj_file).
 You will need to get the OBJ file from the server, and then parse it to generate the vertex and face arrays. You can reuse code you completed for the in-class lab exercise on meshes.
 
-If you didn't do the exercise, you can use the function given in [readText.js](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/assets/readText.js) to get a file and send it to the function you will write to parse the file.
+If you didn't do the exercise, you can use the function given in [readText.js](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/CodeExamples/readText.js) to get a file and send it to the function you will write to parse the file.
 
 Use the above linked teapot model, which consists only of vertices and triangular faces. Load the vertices into a vertex position array, and the triangle faces into a face array whose elements are triples of vertex indices. **Note that the indices of the vertices in the OBJ start at 1**. This means you will need to adjust them assuming your arrays start indexing at 0. You will need to create per-vertex normals for the mesh as well, which you should compute as the average normal of the the trangles incident on the vertex.
 
