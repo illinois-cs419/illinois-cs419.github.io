@@ -84,7 +84,7 @@ Here's a suggested plan of attack:
 
 
 ## Multiple Shaders ##
-You should implement more than one shader program for this MP. At a minimum, it makes sense to have separate shaders for the teapot and skybox. You could break it down even further and have three shader programs for the teapot (Phong, reflective, and refractive). **Be very careful if you cut and paste code when doing this.** In given code uysing single shaders, lots of information, e.g. location of attributes in the shader program, is stored as attributes of the program object. You will need to handle these correctly for each shader program.
+You should implement more than one shader program for this MP. At a minimum, it makes sense to have separate shaders for the teapot and skybox. You could break it down even further and have three shader programs for the teapot (Phong, reflective, and refractive). **Be very careful if you cut and paste code when doing this.** In given code using single shaders, lots of information, e.g. location of attributes in the shader program, is stored as attributes of the program object. You will need to handle these correctly for each shader program.
 
 ## Skyboxing ##
 Create and draw an environment using skyboxing...render a large cube surrrounding the viewer...this is the skybox. Use the cube map images to texture map the inside of the skybox. You should use the same set of six images that you will use for the teapot environment map later in Part 2 of this MP. 
