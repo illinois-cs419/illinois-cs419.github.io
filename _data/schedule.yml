@@ -150,21 +150,21 @@
 - 
   date: "Nov 6"
   materials: ~
-  title: "[Compositing]()"
+  title: "[High Dynamic Range](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-HDR.pptx)"
 
 - 
   date: "Nov 8"
   materials: ""
-  title: "[Geometric Modeling: Bezier Curves and Surfaces]()"
+  title: "[Color & HDR Review]()"
 - 
   date: "Nov 11"
   materials: ~
-  title: "[Geometric Modeing: B-Splines]()"
+  title: "[Compositing]()"
 
 - 
   date: "Nov 13"
   materials: ""
-  title: "[Geometric Modeling: Parametric Surfaces]()"
+  title: "[Geometric Modeling: Bezier Curves and Surfaces]()"
 - 
   date: "Nov 15"
   materials: ""
@@ -172,17 +172,17 @@
 - 
   date: "Nov 18"
   materials: ""
-  title: "[Geometric Modeling: Marching Cubes]()"
+  title: "[Geometric Modeling: Implicit Modeling and Marching Cubes]()"
 
 - 
   date: "Nov 20"
   materials: ""
-  title: "[Procedural Modeling: Iterated Function Systems]()"
+  title: "[Rasterization]()"
 
 - 
   date: "Nov 22"
   materials: ""
-  title: "[Procedural Modeling: Texture Synthesis]()"
+  title: "[Clipping]()"
 - 
   date: "Nov 25"
   materials: ~
