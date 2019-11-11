@@ -159,30 +159,30 @@
 - 
   date: "Nov 11"
   materials: ~
-  title: "[Compositing]()"
+  title: "[Compositing](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture21-Compositing.pptx)"
 
 - 
   date: "Nov 13"
   materials: ""
-  title: "[Geometric Modeling: Bezier Curves and Surfaces]()"
+  title: "[Inside the Library: Rasterization]()"
 - 
   date: "Nov 15"
   materials: ""
-  title: "[Geometric Modeing: Subdivision Surfaces]()"
+  title: "[Geometric Modeling: Bezier Curves]()"
 - 
   date: "Nov 18"
   materials: ""
-  title: "[Geometric Modeling: Implicit Modeling and Marching Cubes]()"
+  title: "[Geometric Modeling: Splines]]()"
 
 - 
   date: "Nov 20"
   materials: ""
-  title: "[Rasterization]()"
+  title: "[Geometric Modeling: Surface Patches]()"
 
 - 
   date: "Nov 22"
   materials: ""
-  title: "[Clipping]()"
+  title: "[Geometric Modeling: Subdivision Surfaces]()"
 - 
   date: "Nov 25"
   materials: ~
@@ -200,20 +200,20 @@
 - 
   date: "Dec 2"
   materials: ""
-  title: "[Ray Tracing]()"
+  title: "[Physics Simulation: A Simple Physics Engine]()"
 
 - 
   date: "Dec 4"
   materials: ""
-  title: "[Real-Time Ray Tracing]()"
+  title: "[Physics Simulation: Collision Detection]()"
 - 
   date: "Dec 6"
   materials: ""
-  title: "[Physics Simulation: A Simple Physics Engine]()"
+  title: "[Shadows]()"
 - 
   date: "Dec 9"
   materials: ~
-  title: "[Physics Simulation: Collision Detection]()"
+  title: "[Ray Tracing]()"
 
 - 
   date: "Dec 11"
