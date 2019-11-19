@@ -181,7 +181,10 @@
 
 - 
   date: "Nov 22"
-  materials: ""
+  materials: "[OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html) <br/>
+              [Pixar Animation Studios Open Subdivision Technology Review](https://www.youtube.com/watch?v=Y-3L9BOTEtw)<br/>
+              [Meet the Experts: Pixar Animation Studios, The OpenSubdiv Project](https://www.youtube.com/watch?v=xFZazwvYc5o)<br/>
+              [Worksheet 14]()"
   title: "[Geometric Modeling: Subdivision Surfaces]()"
 - 
   date: "Nov 25"
