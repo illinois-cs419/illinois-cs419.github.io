@@ -177,7 +177,7 @@
 - 
   date: "Nov 20"
   materials: "[Worksheet 13](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-WorksheetBezierPatch.pdf)"
-  title: "[Geometric Modeling: Surface Patches]()"
+  title: "[Geometric Modeling: Surface Patches](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-BezierPatches.pptx)"
 
 - 
   date: "Nov 22"
@@ -205,14 +205,13 @@
   materials: ""
   title: "[Physics Simulation: A Simple Physics Engine]()"
 
-- 
   date: "Dec 4"
   materials: ""
   title: "[Physics Simulation: Collision Detection]()"
 - 
   date: "Dec 6"
   materials: ""
-  title: "[Shadows]()"
+  title: "[Implicit Surfaces]()"
 - 
   date: "Dec 9"
   materials: ~
