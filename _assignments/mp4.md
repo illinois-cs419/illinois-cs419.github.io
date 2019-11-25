@@ -32,7 +32,7 @@ rubric:
     description: Have an interface which allows users to generate more spheres, maybe with a button press. Also allow users to remove all the spheres with a button press.
 ---
 
-![spheres](/img/mp4.png){:height="300px" width="300px"}   
+![spheres](/img/mp4.png){:height="400px" width="400px"}   
 
 Write a simple particle system using WebGL to handle the display. 
 Particle systems are typically used to model fine-grained physical effects like fire, smoke, and water.
@@ -69,7 +69,7 @@ After rendering a frame showing the current position of the spheres, you will ne
 
 Implement 2 forces that affect the spheres: gravity and friction. If you want to violate physics for fun and have the spheres gain velocity after hitting walls, you can implement a mode to do that as well.
 
-### Commenting ###
+## Commenting ##
 
 You should comment each file with an author comment and comment each function you write with a header. Use JSDoc comments with the appropriate tags and types. Details can be found in the [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html).
 
