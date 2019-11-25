@@ -32,7 +32,7 @@ rubric:
     description: Have an interface which allows users to generate more spheres, maybe with a button press. Also allow users to remove all the spheres with a button press.
 ---
 
-![spheres](/img/mp4.png){:height="400px" width="400px"}   
+![spheres](/img/mp4.png){:height="500px" width="500px"}   
 
 Write a simple particle system using WebGL to handle the display. 
 Particle systems are typically used to model fine-grained physical effects like fire, smoke, and water.
