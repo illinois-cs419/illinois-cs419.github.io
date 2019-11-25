@@ -46,14 +46,14 @@ When a sphere hits one of the walls in the box, it should reflect in physically 
 ## Particles ##
 You should keep an array or list of particles.
 
-Each particle will be have a postion $\mathbf{P}$ and velocity $\mathbf{V}$...both of these quantities will be three-dimensional. Each particle will be represented by a sphere. You should have each sphere have an individual color and radius. It is acceptable for some speheres to appear identical, but your code should generate a variety of different-looking spheres. Use the Phong or Blinn-Phong reflection model and Phong shading (i.e. per-fragment shading)...have the spheres look nice.
+Each particle will be have a postion $$\mathbf{P}$$ and velocity $$\mathbf{V}$$...both of these quantities will be three-dimensional. Each particle will be represented by a sphere. You should have each sphere have an individual color and radius. It is acceptable for some speheres to appear identical, but your code should generate a variety of different-looking spheres. Use the Phong or Blinn-Phong reflection model and Phong shading (i.e. per-fragment shading)...have the spheres look nice.
  
 You only need to generate one sphere mesh...you simply draw that mesh in multiple different spots each frame...once for each particle.
 You can use some of the code on the course website that can generate and render a sphere.
 
 ## User Interface ##
 
-Your user interface should allow you to create spheres using a mouse click or key press. Each creation event should create $n$ spheres, where $n$ is some number of your choosing.
+Your user interface should allow you to create spheres using a mouse click or key press. Each creation event should create $$n$$ spheres, where $$n$$ is some number of your choosing.
 
 The spheres should be genereated with a semi-random position and velocity. It doesn't have to be truly random, but there should be some variety.
 
