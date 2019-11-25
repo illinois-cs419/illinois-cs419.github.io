@@ -202,8 +202,8 @@
   title: "**No Lecture: Fall Break**"
 - 
   date: "Dec 2"
-  materials: ""
-  title: "[Physics Simulation: A Simple Physics Engine]()"
+  materials: "[_Game Physics Engine Development_ by Ian Millington, chapter 3](https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_7047650)"
+  title: "[Physics Simulation: A Simple Physics Engine](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture26.pptx)"
 
   date: "Dec 4"
   materials: ""
