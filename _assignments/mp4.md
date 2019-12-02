@@ -63,9 +63,10 @@ You will also need a reset button that will remove all existing spheres from the
 ## Physics ###
 
 After rendering a frame showing the current position of the spheres, you will need to update the position and velocity of each sphere:
-+Update the position using the current velocity and Euler integration
-+Update the velocity using the acceleration and Euler integration and drag.
-+Update the acceleration using the forces of gravity.
+
++ Update the position using the current velocity and Euler integration
++ Update the velocity using the acceleration and Euler integration and drag.
++ Update the acceleration using the forces of gravity.
 
 Implement 2 forces that affect the spheres: gravity and friction. If you want to violate physics for fun and have the spheres gain velocity after hitting walls, you can implement a mode to do that as well.
 
