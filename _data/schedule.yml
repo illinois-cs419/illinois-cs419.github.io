@@ -207,11 +207,11 @@
 -
   date: "Dec 4"
   materials: ""
-  title: "[Physics Simulation: Collision Detection]()"
+  title: "[Implicit Surfaces]()"
 - 
   date: "Dec 6"
   materials: ""
-  title: "[Implicit Surfaces]()"
+  title: "[Ray Tracing]()"
 - 
   date: "Dec 9"
   materials: ~
