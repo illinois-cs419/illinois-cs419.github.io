@@ -206,12 +206,12 @@
   title: "[Physics Simulation: A Simple Physics Engine](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Physics.pptx)"
 -
   date: "Dec 4"
-  materials: ""
-  title: "[Implicit Surfaces]()"
+  materials: "[Worksheet 15](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet-Physics.pdf)"
+  title: "[Geometric Modeling: Implicit Surfaces](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/13-1%20Solid%20Modeling.pdf)"
 - 
   date: "Dec 6"
   materials: ""
-  title: "[Ray Tracing]()"
+  title: "[Isosurfaces]()"
 - 
   date: "Dec 9"
   materials: ~
