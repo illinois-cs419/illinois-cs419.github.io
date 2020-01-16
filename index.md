@@ -114,3 +114,6 @@ Click the header to join/view the forum. You do not need a passcode.
 See the [schedule for office hours](/officehours).
 
 * Professor Eric Shaffer, Siebel 2209
+* TA: Jason Liu	jdliu2@illinois.edu
+* TA: Yichen Yang yy18@illinois.edu
+
