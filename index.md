@@ -29,7 +29,7 @@ We recommend the following courses and skills:
 - [Math 225](https://math.illinois.edu/resources/department-resources/syllabus-math-225){:target="_blank" rel="noopener"} or [Math 415](https://math.illinois.edu/resources/department-resources/syllabus-math-415){:target="_blank" rel="noopener"} - basic linear algebra, especially 3D transforms
 
 ## Lectures ##
-Lecture is held in 1404 Siebel Center on MWF 9-9:50am
+Lecture is held in 1310 DCL on Tu Th 11-12:15
 
 ## Discussion Sections ##
 We will not use discussion sections this semester...you only need to attend lecture.
@@ -105,7 +105,7 @@ A bit old now, but pretty easy to read with decent example code.
 [UIUC Library E-book link](https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8494400)  
 
 
-## [Piazza](piazza.com/illinois/fall2019/cs418/home) ##
+## [Piazza](piazza.com/illinois/spring2020/cs418/home) ##
 We will use Piazza for answering questions and administering the course.
 
 Click the header to join/view the forum. You do not need a passcode.
