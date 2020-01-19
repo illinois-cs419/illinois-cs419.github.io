@@ -34,16 +34,24 @@ Lecture is held in 1310 DCL on Tu Th 11-12:15
 ## Discussion Sections ##
 We will not use discussion sections this semester...you only need to attend lecture.
 
-## Assignments ##
-See the [Assignments page](/assignments) for more details.
+## Programming Assignments ##
+There will a series of four programming assignments. See the [Assignments page](/assignments) for more details.
+
+## In-Class Work (or Homework) ##
+
+Starting in Week 2 of the semester, each (or almost each) lecture will include in-class exercises. These exercises will be available online using the PrairieLearn system. You should bring a phone or laptop or tablet to lecture. If you are unable to bring a device, let the course staff know and we will make other arrangements.
+
+In total the in-class work will be worth 5% of your total course grade. Each of the N assignments will be P=5/N points. Grading for the exercises will be as follows:
+
++ Exercise completed correctly in-class will be worth P points plus P points of Extra Credit   
++ Exercise completed correctly outside of class within 1 week will be worth P points.
++ Exercise completed correctly after 1 week but before the end of the semester will be worth P/2 points.
+
+These exercises can be done in groups and you can submit answers an unlimited number of times. 
+**Attending class and completing the work is a chance to earn 5% extra credit for the semester**
 
 ### 4 Credit Option ###
-If you are taking the course for 4 credits, you will complete an extra project which will consist be your choice of one of the following:
-+ Implement a video game using [Unity](https://unity.com/) or [Unreal Engine](https://www.unrealengine.com/en-US/). 
-+ Implement an information visualization application using [D3.js](https://d3js.org/) or [VTK.js](https://blog.kitware.com/vtk-js-9-0-0-release-notes/).
-+ Complete a short research project that would could, but does not have to, be submitted as a poster and 2 page paper to a computer graphics conference. You can see some of the submissions to SIGGRAPH 2019 [here](https://s2019.siggraph.org/conference/programs-events/posters/). 
-
-You may work in teams of up to 4 people on the project. More information about how to propose the project will provided by week 3 of the semester.
+If you are taking the course for 4 credits, you will complete an extra project implelementing real-time transformation of web content for accessibility. The projects will be done in groups and we will release details by Week 3.
 
 ## Exams ##
 This class will have three midterm exams and no final exam. The third midterm will be just before finals. Each exam is 50 minutes long and will be held in the CBTF. You will need to make a reservation in the [CBTF](https://cbtf.engr.illinois.edu) to take the exam.
@@ -61,14 +69,15 @@ We weight grades as follows:
 
 | | 3 credits | 4 credits |  
 | ----- | ------ | ----- |  
-| MP 1 | 15% | 10% | 
+| MP 1 | 10% | 10% | 
 | MP 2 | 15% | 10% | 
 | MP 3 | 15% | 10% | 
 | MP 4 | 10% | 10% | 
+| In-class Work   | 5%  | 5%  |
 | Midterm Exam 1 | 15% | 15% |  
 | Midterm Exam 2 | 15% | 15% |
 | Midterm Exam 3 | 15% | 15% | 
-| 4 Credit Project | | 15% |  
+| 4 Credit Project | | 10% |  
 
 You can expect the cutoffs to be approximately as follows
 98 - 100: A+  
