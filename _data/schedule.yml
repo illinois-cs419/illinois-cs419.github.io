@@ -115,37 +115,36 @@
           [In-Class Activity 5: Fog](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab5-Fa2019.pptx)"
 -
   date: "Apr 9"
-  materials: "[Worksheet 6](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS418-Worksheet-Quaternions.pdf)"
-  title: "[Texture Filtering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pptx)"
+  materials: ""
+  title: ""
 - 
   date: "Apr 14"
-  materials: "[Lab6-fa2019.zip](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab6-fa2019.zip)"
-  title: "[In-Class Activity 6: Reading a Mesh from a File](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab6-fa2019.pptx)"
+  materials: ""
+  title: ""
 - 
   date: "Apr 16"
-  materials: "[Lab6-fa2019.zip](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab6-fa2019.zip)" 
-  title: "[In-Class Activity 6: Reading a Mesh from a File](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab6-fa2019.pptx)"
+  materials: "" 
+  title: ""
 - 
   date: "Apr 21"
   materials: ""
-  title: "[Environment Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture19-EnvironmentMapping.pptx)"
+  title: ""
 - 
   date: "Apr 23"
-  materials: "[Worksheet 7](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet7.pdf) <br/>
-              [Worksheet 8](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet8.pdf)"
-  title: "[Environment Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture19-EnvironmentMapping.pptx)"
+  materials: ""
+  title: ""
 - 
   date: "Apr 28"
   materials: ""
-  title: "**No Lecture: Exam Week**"
+  title: ""
 - 
   date: "Apr 30"
-  materials: "[Worksheet9](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet9.pdf)"
-  title: "[Normal Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture20-NormalMapping.pptx)"
+  materials: ""
+  title: ""
 -
   date: "May 5"
   materials: ~
-  title: "[Color Theory](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Color.pptx)"
+  title: "**No Lecture: Exam Week**"
 
 
 
