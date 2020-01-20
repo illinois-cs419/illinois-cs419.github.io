@@ -37,7 +37,7 @@
 - 
   date: "Feb 18"
   materials: ""
-  title: ""
+  title: "**No Lecture: Exam Week**"
 - 
   date: "Feb 20"
   materials: ""
@@ -45,57 +45,50 @@
 
 - 
   date: "Feb 25"
-  materials: "[Worksheet 3](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet3-Meshes.pdf)"
-  title: "[Projection](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture-Projection.pptx)"
+  materials: ""
+  title: ""
 - 
   date: "Feb 27"
-  materials: "[HelloSphere HTML File](https://illinois-cs418.github.io/Examples/Lab2/HelloSphere.html) <br />
-              [HelloSphere JS file](https://illinois-cs418.github.io/Examples/Lab2/HelloSphere.js)  <br />
-              [SimpleModeling JS file](https://illinois-cs418.github.io/Examples/Lab2/simpleModeling.js)  <br />
-              [webgl-utils.js](https://illinois-cs418.github.io/Examples/Lab1/webgl-utils.js) <br />
-              [gl-matrix-min.js](https://illinois-cs418.github.io/Examples/Lab1/gl-matrix-min.js)"
-  title: "[In-Class Activity 2: Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019.pptx)"
+  materials: ""
+  title: ""
 - 
   date: "Mar 3"
   materials: ""
-  title: "[In-Class Activity 2: Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019)"
+  title: ""
 
 - 
   date: "Mar 5"
   materials: ""
-  title: "**No Lecture: Exam Week**"
+  title: ""
 -
   date: "Mar 10"
-  materials: "[Worksheet 4](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet-Phong.pdf) <br/>
-              [Phong Reflection Model in Action](https://illinois-cs418.github.io/Examples/PhongReflection/HelloPhong.html)"
-  title: "[Transforming Normals](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture11-SurfaceNormals.pptx)"
+  materials: ""
+  title: ""
 -
   date: "Mar 12"
   materials: ""
-  title: "[Shading](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture12-Shading%20.pptx)"
+  title: ""
 - 
   date: "Mar 17"
-  materials: "[Lab3-Fa2019.zip](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3-Fa2019.zip)"
-  title: "[In-Class Activity: Phong Shading](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab3-Fa2019.pptx)"
+  materials: ""
+  title: "**No Lecture: Spring Break**"
 - 
   date: "Mar 19"
-  materials: "[Lab4-Fa2019.zip](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab4-Fa2019.zip) <br />
-              [First Fractal Terrain - Loren Carpenter...just the intro](https://www.youtube.com/watch?v=wkI0y43EqHI) <br />
-              [Building Worlds in No Man's Sky Using Math - Sean Murray GDC Talk](https://www.youtube.com/watch?v=C9RyEiEzMiU)"
-  title: "[Terrain Modeling](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture10-TerrainGeneration.pptx)"
+  materials: ""
+  title: "**No Lecture: Spring Break**"
 -
   date: "Mar 24"
-  materials: "Suggested Reading:  [_3D math primer for graphics and game development_, Chapter 8](http://www.library.illinois.edu/proxy/go.php?url=https://www.taylorfrancis.com/books/9781439869819)"
-  title: "[Mathematics for Orientation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS-418-Orientation.pptx)"
+  materials: ""
+  title: ""
 
 - 
   date: "Mar 26"
-  materials: "[Lab4-Fa2019.zip](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab4-Fa2019.zip)"
-  title: "[In-Class Activity 4: Terrain Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab4-Fa2019%20.pptx)"
+  materials: ""
+  title: ""
 - 
   date: "Mar 31"
-  materials: "Suggested Reading:  [_Real-time Rendering, 4th Edition_, Chapter 6](https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8886323)"
-  title: "[Texture Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pptx)"
+  materials: ""
+  title: "**No Lecture: Exam Week**"
 - 
   date: "Apr 2"
   materials: ""
