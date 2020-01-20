@@ -1,34 +1,34 @@
 - 
-  date: "Aug 26"
+  date: "Jan 21"
   materials: "[Worksheet 0](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet0.pdf)"
   title: "[Introduction to Rendering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture1-Introduction.pptx)"
 
 - 
-  date: "Aug 28"
+  date: "Jan 23"
   materials: "[Hello Triangle HTML File](https://illinois-cs418.github.io/Examples/Hello Triangle.html) <br />
               [Hello Color HTML file](https://illinois-cs418.github.io/Examples/HelloColor.html)  <br />
               [Hello Color JS file](https://illinois-cs418.github.io/Examples/HelloColor.js)"
   title: "[Introduction to WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture2-Webgl.pptx)"
 - 
-  date: "Aug 30"
+  date: "Jan 28"
   materials: "[Mozilla WebGL Tutorials](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)"
   title: "[Introduction to WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture2-Webgl.pptx)"
 - 
-  date: "Sep 2"
+  date: "Jan 30"
   materials: ~
   title: "**No Lecture: Labor Day**"
 
 - 
-  date: "Sep 4"
+  date: "Feb 4"
   materials: "Suggested Reading:  [_3D math primer for graphics and game development_, Chapters 4 & 5](http://www.library.illinois.edu/proxy/go.php?url=https://www.taylorfrancis.com/books/9781439869819) <br /> 
 [Luxo Jr. Animation - 1986](https://www.youtube.com/watch?v=6G3O60o5U7w)"
   title: "[Affine Transformations](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture3-Transformations.pptx)"
 - 
-  date: "Sep 6"
+  date: "Feb 6"
   materials: "[Worksheet 1](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet1.pdf)"
   title: "[Animation in WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture4-Animation.pptx)"
 - 
-  date: "Sep 9"
+  date: "Feb 11"
   materials: "[HelloCircle HTML File](https://illinois-cs418.github.io/Examples/Lab1/HelloCircle.html) <br />
               [HelloCircle JS file](https://illinois-cs418.github.io/Examples/Lab1/HelloCircle.js)  <br />
               [webgl-utils.js](https://illinois-cs418.github.io/Examples/Lab1/webgl-utils.js) <br />
@@ -36,24 +36,24 @@
   title: "[In-Class Activity 1: Animation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab1-2019.pptx)"
 
 - 
-  date: "Sep 11"
+  date: "Feb 13"
   materials: "[Worksheet 2](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet2-Modeling.pdf)"
   title: "[Hierarchical Modeling](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture5-Hierarchical%20Modeling.pptx)"
 - 
-  date: "Sep 13"
+  date: "Feb 18"
   materials: "Suggested Reading: [_Modeling with Polygon Meshes_, Chapter 2](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/ThirdParty/PolygonMeshProcessing-2.pdf)"
   title: "[Modeling with Triangle Meshes](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture8-Basic%20Meshing.pptx)"
 - 
-  date: "Sep 16"
+  date: "Feb 20"
   materials: ""
   title: "[Setting up a View](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture8-View%20Transformation.pptx)"
 
 - 
-  date: "Sep 18"
+  date: "Feb 25"
   materials: "[Worksheet 3](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet3-Meshes.pdf)"
   title: "[Projection](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture-Projection.pptx)"
 - 
-  date: "Sep 20"
+  date: "Feb 27"
   materials: "[HelloSphere HTML File](https://illinois-cs418.github.io/Examples/Lab2/HelloSphere.html) <br />
               [HelloSphere JS file](https://illinois-cs418.github.io/Examples/Lab2/HelloSphere.js)  <br />
               [SimpleModeling JS file](https://illinois-cs418.github.io/Examples/Lab2/simpleModeling.js)  <br />
@@ -61,7 +61,7 @@
               [gl-matrix-min.js](https://illinois-cs418.github.io/Examples/Lab1/gl-matrix-min.js)"
   title: "[In-Class Activity 2: Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019.pptx)"
 - 
-  date: "Sep 23"
+  date: "Mar 23"
   materials: ""
   title: "[In-Class Activity 2: Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019)"
 
