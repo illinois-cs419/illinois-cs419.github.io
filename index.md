@@ -48,6 +48,7 @@ In total the in-class work will be worth 5% of your total course grade. Each of 
 + Exercise completed correctly after 1 week but before the end of the semester will be worth P/2 points.
 
 These exercises can be done in groups and you can submit answers an unlimited number of times. 
+
 **Attending class and completing the work is a chance to earn 5% extra credit for the semester**
 
 ### 4 Credit Option ###
