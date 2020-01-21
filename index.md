@@ -93,9 +93,6 @@ You can expect the cutoffs to be approximately as follows
 60 - 70: D
 Below 60: F
 
-## Extra Credit ##
-During 10 lectures during the semester we will work on a set of group problem-solving exercises. Each of these events is worth 0.5% extra credit towards your total course grade. **This is an opportunity to earn 5% extra credit in total**. Also, you will learn things, so you should definitely attend.
-
 ## Textbooks ##
 
 There is no book for the class. Notes and other materials will be posted online.
