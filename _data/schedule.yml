@@ -2,13 +2,12 @@
   date: "Jan 21"
   materials: "[Hello Triangle HTML File](https://illinois-cs418.github.io/Examples/Hello Triangle.html) <br />
               [Hello Color HTML file](https://illinois-cs418.github.io/Examples/HelloColor.html)  <br />
-              [Hello Color JS file](https://illinois-cs418.github.io/Examples/HelloColor.js) <br />
-              [Worksheet 0](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet0.pdf)"
+              [Hello Color JS file](https://illinois-cs418.github.io/Examples/HelloColor.js)"
   title: "[Introduction to Rendering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture1-Introduction.pptx)"
-
 - 
   date: "Jan 23"
-  materials: "[Mozilla WebGL Tutorials](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)"
+  materials: "[Worksheet 0](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet0.pdf) <br />
+              [Mozilla WebGL Tutorials](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)"
   title: "[Introduction to WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture2-Webgl.pptx)"
 - 
   date: "Jan 28"
