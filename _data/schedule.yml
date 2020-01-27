@@ -30,11 +30,12 @@
 - 
   date: "Feb 11"
   materials: "" 
-  title: ""
+  title: "Mesh Generation <br />
+          Surface Normals"
 
   date: "Feb 13"
   materials: ""
-  title: ""
+  title: "Shading"
 - 
   date: "Feb 18"
   materials: ""
@@ -42,32 +43,34 @@
 - 
   date: "Feb 20"
   materials: ""
-  title: ""
+  title: "Projection"
 
 - 
   date: "Feb 25"
   materials: ""
-  title: ""
+  title: "Mathematics for Orientation"
 - 
   date: "Feb 27"
   materials: ""
-  title: ""
+  title: "Texture Mapping"
 - 
   date: "Mar 3"
   materials: ""
-  title: ""
+  title: "Texture Filtering"
 
 - 
   date: "Mar 5"
   materials: ""
-  title: ""
+  title: "Normal Mapping <br />
+          Environment Mapping"
 -
   date: "Mar 10"
   materials: ""
-  title: ""
+  title: "Ratserization"
 -
   date: "Mar 12"
-  materials: ""
+  materials: "Visibility <br/>
+              Alpha Blending"
   title: ""
 - 
   date: "Mar 17"
@@ -80,12 +83,12 @@
 -
   date: "Mar 24"
   materials: ""
-  title: ""
+  title: "Shadows"
 
 - 
   date: "Mar 26"
   materials: ""
-  title: ""
+  title: "Color"
 - 
   date: "Mar 31"
   materials: ""
@@ -93,39 +96,42 @@
 - 
   date: "Apr 2"
   materials: ""
-  title: ""
+  title: "Geometric Modeling: Parametric Curves"
 -
   date: "Apr 7"
   materials: ""
-  title: ""
+  title: "Geometric Modeling: Splines"
 -
   date: "Apr 9"
   materials: ""
-  title: ""
+  title: "Geometric Modeling: Parametric Surfaces"
 - 
   date: "Apr 14"
   materials: ""
-  title: ""
+  title: "Geometric Modeling: Subdivision Surfaces <br />
+              Half-Edge Data Structure"
 - 
   date: "Apr 16"
   materials: "" 
-  title: ""
+  title: "Geometric Modeling: Implicit Surfaces <br />
+          Marching Cubes"
 - 
   date: "Apr 21"
   materials: ""
-  title: ""
+  title: "Geometric Modeling: Iterated Function Systems <br />
+          Perlin Noise"
 - 
   date: "Apr 23"
   materials: ""
-  title: ""
+  title: "Animation: Physics"
 - 
   date: "Apr 28"
   materials: ""
-  title: ""
+  title: "Animation: Articulated Bodies"
 - 
   date: "Apr 30"
   materials: ""
-  title: ""
+  title: "Ray Tracing"
 -
   date: "May 5"
   materials: ~
