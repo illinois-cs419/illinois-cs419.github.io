@@ -4,35 +4,35 @@ title: "MP1: Dancing Logo"
 index: 10
 due: "Feb. 10, 2020 @ 11:59 PM"
 material: ~
-points: 10
+points: 100
 rubric:
   -
     name: Runs and renders
-    points: 1
+    points: 10
     description: Program runs without crashing and renders multiple frames.
   -
     name: Commented
-    points: 1
+    points: 10
     description: Each function in your code is commented in the required style.
   - 
     name: Affine Transformation
-    points: 1
+    points: 10
     description: Affine transformations used in the vertex shader
   - 
     name: Logo
-    points: 2
+    points: 20
     description: Logo model looks substantially like the provided image	and is a set of triangles.
   - 
     name: Change coordinates in buffer
-    points: 2
+    points: 20
     description: Non-uniform transformation implemented by changing coordinates in buffer	
   -
     name: Second animation
-    points: 2
+    points: 20
     description: Implement your own animation, different than the logo
   -
     name: Creativity
-    points: 1
+    points: 10
     description: Is your animation significantly different than the logo and visually interesting
 ---
 
