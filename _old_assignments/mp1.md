@@ -2,7 +2,7 @@
 layout: assignment
 title: "MP1: Dancing Logo"
 index: 10
-due: "Sept. 20, 2019 @ 11:59 PM"
+due: "Feb. 10, 2020 @ 11:59 PM"
 material: ~
 points: 10
 rubric:
