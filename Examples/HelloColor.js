@@ -129,10 +129,10 @@ function setupBuffers() {
 }
 
 /**
- * Draw call that applies matrix transformations to model and draws model in frame
+ * Draw model...render a frame
  */
 function draw() { 
-  gl.viewport(0, 0, gl.viewportWidth, gl.viewportHeight);
+  gl.viewport(0, 0, gl.viewportWidth, gl.viewportHeight); 
   gl.clear(gl.COLOR_BUFFER_BIT);
 
   gl.bindBuffer(gl.ARRAY_BUFFER, vertexPositionBuffer);
