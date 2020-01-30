@@ -43,7 +43,7 @@ For your first Machine Problem, you will create a 2-D animation of the majestic 
 To complete the MP, you will need to create a digital model of the logo, write code to render it, and write code to animate it.
 
 ## Modeling
-You will need to model the logo with a 2-D mesh of triangles. One approach to creating the mesh would be to get some graph paper, draw the logo and figure out a set of coordinates for the vertices and a set of edges for the triangles that works. You do not need to make the blue line around orange I curve as in the logo…just create a straight-line block I modelOnce you have the coordinates and triangles, just write up a set of JavaScript arrays in your code containing those numbers.
+You will need to model the logo with a 2-D mesh of triangles. One approach to creating the mesh would be to get some graph paper, draw the logo and figure out a set of coordinates for the vertices and a set of edges for the triangles that works. You do not need to make the blue line around orange I curve as in the logo…just create a straight-line block I model. Once you have the coordinates and triangles, just write up a set of JavaScript arrays in your code containing those numbers.
 
 ## Rendering
 You should color the logo orange and blue as shown above. For this MP, you can render using the gl.drawArrays call, with the primitives specified as gl.TRIANGLES. Note that this will draw a triangle for each group of three consecutive vertices. For example, 12 vertices create 4 separate triangles. This means that the coordinates of vertices shared by multiple triangles will be repeated in the buffer. If you wish, you can use a different implementation (it just has to work), but the one suggested here is probably the simplest.
