@@ -11,12 +11,12 @@
   title: "[Introduction to WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture2-Webgl.pptx)"
 - 
   date: "Jan 28"
-  materials: "Suggested Reading: [_Modeling with Polygon Meshes_, Chapter 2](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/ThirdParty/PolygonMeshProcessing-2.pdf)"
+  materials: "Suggested Reading: <br/> [_Modeling with Polygon Meshes_, Chapter 2](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/ThirdParty/PolygonMeshProcessing-2.pdf)"
   title: "[Surface Meshes: Representation and Storage](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Meshes.pptx)"
 - 
   date: "Jan 30"
   materials: ~
-  title: "Affine Transformations"
+  title: "[Affine Transformations](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture3-Transformations.pptx)"
 
 - 
   date: "Feb 4"
