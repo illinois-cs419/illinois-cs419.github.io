@@ -21,13 +21,12 @@
 
 - 
   date: "Feb 4"
-  materials: ""
-  title: "Modeling Transformations <br />
-          Basic Animation in WebGL"
+  materials: "[Mozilla WebGL Animation Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Animating_objects_with_WebGL)"
+  title: "Basic Animation in WebGL"
 - 
   date: "Feb 6"
   materials: ""
-  title: "Viewing"
+  title: "Hierarchical Modeling <br/> Viewing"
 - 
   date: "Feb 11"
   materials: "" 
