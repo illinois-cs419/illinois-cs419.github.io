@@ -32,12 +32,13 @@
 - 
   date: "Feb 11"
   materials: "" 
-  title: "Mesh Generation <br />
-          Surface Normals"
+  title: "Viewing <br/>
+          Projection"
 
   date: "Feb 13"
   materials: ""
-  title: "Shading"
+  title: "Mesh Generation <br/>
+          Surface Normals"
 - 
   date: "Feb 18"
   materials: ""
@@ -45,7 +46,7 @@
 - 
   date: "Feb 20"
   materials: ""
-  title: "Projection"
+  title: "Shading"
 
 - 
   date: "Feb 25"
