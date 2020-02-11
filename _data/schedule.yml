@@ -31,14 +31,14 @@
   title: "[Hierarchical Modeling](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture5-Hierarchical%20Modeling.pptx)"
 - 
   date: "Feb 11"
-  materials: "" 
-  title: "Viewing <br/>
-          Projection"
+  materials: "[WebGLFundamentals post on Cameras](https://webglfundamentals.org/webgl/lessons/webgl-3d-camera.html) <br/>
+               **Note:** They use a different matrix library and coding style...<br/>
+                         Don't worry about the text...look at the pictures." 
+  title: "[Viewing](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture8-View%20Transformation.pptx)"
 
   date: "Feb 13"
   materials: ""
-  title: "Mesh Generation <br/>
-          Surface Normals"
+  title: "Projection"
 - 
   date: "Feb 18"
   materials: ""
