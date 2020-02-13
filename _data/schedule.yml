@@ -37,8 +37,8 @@
   title: "[Viewing](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture8-View%20Transformation.pptx)"
 -
   date: "Feb 13"
-  materials: ""
-  title: "Projection"
+  materials: "[WebGLFundamentals Frustum Diagram](https://webglfundamentals.org/webgl/frustum-diagram.html)"
+  title: "[Projection](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture-Projection.pptx)"
 - 
   date: "Feb 18"
   materials: ""
@@ -51,7 +51,7 @@
 - 
   date: "Feb 25"
   materials: ""
-  title: "Mathematics for Orientation"
+  title: "Mesh Generation"
 - 
   date: "Feb 27"
   materials: ""
