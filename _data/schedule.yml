@@ -51,16 +51,16 @@
 
 - 
   date: "Feb 25"
-  materials: ""
-  title: "Mesh Generation"
+  materials: "[Lab 2 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab2-Mesh.zip)"
+  title: "Lab2: [Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019.pptx)"
 - 
   date: "Feb 27"
-  materials: ""
-  title: "Texture Mapping"
+  materials: "[Lab 3 Code]()"
+  title: "[Terrain Generation]() <br/> Lab 3: [Terrain Generation]()"
 - 
   date: "Mar 3"
   materials: ""
-  title: "Texture Filtering"
+  title: "Texture Mapping"
 
 - 
   date: "Mar 5"
