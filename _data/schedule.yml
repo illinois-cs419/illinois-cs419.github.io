@@ -56,17 +56,17 @@
 - 
   date: "Feb 27"
   materials: "[Lab 3 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3-Sp2020.zip)"
-  title: "Lab 3: [Terrain Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab3-2020.pptx)"
+  title: "Lab 3: [Terrain Generation Lab](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab3-2020.pptx)
+          <br/> [Terrain Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture10-TerrainGeneration.pptx)"
 - 
   date: "Mar 3"
-  materials: ""
-  title: "Texture Mapping"
+  materials: "Suggested Reading: <br/>  [_3D math primer for graphics and game development_, Chapter 8](http://www.library.illinois.edu/proxy/go.php?url=https://www.taylorfrancis.com/books/9781439869819)"
+  title: "[Mathematics for Orientation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS-418-Orientation.pptx)"
 
 - 
   date: "Mar 5"
   materials: ""
-  title: "Normal Mapping <br />
-          Environment Mapping"
+  title: "[Texture Mapping]() <br/> [Fog]() "
 -
   date: "Mar 10"
   materials: ""
