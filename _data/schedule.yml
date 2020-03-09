@@ -66,16 +66,15 @@
 - 
   date: "Mar 5"
   materials: ""
-  title: "[Texture Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pptx) <br/> [Fog](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-FogAndFlying.pptx) "
+  title: "[User Interaction on the Web](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pptx)"
 -
   date: "Mar 10"
   materials: ""
-  title: "Ratserization"
+  title: "[Texture Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pptx) <br/> [Fog](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-FogAndFlying.pptx) "
 -
   date: "Mar 12"
   materials: ""
-  title: "Visibility <br/>
-              Alpha Blending"
+  title: "Normal Mapping <br/> Enviornment Mapping "
 - 
   date: "Mar 17"
   materials: ""
