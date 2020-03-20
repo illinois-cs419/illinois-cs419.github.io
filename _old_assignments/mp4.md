@@ -2,7 +2,7 @@
 layout: assignment
 title: "MP4: A Simple Physics Engine"
 index: 10
-due: "Dec. 11, 2019 @ 11:59 PM"
+due: "May 6, 2020 @ 11:59 PM"
 material: ~
 points: 10
 rubric:
