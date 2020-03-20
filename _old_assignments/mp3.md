@@ -2,7 +2,7 @@
 layout: assignment
 title: "MP3: Environment Mapping"
 index: 10
-due: "Nov. 22, 2019 @ 11:59 PM"
+due: "April 10, 2020 @ 11:59 PM"
 material: ~
 points: 15
 rubric:
