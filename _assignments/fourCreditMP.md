@@ -66,35 +66,35 @@ Your program should write out an image file containing the scene you rendered
 
 Here are some answers to questions I imagine you have:
 
-1. What programming language should I use?
+**1. What programming language should I use?**
 
 You can use any language you wish. You may consult the C++ code the Shirley provides, but write the code yourself. Your code should be demonstrably different than his. To achieve this, it may be easier to write in another language...maybe one you want to learn. The scene will be pretty minimal, so even languages not known as performant (e.g. Python or JavaScript) can be a good choice.
 
-2. What image format should I output?
+**2. What image format should I output?**
 
 You can write out your image to any common image file format. You can use the PPM format from the book, although not many programms read that format (PhotoShop does but most Microsoft viewers don't). You can find tools online to view and convert PPM files. You could use any other format you wish....PNG, or JPEG, etc. **You can use a library (e.g. libpng) to output the image if you wish)**. As a final alternative, you could write the ray tacer in JavaScript and render in a browser rather than outputting a file. See details on this option below.
 
-3. What should the resolution of the image be?
+**3. What should the resolution of the image be?**
 
 Use at least 500x500. You can make it begger if you wish or use a different aspect ration (e.g. 4:3).
 
-4. Can I use a math library for vector types and functions (e.g. cross product)?
+**4. Can I use a math library for vector types and functions (e.g. cross product)?**
 
 Yes! For example, if you chose to use JavaScript you could use the glmatrix library.
 
-5. Do I need to implement all the features in both books?
+**5. Do I need to implement all the features in both books?**
 
 No! Just implement the ones in the rubric...unless you want to implement...you could even read and implement the third book from Shirley's website.
 
-6. How many spheres?
+**6. How many spheres?**
 
 Your scene should include over 20 spheres...that's really a modest number so feel free to do more.
 
-7. Can I do something different like using the GPU to parallel ray trace and/or implementing ray marching within WebGL?
+**7. Can I do something different like using the GPU to parallel ray trace and/or implementing ray marching within WebGL?**
 
 Yes, although I won't be able to help with those as much (I haven't implemented them myself), but if you have the skills and ambition you should take up whatever challenge you wish. E-mail me first though, and let em exactly what you wish to do.
 
-8. Can I render something more than spheres?
+**8. Can I render something more than spheres?**
 
 Yes! See the section on creativity below.
 
