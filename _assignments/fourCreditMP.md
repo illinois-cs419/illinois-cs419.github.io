@@ -49,7 +49,7 @@ rubric:
     
 ---
 
-![Tracing](/img/ray-tracing.png){:height="500px" width="500px"}   
+![Tracing](/img/ray-tracing.jpeg){:height="500px" width="500px"}   
 
 For your 4-credit project you will write a simple ray-tracer and render a scene. To prepare to write the ray-tracer, you should read the following the very short books from [Peter Shirley's books on ray tracing](https://raytracing.github.io/):
 
@@ -94,7 +94,7 @@ Your scene should include over 20 spheres...that's really a modest number so fee
 
 Yes, although I won't be able to help with those as much (I haven't implemented them myself), but if you have the skills and ambition you should take up whatever challenge you wish. E-mail me first though, and let em exactly what you wish to do.
 
-8. Can I render something other than spheres?
+8. Can I render something more than spheres?
 
 Yes! See the section on creativity below.
 
