@@ -51,33 +51,41 @@ rubric:
 
 ![Tracing](/img/ray-tracing.png){:height="500px" width="500px"}   
 
-Write a simple particle system using WebGL to handle the display. 
-Particle systems are typically used to model fine-grained physical effects like fire, smoke, and water.
-We will do something simpler and just render a system of bouncing spheres in 3D.
-The specifics of how you implement the following features are up to you...write an app that you think is fun...
+For your 4-credit project you will write a simple ray-tracer and render a scene. To prepare to write the ray-tracer, you should read the following the very short books from [Peter Shirley's books on ray tracing](https://raytracing.github.io/):
 
-Your program will render a set of spheres bouncing around an invisible (or visible if you wish...) 3D box.
-You could use a box with corners (-1,-1,-1) to (1,1,1) for example.
-When a sphere hits one of the walls in the box, it should reflect in physically realistic manner.  
++ [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
++ [Ray Tracing the Next Week](https://raytracing.github.io/books/RayTracingTheNextWeek.html)
 
-## Particles ##
-You should keep an array or list of particles.
+Your ray tracer will not be interactive...it need not render the scene in real-time. In fact, it is expected that it may take up to several minutes for your scene to render depending on your choice of programming language. The output of the program should be an image written to a file.
 
-Each particle will be have a postion $$\mathbf{P}$$ and velocity $$\mathbf{V}$$...both of these quantities will be three-dimensional. Each particle will be represented by a sphere. You should have each sphere have an individual color and radius. It is acceptable for some speheres to appear identical, but your code should generate a variety of different-looking spheres. Use the Phong or Blinn-Phong reflection model and Phong shading (i.e. per-fragment shading)...have the spheres look nice.
- 
-You only need to generate one sphere mesh...you simply draw that mesh in multiple different spots each frame...once for each particle.
-You can use some of the code on the course website that can generate and render a sphere.
+## Implementing the Ray Tracer  ##
+
+The ultimate goal is to be able to render a scene including the components shown in the image on this page. **However, your scene should be unique...use your creativity and make it look different from the one presented here**. The functional elements your ray tracer needs to support are included in the rubric. Information about each of these is easily found in the books linked above.
+
+Your program should write out an image file containing the scene you rendered
+
+Here are some answers to questions I imagine you have:
+
+1. What programming language should I use?
+
+  You can use any language you wish. You may consult the C++ code the Shirley provides, but write the code yourself. Your code should be demonstrably different than his. To achieve this, it may be easier to write in another language...maybe one you want to learn. The scene will be pretty minimal, so even languages not known as performant (e.g. Python or JavaScript) can be a good choice.
+
+2. What image format and should I output?
+
+You can write out your image to any common image file format. You can use the PPM format from the book, although not many programms read that format (PhotoShop does but most Microsoft viewers don't). You can find tools online to view and convert PPM files. You could use any other format you wish....PNG, or JPEG, etc. **You can use a library (e.g. libpng) to output the image if you wish)**. As a final alternative, you could write the ray tacer in JavaScript and render in a browser rather than outputting a file. See details on this option below.
+
+3. Can I use a math library for the vector operations
+
+
+## Implementation Suggestion ##
+
+## A Word About Creativity ##
+
 
 ## User Interface ##
 
-Your user interface should allow you to create spheres using a mouse click or key press. Each creation event should create $$n$$ spheres, where $$n$$ is some number of your choosing.
 
-The spheres should be genereated with a semi-random position and velocity. It doesn't have to be truly random, but there should be some variety.
-
-You will need to bound those values to be reasonable (e.g. position inside the box).
-You will also need a reset button that will remove all existing spheres from the scene.
- 
-## Physics ###
+## Submission ###
 
 After rendering a frame showing the current position of the spheres, you will need to update the position and velocity of each sphere:
 
@@ -87,9 +95,7 @@ After rendering a frame showing the current position of the spheres, you will ne
 
 Implement 2 forces that affect the spheres: gravity and friction. If you want to violate physics for fun and have the spheres gain velocity after hitting walls, you can implement a mode to do that as well.
 
-## Commenting ##
 
-You should comment each file with an author comment and comment each function you write with a header. Use JSDoc comments with the appropriate tags and types. Details can be found in the [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html).
 
 
 
