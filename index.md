@@ -22,6 +22,10 @@ The topics we will cover include:
 
 We will learn how to implement 3D web applications using WebGL and JavaScript. WebGL shares many of the same characteristics as Vulkan, Direct3D, and other popular low-level graphics APIs, so the skills you learn should be transferable.
 
+## Office Hours ##
+
+**Every Thursday at 11am on [ZOOM](https://illinois.zoom.us/j/475317507)**
+
 ## Prerequisites ##
 We recommend the following courses and skills:
 
@@ -55,11 +59,11 @@ These exercises can be done in groups and you can submit answers an unlimited nu
 If you are taking the course for 4 credits, you will complete an extra project implelementing real-time transformation of web content for accessibility. The projects will be done in groups and we will release details by Week 3.
 
 ## Exams ##
-This class will have three midterm exams and no final exam. The third midterm will be just before finals. Each exam is 50 minutes long and will be held in the CBTF. You will need to make a reservation in the [CBTF](https://cbtf.engr.illinois.edu) to take the exam.
+This class will have three midterm exams and no final exam. The third midterm will be just before finals. Each exam is 50 minutes long.
 
 - Midterm 1: Feb. 17 - Feb. 19
-- Midterm 2: March 30 - April 1
-- Midterm 3: May 4 - May 6
+- Midterm 2: April 7 (online, details to be announced on piazza)
+- Midterm 3: May 5 (online, details to be announced on piazza)
 
 All exams are closed-everything (no book, notes, calculator, etc.). See the [CBTF policies](https://cbtf.engr.illinois.edu/for-students/policies.html) for more detail.You are responsible for all material covered in lectures and assignments.For DRES accommodations see [CBTF DRES Students](https://cbtf.engr.illinois.edu/for-students/dres-students.html)
 
