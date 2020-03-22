@@ -71,12 +71,11 @@
 -
   date: "Mar 10"
   materials: ""
-  title: "[Texture Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pptx)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pdf)
- <br/> [Texture Filtering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pptx)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pdf) "
+  title: "[Texture Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pptx)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pdf)"
 -
   date: "Mar 12"
   materials: ""
-  title: "Normal Mapping <br/> Enviornment Mapping "
+  title: "<br/> [Texture Filtering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pptx)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pdf) "
 - 
   date: "Mar 17"
   materials: ""
@@ -88,59 +87,59 @@
 -
   date: "Mar 24"
   materials: ""
-  title: "Shadows"
+  title: "Environment Mapping"
 
 - 
   date: "Mar 26"
   materials: ""
-  title: "Color"
+  title: "Normal Mapping"
 - 
   date: "Mar 31"
-  materials: ""
-  title: "**No Lecture: Exam Week**"
+  materials: "Color"
+  title: ""
 - 
-  date: "Apr 2"
-  materials: ""
-  title: "Geometric Modeling: Parametric Curves"
--
+  date: "April 2"
+  materials: "Rasterization"
+  title: ""
+- 
   date: "Apr 7"
   materials: ""
-  title: "Geometric Modeling: Splines"
+  title: "**Exam**"
 -
   date: "Apr 9"
   materials: ""
+  title: "Geometric Modeling: Parametric Curves"
+-
+  date: "Apr 14"
+  materials: ""
   title: "Geometric Modeling: Parametric Surfaces"
 - 
-  date: "Apr 14"
+  date: "Apr 16"
   materials: ""
   title: "Geometric Modeling: Subdivision Surfaces <br />
               Half-Edge Data Structure"
 - 
-  date: "Apr 16"
+  date: "Apr 21"
   materials: "" 
   title: "Geometric Modeling: Implicit Surfaces <br />
           Marching Cubes"
 - 
-  date: "Apr 21"
+  date: "Apr 23"
   materials: ""
   title: "Geometric Modeling: Iterated Function Systems <br />
           Perlin Noise"
 - 
-  date: "Apr 23"
+  date: "Apr 28"
   materials: ""
   title: "Animation: Physics"
 - 
-  date: "Apr 28"
-  materials: ""
-  title: "Animation: Articulated Bodies"
-- 
   date: "Apr 30"
   materials: ""
-  title: "Ray Tracing"
+  title: "Animation: Articulated Bodies"
 -
   date: "May 5"
   materials: ~
-  title: "**No Lecture: Exam Week**"
+  title: "**Exam**"
 
 
 
