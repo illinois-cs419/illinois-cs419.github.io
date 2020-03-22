@@ -7,32 +7,49 @@ material: ~
 points: 10
 rubric:
   -
-    name: Forces
-    points: 2
-    description: Implement at least gravity and drag
+    name: Positionable camera
+    points: 1
+    description: Implement a camera you can position in the scene...choose an interesting view in for your scene
   - 
-    name: Collision Detection
-    points: 2
-    description: Implement sphere-wall collision detection and resolve the collison in a physical realistic manner.
-  -
     name: Spheres
-    points: 2
-    description: Generate spheres of different sizes and colors.
-  - 
-    name: Euler integration
-    points: 2
-    description: Implement a physics engine the uses Euler integration to update velocity and position.
-  - 
-    name: Commented code 
     points: 1
-    description: Each function in your code is commented in the required style.
-  - 
-    name: User interface
+    description: Be able to render spheres of different sizes
+  -
+    name: Diffuse material
     points: 1
-    description: Have an interface which allows users to generate more spheres, maybe with a button press. Also allow users to remove all the spheres with a button press.
+    description: Some spheres should be rendered as diffuse surafces
+  - 
+    name: Metal material
+    points: 1
+    description: Some spheres should be rendered as metallic surfaces (mirrors are nice)
+  - 
+    name: Dielectrics
+    points: 1
+    description: Some spheres should be glass....
+  - 
+    name: Instances
+    points: 1
+    description: Render a non-trivial number of spheres by using instancing
+  -
+    name: Bounding Volume Hierarchy
+    points: 1
+    description: You should implement a BVH to make your tracer more performant
+  - 
+    name: Plane
+    points: 1
+    description: Render a geometric plane as a floor for your scene
+  - 
+    name: Shadows
+    points: 1
+    description: Support shadows...can be hard shadows using a point light
+  - 
+    name: Creativity
+    points: 1
+    description: Do something interesting and visually unique in your scene...maybe texturing
+    
 ---
 
-![spheres](/img/mp4.png){:height="500px" width="500px"}   
+![Tracing](/img/ray-tracing.png){:height="500px" width="500px"}   
 
 Write a simple particle system using WebGL to handle the display. 
 Particle systems are typically used to model fine-grained physical effects like fire, smoke, and water.
