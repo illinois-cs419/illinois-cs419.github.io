@@ -49,7 +49,7 @@ rubric:
     
 ---
 
-![Tracing](/img/ray-tracing.jpg){:height="600px" width="400px"}   
+![Tracing](/img/ray-tracing.jpg){:height="400px" width="600px"}   
 
 For your 4-credit project you will write a simple ray-tracer and render a scene. To prepare to write the ray-tracer, you should read the following the very short books from [Peter Shirley's books on ray tracing](https://raytracing.github.io/):
 
