@@ -1,6 +1,6 @@
 ---
 layout: assignment
-title: "MP4: A Simple Physics Engine"
+title: "4 Credit MP: Ray Tracing"
 index: 10
 due: "May 6, 2020 @ 11:59 PM"
 material: ~
