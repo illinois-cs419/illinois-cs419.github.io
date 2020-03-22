@@ -68,7 +68,7 @@ Here are some answers to questions I imagine you have:
 
 **1. What programming language should I use?**
 
-You can use any language you wish. You may consult the C++ code the Shirley provides, but write the code yourself. Your code should be demonstrably different than his. To achieve this, it may be easier to write in another language...maybe one you want to learn. The scene will be pretty minimal, so even languages not known as performant (e.g. Python or JavaScript) can be a good choice.
+You can use any language you wish. You may consult the C++ code Shirley provides, but write the code yourself. Your code should be demonstrably different than his. To achieve this, it may be easier to write in another language...maybe one you want to learn. The scene will be pretty minimal, so even languages not known as performant (e.g. Python or JavaScript) can be a good choice.
 
 **2. What image format should I output?**
 
