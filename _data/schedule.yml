@@ -87,25 +87,25 @@
 -
   date: "Mar 24"
   materials: ""
-  title: "  [Bump Mapping - Guest Video Lecture by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=ee15c7de-5dba-43c3-ba20-bb5848f46393)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Bump-Mapping.pdf) <br/>
-            [Environment Mapping - Guest Video Lecture by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a9861a69-ab07-4206-9a9d-e6ec5871ad4a)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Environment-Mapping.pdf)"
+  title: "  [Bump Mapping - Video by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=ee15c7de-5dba-43c3-ba20-bb5848f46393)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Bump-Mapping.pdf) <br/>
+            [Environment Mapping - Video by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a9861a69-ab07-4206-9a9d-e6ec5871ad4a)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Environment-Mapping.pdf)"
 - 
   date: "Mar 26"
   materials: ""
-  title: "[Texture Shading - Guest Video Lecture by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=2a6cf3b5-a615-46eb-b522-6f825804ab85)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Texture-Shading.pdf) <br/>
-          [Fragment Shader - Guest Video Lecture by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a7a55b8d-626c-4df2-9ba7-8b2ffc2887e3)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Fragment-Shader.pdf)  "
+  title: "[Texture Shading - Video by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=2a6cf3b5-a615-46eb-b522-6f825804ab85)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Texture-Shading.pdf) <br/>
+          [Fragment Shader - Video by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a7a55b8d-626c-4df2-9ba7-8b2ffc2887e3)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Fragment-Shader.pdf)  "
 - 
   date: "Mar 31"
-  materials: "Color"
-  title: ""
+  materials: ""
+  title: "Color"
 - 
   date: "April 2"
-  materials: "Rasterization"
-  title: ""
+  materials: ""
+  title: "Rasterization"
 - 
   date: "Apr 7"
   materials: ""
-  title: "**Exam**"
+  title: "Shadows"
 -
   date: "Apr 9"
   materials: ""
