@@ -87,13 +87,14 @@
 -
   date: "Mar 24"
   materials: ""
-  title: "  [Bump Maps Video: John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=ee15c7de-5dba-43c3-ba20-bb5848f46393) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Bump-Mapping.pdf) <br/>
-            [Environment Maps Video: John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a9861a69-ab07-4206-9a9d-e6ec5871ad4a) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Environment-Mapping.pdf)"
+  title: "  Guest Lectures by John Hart <br/> [Bump Mapping Video](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=ee15c7de-5dba-43c3-ba20-bb5848f46393) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Bump-Mapping.pdf) <br/>
+            [Environment Mapping Video](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a9861a69-ab07-4206-9a9d-e6ec5871ad4a) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Environment-Mapping.pdf)"
 - 
   date: "Mar 26"
-  materials: "Lab4: Reading an OBJ File <br/>[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab4-2020.pdf)<br/>[Lab4-Sp2020.zip](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab4-Sp2020.zip)"
-  title: "[Texture Shading Video: John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=2a6cf3b5-a615-46eb-b522-6f825804ab85) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Texture-Shading.pdf) <br/>
-          [Fragment Shader Video: John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a7a55b8d-626c-4df2-9ba7-8b2ffc2887e3) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Fragment-Shader.pdf)  "
+  materials: "Lab4: Reading an OBJ File &nbsp; [PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab4-2020.pdf) &nbsp; [Lab4-Sp2020.zip](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab4-Sp2020.zip)"
+  title: "Guest Lectures by John Hart <br/>
+          [Texture Shading Video](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=2a6cf3b5-a615-46eb-b522-6f825804ab85) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Texture-Shading.pdf) <br/>
+          [Fragment Shader Video](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a7a55b8d-626c-4df2-9ba7-8b2ffc2887e3) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Fragment-Shader.pdf)  "
 - 
   date: "Mar 31"
   materials: ""
