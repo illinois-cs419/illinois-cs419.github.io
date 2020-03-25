@@ -66,16 +66,16 @@
 - 
   date: "Mar 5"
   materials: ""
-  title: "[User Interaction on the Web](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pptx)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pdf )<br/>
-          [Fog and Flying](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-FogAndFlying.pptx)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-FogAndFlying.pdf)"
+  title: "[User Interaction on the Web](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pptx) &nbsp; [[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pdf )<br/>
+          [Fog and Flying](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-FogAndFlying.pptx) &nbsp; [[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-FogAndFlying.pdf)"
 -
   date: "Mar 10"
   materials: ""
-  title: "[Texture Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pptx)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pdf)"
+  title: "[Texture Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pptx) &nbsp; [[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pdf)"
 -
   date: "Mar 12"
   materials: ""
-  title: "<br/> [Texture Filtering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pptx)[[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pdf) "
+  title: "<br/> [Texture Filtering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pptx) &nbsp; [[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pdf) "
 - 
   date: "Mar 17"
   materials: ""
@@ -87,13 +87,13 @@
 -
   date: "Mar 24"
   materials: ""
-  title: "  [Bump Mapping Video by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=ee15c7de-5dba-43c3-ba20-bb5848f46393)[[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Bump-Mapping.pdf) <br/>
-            [Environment Mapping Video by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a9861a69-ab07-4206-9a9d-e6ec5871ad4a)[[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Environment-Mapping.pdf)"
+  title: "  [Bump Maps Video: John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=ee15c7de-5dba-43c3-ba20-bb5848f46393) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Bump-Mapping.pdf) <br/>
+            [Environment Maps Video: John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a9861a69-ab07-4206-9a9d-e6ec5871ad4a) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Environment-Mapping.pdf)"
 - 
   date: "Mar 26"
-  materials: ""
-  title: "[Texture Shading Video by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=2a6cf3b5-a615-46eb-b522-6f825804ab85)[[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Texture-Shading.pdf) <br/>
-          [Fragment Shader Video by John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a7a55b8d-626c-4df2-9ba7-8b2ffc2887e3)[[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Fragment-Shader.pdf)  "
+  materials: "Lab4: Reading an OBJ File <br/>[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab4-2020.pdf)<br/>[Lab4-Sp2020.zip](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab4-Sp2020.zip)"
+  title: "[Texture Shading Video: John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=2a6cf3b5-a615-46eb-b522-6f825804ab85) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Texture-Shading.pdf) <br/>
+          [Fragment Shader Video: John Hart](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a7a55b8d-626c-4df2-9ba7-8b2ffc2887e3) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Fragment-Shader.pdf)  "
 - 
   date: "Mar 31"
   materials: ""
