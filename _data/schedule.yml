@@ -99,15 +99,15 @@
   date: "Mar 31"
   materials: ""
   title: "Guest Lectures by John Hart <br/>
-           [Additive Color]()  &nbsp; [[Slides]](https://classtranscribe.illinois.edu/video?id=6a3605a8-65d7-4ff3-b3c3-564229576b2c&from=sharedlink)<br/>
-           [Subtractive Color]() &nbsp; [[Slides]](https://classtranscribe.illinois.edu/video?id=bdec0e2f-156e-40b8-a039-c37161443d81&from=sharedlink)<br/>
-           [Color Spaces](https://classtranscribe.illinois.edu/video?id=8a6696f3-b3a0-48fa-bbe6-b76d2a708632&from=sharedlink) &nbsp; [[Slides]]()<br/>
-           [Perceptual Color Spaces](https://classtranscribe.illinois.edu/video?id=d8ac6319-fba6-43dc-a2d4-7a01cf56c29b&from=sharedlink) &nbsp; [[Slides]]()"
+           [Additive Color](https://classtranscribe.illinois.edu/video?id=6a3605a8-65d7-4ff3-b3c3-564229576b2c&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/AdditiveColor.pdf)<br/>
+           [Subtractive Color](https://classtranscribe.illinois.edu/video?id=bdec0e2f-156e-40b8-a039-c37161443d81&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/SubtractiveColor.pdf)<br/>
+           [Color Spaces](https://classtranscribe.illinois.edu/video?id=8a6696f3-b3a0-48fa-bbe6-b76d2a708632&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/ColorSpaces.pdf)<br/>
+           [Perceptual Color Spaces](https://classtranscribe.illinois.edu/video?id=d8ac6319-fba6-43dc-a2d4-7a01cf56c29b&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/PerceptualColor.pdf)"
 - 
   date: "April 2"
   materials: ""
   title: "Guest Lectures by John Hart <br/>
-        [Alpha Compositing](https://classtranscribe.illinois.edu/video?id=e33262b0-e6e9-4610-97b5-023b14ec1468&from=sharedlink) &nbsp; [[Slides]]()"
+        [Alpha Compositing](https://classtranscribe.illinois.edu/video?id=e33262b0-e6e9-4610-97b5-023b14ec1468&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Alpha.pdf)"
 - 
   date: "Apr 7"
   materials: ""
