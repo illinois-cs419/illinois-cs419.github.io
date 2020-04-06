@@ -111,15 +111,22 @@
 - 
   date: "Apr 7"
   materials: ""
-  title: "Rasterization"
+  title: "Images <br/>
+           [Images](https://classtranscribe.illinois.edu/video?id=ef39510e-e0f6-4c06-a48a-bf0307b79c44&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/images.pdf)<br/>
+           [Resolution](https://classtranscribe.illinois.edu/video?id=dd6b039c-06cc-4e05-9fb4-5ed773406234&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/resolution.pdf)<br/>
+           [Formats](https://classtranscribe.illinois.edu/video?id=033727ab-f97b-493a-8095-1132c26655af&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/formats.pdf)<br/>
+           [Dithering](https://classtranscribe.illinois.edu/video?id=4b6539c1-37e9-4d90-8ee8-d73b051f3823&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/dithering.pdf)"
 -
   date: "Apr 9"
   materials: ""
-  title: "Geometric Modeling: Parametric Curves"
+  title: "Rasterization <br/>
+           [Lines](https://classtranscribe.illinois.edu/video?id=f3445f64-d155-4556-958a-03f372c60034&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/lineRaster.pdf) <br/>
+           [Polygons](https://classtranscribe.illinois.edu/video?id=51206e06-f20b-436a-b761-2c082579ef00&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/polygonRaster.pdf) <br/>
+           [Tiles](https://classtranscribe.illinois.edu/video?id=05e15a47-ad56-47ed-91b8-2de96e80d3e4&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/tileRaster.pdf)"
 -
   date: "Apr 14"
   materials: ""
-  title: "Geometric Modeling: Parametric Surfaces"
+  title: "Geometric Modeling: Parametric Curves"
 - 
   date: "Apr 16"
   materials: ""
