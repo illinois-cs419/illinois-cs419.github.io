@@ -126,12 +126,16 @@
 -
   date: "Apr 14"
   materials: ""
-  title: "Geometric Modeling: Parametric Curves"
+  title: "Geometric Modeling: Parametric Curves <br/>
+          [Cubic Curves](https://classtranscribe.illinois.edu/video?id=e4d8c17d-5e23-47e7-ab4b-35e89acf518c&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Cubic-Curves.pdf) <br/>
+          [Hermite Curves](https://classtranscribe.illinois.edu/video?id=17d04191-00d3-4668-8840-ca09dc717ca4&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Hermite-Curves.pdf) <br/>
+          [Bezier Curves](https://classtranscribe.illinois.edu/video?id=969dec0a-f9d5-4173-947f-9b48550f0c3a&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Bezier-Curves.pdf)"
 - 
   date: "Apr 16"
   materials: ""
-  title: "Geometric Modeling: Subdivision Surfaces <br />
-              Half-Edge Data Structure"
+  title: "Geometric Modeling: Parametric Curves <br/>
+          [B-Splines](https://classtranscribe.illinois.edu/video?id=25268313-f1eb-4796-9c50-d49c708f973d&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/B-Splines.pdf) <br/>
+          [Rational Curves](https://classtranscribe.illinois.edu/video?id=f568b7f1-61c2-41c7-9f4e-74791c0c7c42&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Rational-Curves.pdf)"
 - 
   date: "Apr 21"
   materials: "" 
