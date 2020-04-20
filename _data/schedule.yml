@@ -139,21 +139,28 @@
 - 
   date: "Apr 21"
   materials: "" 
-  title: "Geometric Modeling: Implicit Surfaces <br />
-          Marching Cubes"
+  title: "Animation: Physics"
 - 
   date: "Apr 23"
   materials: ""
-  title: "Geometric Modeling: Iterated Function Systems <br />
-          Perlin Noise"
+  title: "Geometric Modeling: Parametric Curves <br/>
+          Bezier Blossoms <br/>
+          B-Spline Blossoms <br/>
+          More B-Spline Blossoms"
+          
 - 
   date: "Apr 28"
   materials: ""
-  title: "Animation: Physics"
+  title: "Geometric Modeling: Parametric Surfaces <br/>
+          Parametric Surfaces <br/>
+          Subdivision Surfaces"
 - 
   date: "Apr 30"
   materials: ""
-  title: "Animation: Articulated Bodies"
+  title: "Geometric Modeling: Advanced Mesh Processing <br/>
+               Good Meshes <br/>
+               Half Edge Mesh Representation <br/>
+               Mesh Simplification"
 -
   date: "May 5"
   materials: ~
