@@ -56,7 +56,7 @@ These exercises can be done in groups and you can submit answers an unlimited nu
 **Attending class and completing the work is a chance to earn 5% extra credit for the semester**
 
 ### 4 Credit Option ###
-If you are taking the course for 4 credits, you will complete an extra project implelementing real-time transformation of web content for accessibility. The projects will be done in groups and we will release details by Week 3.
+If you are taking the course for 4 credits, you will complete an extra project implelementing a ray-tracer.
 
 ## Exams ##
 This class will have three midterm exams and no final exam. The third midterm will be just before finals. Each exam is 50 minutes long.
