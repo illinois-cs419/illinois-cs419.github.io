@@ -153,15 +153,15 @@
   date: "Apr 28"
   materials: ""
   title: "Geometric Modeling: Parametric Surfaces <br/>
-          Parametric Surfaces <br/>
-          Subdivision Surfaces"
+          [Parametric Surfaces](https://classtranscribe.illinois.edu/video?id=fffbf61c-6e29-4f1f-940e-e49b9074d996&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/parmSurfaces.pdf)<br/>
+          [Subdivision Surfaces](https://classtranscribe.illinois.edu/video?id=823ae704-5e83-4c89-8740-ac34e92dc739&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/subdivSurfaces.pdf)"
 - 
   date: "Apr 30"
   materials: ""
-  title: "Geometric Modeling: Advanced Mesh Processing <br/>
-               Good Meshes <br/>
-               Half Edge Mesh Representation <br/>
-               Mesh Simplification"
+  title: "Geometric Modeling: Mesh Processing <br/>
+               [Good Meshes](https://classtranscribe.illinois.edu/video?id=c5a18a69-7133-48f0-ab1e-b529f90d21e6&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/goodMeshes.pdf)<br/><br/>
+               [Half Edge Mesh Representation](https://classtranscribe.illinois.edu/video?id=3bd1acef-584b-475a-8d1c-272712638247&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/halfEdge.pdf)<br/> <br/>
+               [Mesh Simplification](https://classtranscribe.illinois.edu/video?id=ffed656e-9c56-4a82-9e61-e8c6f4f0f60b&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/meshSimp.pdf)<br/>"
 -
   date: "May 5"
   materials: ~
