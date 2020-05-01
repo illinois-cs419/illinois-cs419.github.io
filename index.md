@@ -79,9 +79,7 @@ We weight grades as follows:
 | MP 3 | 15% | 10% | 
 | MP 4 | 10% | 10% | 
 | In-class Work   | 5%  | 5%  |
-| Midterm Exam 1 | 15% | 15% |  
-| Midterm Exam 2 | 15% | 15% |
-| Midterm Exam 3 | 15% | 15% | 
+| Exam Grade| 45% | 45% |   
 | 4 Credit Project | | 10% |  
 
 You can expect the cutoffs to be approximately as follows
