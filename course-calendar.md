@@ -1,7 +1,6 @@
 ---
 layout: calendar
-permalink: /calendar
-title: Course Calendar
+permalink: /schedule
+title: Course Schedule
 ---
 
-- [Current Lecture Recordings](https://echo360.org/)
