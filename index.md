@@ -60,11 +60,11 @@ We weight grades as follows:
 
 | | 3 credits | 4 credits |  
 | ----- | ------ | ----- |  
-| MP 1 | 10% | 10% | 
-| MP 2 | 15% | 10% | 
-| MP 3 | 15% | 10% | 
-| MP 4 | 10% | 10% | 
-| In-class Work   | 5%  | 5%  |
+| MP 1 | 10% | 5% | 
+| MP 2 | 10% | 10% | 
+| MP 3 | 10% | 10% | 
+| MP 4 | 10% | 5% | 
+| Weekly Quizzes| 15%  | 15%  |
 | Exam Grade| 45% | 45% |   
 | 4 Credit Project | | 10% |  
 
@@ -89,7 +89,7 @@ A bit old now, but pretty easy to read with decent example code.
 [UIUC Library E-book link](https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8494400)  
 
 
-## [Piazza](piazza.com/illinois/spring2020/cs418/home) ##
+## [Piazza](piazza.com/illinois/fall2020/cs418/home) ##
 We will use Piazza for answering questions and administering the course.
 
 Click the header to join/view the forum. You do not need a passcode.
