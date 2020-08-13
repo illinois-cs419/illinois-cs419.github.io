@@ -24,7 +24,7 @@ We will learn how to implement 3D web applications using WebGL and JavaScript. W
 
 ## Office Hours ##
 
-**Every Thursday at 11am on [ZOOM](https://illinois.zoom.us/j/475317507)**
+**Every Wednesday at 11am on [ZOOM](https://illinois.zoom.us/j/475317507)**
 
 ## Prerequisites ##
 We recommend the following courses and skills:
@@ -34,9 +34,10 @@ We recommend the following courses and skills:
 
 ## Lectures ##
 
-## Lecture Quizes ##
+Lectures will be available
 
-## Collaborative Notebooks ##
+## Weekly Quizes ##
+
 
 ## Programming Assignments ##
 There will a series of four programming assignments. See the [Assignments page](/assignments) for more details.
@@ -68,7 +69,7 @@ We weight grades as follows:
 | Exam Grade| 45% | 45% |   
 | 4 Credit Project | | 10% |  
 
-You can expect the cutoffs to be 
+
 
 ## Textbooks ##
 
@@ -97,7 +98,16 @@ Click the header to join/view the forum. You do not need a passcode.
 ## Course Staff ##
 See the [schedule for office hours](/officehours).
 
-* Professor Eric Shaffer, Siebel 2209
-* TA: Jason Liu	jdliu2@illinois.edu
+* Professor Eric Shaffer, shaffer1@illinois.edu
+* TA: Rizky Welllyanto wellyan2@illinois.edu
+* TA: Huai Wu huaiwu2@illinois.edu
 * TA: Yichen Yang yy18@illinois.edu
+
+## Mental Health ##
+Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.
+
+Counseling Center: 217-333-3704, 610 East John Street Champaign, IL 61820
+McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois 61801
+
+
 
