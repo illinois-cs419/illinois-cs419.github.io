@@ -32,7 +32,7 @@ We recommend the following courses and skills:
 
 ### Lectures ###
 
-**You can attend live lectures at 9am Central Time on Wednesdays at this [Zoom link]()** in which we will focus on actively working through problems and doing code walkthroughs.
+**You can attend live lectures at 9am Central Time on Wednesdays at this [Zoom link](https://illinois.zoom.us/j/93019304365?pwd=elBOT0Nrayt2YW1NVlA4NFB2dVR2Zz09)** in which we will focus on actively working through problems and doing code walkthroughs.
 
 Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs418.github.io/schedule).
 **You can expect new lectures to be posted by the end of the day on Monday, Wednesday, and Friday.** 
@@ -59,12 +59,15 @@ A bit old now, but pretty easy to read with decent example code.
 
 ### Office Hours ###
 
-**Every Wednesday at 10am on [ZOOM]()**
+**Every Wednesday at 10am on [ZOOM](https://illinois.zoom.us/j/93019304365?pwd=elBOT0Nrayt2YW1NVlA4NFB2dVR2Zz09)**
 
 ## Assessments ##
 
 ### Weekly Quizes ###
+There will be short weekly quizzes on PrairieLearn. These quizzes will be based on the lecture material and will serve as practice for the exams
 
++ **They are due by Friday at midnight of the following week (e.g. Quiz 1 is due by Friday of Week 2).**
++ They can be completed late for 50% credit at any time before Dec. 9.
 
 ### Programming Assignments ###
 There will a series of four programming assignments. See the [Assignments page](/assignments) for more details.
