@@ -22,7 +22,7 @@ The topics we will cover include:
 
 We will learn how to implement 3D web applications using WebGL and JavaScript. WebGL shares many of the same characteristics as Vulkan, Direct3D, and other popular low-level graphics APIs, so the skills you learn should be transferable.
 
-### Prerequisites ###
+#### Prerequisites ####
 We recommend the following courses and skills:
 
 - [CS 225](https://courses.engr.illinois.edu/cs225/){:target="_blank" rel="noopener"} - prior general programming experience
@@ -30,16 +30,23 @@ We recommend the following courses and skills:
 
 ## Instructional Content ##
 
-### Lectures ###
+The course will be taught using online lectures along with suggested additional reading materials
 
-**You can attend live lectures at 9am Central Time on Wednesdays at this [Zoom link](https://illinois.zoom.us/j/93019304365?pwd=elBOT0Nrayt2YW1NVlA4NFB2dVR2Zz09)** in which we will focus on actively working through problems and doing code walkthroughs.
+#### Lectures ####
 
-Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs418.github.io/schedule).
++ **You can attend live lectures at 9am Central Time on Wednesdays at this [Zoom link](https://illinois.zoom.us/j/93019304365?pwd=elBOT0Nrayt2YW1NVlA4NFB2dVR2Zz09)**.
+We will focus on actively working through problems and doing code walkthroughs. These lectures will be recorded and available on the [course schedule](https://illinois-cs418.github.io/schedule).
+
++ Additional lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs418.github.io/schedule).
 **You can expect new lectures to be posted by the end of the day on Monday, Wednesday, and Friday.** 
 
 We know attending online synchronous can be difficult so there is no required attendance. If you can attend the Wednesday lecture, please do so.
 
-### Reading ###
+#### Office Hours ####
+
+**Every Wednesday at noon Central Time on [ZOOM](https://illinois.zoom.us/j/91320597674?pwd=TTRXeVpqUENJL3JyWXBnZ3lnNjg0QT09)**
+
+#### Reading ####
 
 There is no book for the class. Notes and other materials will be posted online on the [course schedule](https://illinois-cs418.github.io/schedule).
 We do have some suggested books:
@@ -57,25 +64,24 @@ by Kouichi Matsuda and Rodger Lea
 A bit old now, but pretty easy to read with decent example code.   
 [UIUC Library E-book link](https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8494400)  
 
-### Office Hours ###
-
-**Every Wednesday at noon Central Time on [ZOOM](https://illinois.zoom.us/j/91320597674?pwd=TTRXeVpqUENJL3JyWXBnZ3lnNjg0QT09)**
 
 ## Assessments ##
 
-### Weekly Quizes ###
+Assigned work will include 12 quizzes, 4 programming assignments and 3 exams. there will be an additional project for students taking the course for 4 credits.
+
+#### Weekly Quizes ####
 There will be short weekly quizzes on PrairieLearn. These quizzes will be based on the lecture material and will serve as practice for the exams
 
 + **They are due by Friday at midnight of the following week (e.g. Quiz 1 is due by Friday of Week 2).**
 + They can be completed late for 50% credit at any time before Dec. 9.
 
-### Programming Assignments ###
+#### Programming Assignments ####
 There will a series of four programming assignments. See the [Assignments page](/assignments) for more details.
 
-### 4 Credit Project ###
+#### 4 Credit Project ####
 If you are taking the course for 4 credits, you will complete an extra project implelementing a ray-tracer.
 
-### Exams ###
+#### Exams ####
 This class will have three midterm exams and no final exam. Each exam is 50 minutes long 
 
 - Exam 1: 
@@ -121,12 +127,12 @@ The course grade cutoffs can be expected to be:
 
 ## Communication ##
 
-### [Piazza](piazza.com/illinois/fall2020/cs418/home) ###
+#### [Piazza](piazza.com/illinois/fall2020/cs418/home) ####
 We will use Piazza for answering questions and administering the course.
 
 Click the header to join/view the forum. You do not need a passcode.
 
-### Course Staff ###
+#### Course Staff ####
 See the [schedule for office hours](/officehours).
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
@@ -134,7 +140,7 @@ See the [schedule for office hours](/officehours).
 * TA: Huai Wu huaiwu2@illinois.edu
 * TA: Yichen Yang yy18@illinois.edu
 
-### Mental Health ###
+#### Mental Health ####
 Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.
 
 Counseling Center: 217-333-3704, 610 East John Street Champaign, IL 61820
