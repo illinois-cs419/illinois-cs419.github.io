@@ -22,56 +22,19 @@ The topics we will cover include:
 
 We will learn how to implement 3D web applications using WebGL and JavaScript. WebGL shares many of the same characteristics as Vulkan, Direct3D, and other popular low-level graphics APIs, so the skills you learn should be transferable.
 
-## Office Hours ##
-
-**Every Wednesday at 11am on [ZOOM](https://illinois.zoom.us/j/475317507)**
-
 ## Prerequisites ##
 We recommend the following courses and skills:
 
 - [CS 225](https://courses.engr.illinois.edu/cs225/){:target="_blank" rel="noopener"} - prior general programming experience
 - [Math 225](https://math.illinois.edu/resources/department-resources/syllabus-math-225){:target="_blank" rel="noopener"} or [Math 415](https://math.illinois.edu/resources/department-resources/syllabus-math-415){:target="_blank" rel="noopener"} - basic linear algebra, especially 3D transforms
 
+# Instructional Content #
+
 ## Lectures ##
 
 Lectures will be available
 
-## Weekly Quizes ##
-
-
-## Programming Assignments ##
-There will a series of four programming assignments. See the [Assignments page](/assignments) for more details.
-
-### 4 Credit Option ###
-If you are taking the course for 4 credits, you will complete an extra project implelementing a ray-tracer.
-
-## Exams ##
-This class will have three midterm exams and no final exam. Each exam is 50 minutes long 
-
-- Exam 1: 
-- Exam 2: 
-- Exam 3: 
-
-All exams are closed-everything (no book, notes, calculator, etc.). See the [CBTF policies](https://cbtf.engr.illinois.edu/for-students/policies.html) for more detail.You are responsible for all material covered in lectures and assignments.For DRES accommodations see [CBTF DRES Students](https://cbtf.engr.illinois.edu/for-students/dres-students.html)
-
-## Grades ##
-We will post grades on [Compass 2g](https://compass.illinois.edu){:target="_blank" rel="noopener"}.
-
-We weight grades as follows:
-
-| | 3 credits | 4 credits |  
-| ----- | ------ | ----- |  
-| MP 1 | 10% | 5% | 
-| MP 2 | 10% | 10% | 
-| MP 3 | 10% | 10% | 
-| MP 4 | 10% | 5% | 
-| Weekly Quizzes| 15%  | 15%  |
-| Exam Grade| 45% | 45% |   
-| 4 Credit Project | | 10% |  
-
-
-
-## Textbooks ##
+## Reading ##
 
 There is no book for the class. Notes and other materials will be posted online.
 We do have some suggested books if you need help figuring things out:
@@ -89,6 +52,66 @@ by Kouichi Matsuda and Rodger Lea
 A bit old now, but pretty easy to read with decent example code.   
 [UIUC Library E-book link](https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8494400)  
 
+## Office Hours ##
+
+**Every Wednesday at 11am on [ZOOM](https://illinois.zoom.us/j/475317507)**
+
+# Assessments #
+
+## Weekly Quizes ##
+
+
+## Programming Assignments ##
+There will a series of four programming assignments. See the [Assignments page](/assignments) for more details.
+
+### 4 Credit Option ###
+If you are taking the course for 4 credits, you will complete an extra project implelementing a ray-tracer.
+
+## Exams ##
+This class will have three midterm exams and no final exam. Each exam is 50 minutes long 
+
+- Exam 1: 
+- Exam 2: 
+- Exam 3: Dec. 9, 2020
+
+The exams will be online using Prairielearn. **They will be synchronous and available from 9am-10am Central Time on the day of the exam**
+They are open web - you can use any reference material you wish while taking the exam. You should not collaborate with other people. Any instances of collaboration will be considered a violation of academic integrity and will result in a 0 on the exam and a letter grade reduction in the final course grade. Also, the nature of the exam will make collaboration unhelpful - you will get a better grade working on your own rather than wasting time trying to work together.  
+
+# Grades #
+We will post grades on [Compass 2g](https://compass.illinois.edu){:target="_blank" rel="noopener"}.
+
+We weight grades as follows:
+
+| | 3 credits | 4 credits |  
+| ----- | ------ | ----- |  
+| MP 1 | 10% | 5% | 
+| MP 2 | 10% | 10% | 
+| MP 3 | 10% | 10% | 
+| MP 4 | 10% | 5% | 
+| Weekly Quizzes| 15%  | 15%  |
+| Exam Grade| 45% | 45% |   
+| 4 Credit Project | | 10% |  
+
+The course grade cutoffs can be expected to be:
+
+|Percentage lower bound | Grade |  
+| ----- | ------ | 
+| 98%| A+ |
+| 93% | A |  
+| 90% | A- |  
+| 87% | B+ |  
+| 83% | B |  
+| 80% | B- |  
+| 77% | C+ |  
+| 73% | C |  
+| 70% | C- | 
+| 67% | D+ |  
+| 63% | D |  
+| 60% | D- |  
+| 0%  | F  |
+
+
+# Communication #
 
 ## [Piazza](piazza.com/illinois/fall2020/cs418/home) ##
 We will use Piazza for answering questions and administering the course.
