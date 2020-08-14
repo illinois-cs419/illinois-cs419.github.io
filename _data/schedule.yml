@@ -1,102 +1,98 @@
 - 
-  date: "Jan 21"
-  materials: "[Hello Triangle HTML File](https://illinois-cs418.github.io/Examples/Hello Triangle.html) <br />
-              [Hello Color HTML file](https://illinois-cs418.github.io/Examples/HelloColor.html)  <br />
-              [Hello Color JS file](https://illinois-cs418.github.io/Examples/HelloColor.js)"
+  date: "Aug 24"
+  materials: ""
   title: "[Introduction to Rendering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture1-Introduction.pptx)"
 - 
-  date: "Jan 23"
-  materials: "[Worksheet 0](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet0.pdf) <br />
-              [Mozilla WebGL Tutorials](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)"
-  title: "[Introduction to WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture2-Webgl.pptx)"
+  date: "Aug 26"
+  materials: ""
+  title: "[Activity: Introduction to WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture2-Webgl.pptx)"
 - 
-  date: "Jan 28"
-  materials: "Suggested Reading: <br/> [_Modeling with Polygon Meshes_, Chapter 2](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/ThirdParty/PolygonMeshProcessing-2.pdf)"
-  title: "[Surface Meshes: Representation and Storage](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Meshes.pptx)"
+  date: "Aug 28"
+  materials: ""
+  title: "[Geometric Modeling: Surface Meshes](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Meshes.pptx)"
 - 
-  date: "Jan 30"
-  materials: "Suggested Reading: <br/>  [_3D math primer for graphics and game development_, Chapters 4 & 5](http://www.library.illinois.edu/proxy/go.php?url=https://www.taylorfrancis.com/books/9781439869819) <br /> 
-[Luxo Jr. Animation - 1986](https://www.youtube.com/watch?v=6G3O60o5U7w)"
+  date: "Aug 31"
+  materials: ""
   title: "[Affine Transformations](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture3-Transformations.pptx)"
 
 - 
-  date: "Feb 4"
-  materials: "[Mozilla WebGL Animation Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Animating_objects_with_WebGL) <br/>
-              [HelloCircle.zip](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/HelloCircle.zip)"
-  title: "[Basic Animation in WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture4-Animation.pptx) <br/>
-          [Lab 1](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab1-2020.pptx)"
-- 
-  date: "Feb 6"
+  date: "Sep 2"
   materials: ""
-  title: "[Hierarchical Modeling](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture5-Hierarchical%20Modeling.pptx)"
+  title: "[Activity: Basic Animation in WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture4-Animation.pptx)"
 - 
-  date: "Feb 11"
-  materials: "[WebGLFundamentals post on Cameras](https://webglfundamentals.org/webgl/lessons/webgl-3d-camera.html) <br/>
-               **Note:** They use a different matrix library and coding style...<br/>
-                         Don't worry about the text...look at the pictures." 
-  title: "[Viewing](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture8-View%20Transformation.pptx)"
--
-  date: "Feb 13"
-  materials: "[WebGLFundamentals Frustum Diagram](https://webglfundamentals.org/webgl/frustum-diagram.html)"
-  title: "[Projection](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture-Projection.pptx)"
-- 
-  date: "Feb 18"
+  date: "Sep 4"
   materials: ""
-  title: "**No Lecture: Exam Week**"
-- 
-  date: "Feb 20"
-  materials: "Worksheet: [Phong Reflection Model](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet-Phong.pdf)"
-  title: "[Shading](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture12-Shading%20.pptx)<br/>
-          [Surface Normals](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture11-SurfaceNormals.pptx)"
+  title: "[Hierarchical Modeling](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture5-Hierarchical%20Modeling.pptx) <br/> [View Transformation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture8-View%20Transformation.pptx)"
 
 - 
-  date: "Feb 25"
-  materials: "[Lab 2 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab2-Mesh.zip)"
-  title: "Lab2: [Mesh Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab2-2019.pptx)"
+  date: "Sep 7"
+  materials: ""
+  title: "**Labor Day (all-campus holiday)**"
+
 - 
-  date: "Feb 27"
-  materials: "[Lab 3 Code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3-Sp2020.zip)"
-  title: "Lab 3: [Terrain Generation Lab](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab3-2020.pptx)
-          <br/> [Terrain Generation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture10-TerrainGeneration.pptx)"
+  date: "Sep 9"
+  materials: "" 
+  title: "[Activity: The Phong Shading Model](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture12-Shading%20.pptx)"  
+-
+  date: "Sep 11"
+  materials: ""
+  title: "[Projection](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture-Projection.pptx)"
 - 
-  date: "Mar 3"
+  date: "Sep 14"
+  materials: ""
+  title: "[Shading]() <br/> [Surface Normals](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture11-SurfaceNormals.pptx) "
+- 
+  date: "Sep 16"
+  materials: ""
+  title: "**Exam 1**"
+
+- 
+  date: "Sep 18"
+  materials: ""
+  title: "[Software Engineering and WebGL]()"
+- 
+  date: "Sep 21"
+  materials: " 
+  title: "[Geometric Modeling: Procedural Mesh Generation]"
+- 
+  date: "Sep 23"
+  materials: ""
+  title: "[Activity: User Interaction on the Web](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pptx) &nbsp; [[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pdf )"
+- 
+  date: "Sep 25"
   materials: "Suggested Reading: <br/>  [_3D math primer for graphics and game development_, Chapter 8](http://www.library.illinois.edu/proxy/go.php?url=https://www.taylorfrancis.com/books/9781439869819)"
   title: "[Mathematics for Orientation](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS-418-Orientation.pptx)"
 
 - 
-  date: "Mar 5"
+  date: "Sep 28"
   materials: ""
-  title: "[User Interaction on the Web](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pptx) &nbsp; [[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture15-SimpleInteraction.pdf )<br/>
-          [Fog and Flying](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-FogAndFlying.pptx) &nbsp; [[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-FogAndFlying.pdf)"
--
-  date: "Mar 10"
-  materials: ""
-  title: "[Texture Mapping](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pptx) &nbsp; [[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture16-TextureMapping.pdf)"
--
-  date: "Mar 12"
-  materials: ""
-  title: "<br/> [Texture Filtering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pptx) &nbsp; [[PDF]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture18-TextureFiltering.pdf) "
+  title: "[Clipping]()"
 - 
-  date: "Mar 17"
+  date: "Sep 30"
   materials: ""
-  title: "**No Lecture: Spring Break**"
-- 
-  date: "Mar 19"
-  materials: ""
-  title: "**No Lecture: Spring Break**"
+  title: "[Activity: Rasterization]() "
+  
 -
-  date: "Mar 24"
-  materials: "[Environment Mapping Notes](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture19-EnvironmentMapping.pdf)"
-  title: "  Guest Lectures by John Hart <br/> [Bump Mapping Video](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=ee15c7de-5dba-43c3-ba20-bb5848f46393) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Bump-Mapping.pdf) <br/>
-            [Environment Mapping Video](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a9861a69-ab07-4206-9a9d-e6ec5871ad4a) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Environment-Mapping.pdf)"
+  date: "Oct 2"
+  materials: "[Rasterization]() <br/> [Simulating Fog]"
+  
+-
+  date: "Oct 5"
+  materials: ""
+  title:"[Color Spaces]"
+  
+-
+  date: "Oct 7"
+  materials: ""
+  title: "[Images]()"
 - 
-  date: "Mar 26"
+  date: "Oct 9"
   materials: "Lab4: Reading an OBJ File &nbsp; [PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab4-2020.pdf) &nbsp; [Lab4-Sp2020.zip](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab4-Sp2020.zip)"
   title: "Guest Lectures by John Hart <br/>
           [Texture Shading Video](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=2a6cf3b5-a615-46eb-b522-6f825804ab85) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Texture-Shading.pdf) <br/>
           [Fragment Shader Video](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a7a55b8d-626c-4df2-9ba7-8b2ffc2887e3) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Fragment-Shader.pdf)  "
 - 
-  date: "Mar 31"
+  date: "Oct 12"
   materials: ""
   title: "Guest Lectures by John Hart <br/>
            [Additive Color](https://classtranscribe.illinois.edu/video?id=6a3605a8-65d7-4ff3-b3c3-564229576b2c&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/AdditiveColor.pdf)<br/>
@@ -104,12 +100,12 @@
            [Color Spaces](https://classtranscribe.illinois.edu/video?id=8a6696f3-b3a0-48fa-bbe6-b76d2a708632&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/ColorSpaces.pdf)<br/>
            [Perceptual Color Spaces](https://classtranscribe.illinois.edu/video?id=d8ac6319-fba6-43dc-a2d4-7a01cf56c29b&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/PerceptualColor.pdf)"
 - 
-  date: "April 2"
+  date: "Oct 14"
   materials: ""
   title: "Guest Lectures by John Hart <br/>
         [Alpha Compositing](https://classtranscribe.illinois.edu/video?id=e33262b0-e6e9-4610-97b5-023b14ec1468&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Alpha.pdf)"
 - 
-  date: "Apr 7"
+  date: "Oct 16"
   materials: ""
   title: "Images <br/>
            [Images](https://classtranscribe.illinois.edu/video?id=ef39510e-e0f6-4c06-a48a-bf0307b79c44&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/images.pdf)<br/>
@@ -117,32 +113,32 @@
            [Formats](https://classtranscribe.illinois.edu/video?id=033727ab-f97b-493a-8095-1132c26655af&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/formats.pdf)<br/>
            [Dithering](https://classtranscribe.illinois.edu/video?id=4b6539c1-37e9-4d90-8ee8-d73b051f3823&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/dithering.pdf)"
 -
-  date: "Apr 9"
+  date: "Oct 19"
   materials: ""
   title: "Rasterization <br/>
            [Lines](https://classtranscribe.illinois.edu/video?id=f3445f64-d155-4556-958a-03f372c60034&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/lineRaster.pdf) <br/>
            [Polygons](https://classtranscribe.illinois.edu/video?id=51206e06-f20b-436a-b761-2c082579ef00&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/polygonRaster.pdf) <br/>
            [Tiles](https://classtranscribe.illinois.edu/video?id=05e15a47-ad56-47ed-91b8-2de96e80d3e4&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/tileRaster.pdf)"
 -
-  date: "Apr 14"
+  date: "Oct 21"
   materials: ""
   title: "Geometric Modeling: Parametric Curves <br/>
           [Cubic Curves](https://classtranscribe.illinois.edu/video?id=e4d8c17d-5e23-47e7-ab4b-35e89acf518c&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Cubic-Curves.pdf) <br/>
           [Hermite Curves](https://classtranscribe.illinois.edu/video?id=17d04191-00d3-4668-8840-ca09dc717ca4&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Hermite-Curves.pdf) <br/>
           [Bezier Curves](https://classtranscribe.illinois.edu/video?id=969dec0a-f9d5-4173-947f-9b48550f0c3a&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Bezier-Curves.pdf)"
 - 
-  date: "Apr 16"
+  date: "Oct 23"
   materials: ""
   title: "Geometric Modeling: Parametric Curves <br/>
           [B-Splines](https://classtranscribe.illinois.edu/video?id=25268313-f1eb-4796-9c50-d49c708f973d&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/B-Splines.pdf) <br/>
           [Rational Curves](https://classtranscribe.illinois.edu/video?id=f568b7f1-61c2-41c7-9f4e-74791c0c7c42&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Rational-Curves.pdf)"
 - 
-  date: "Apr 21"
+  date: "Oct 26"
   materials: "" 
   title: "Animation: Physics <br/>
           [Physics Lecture from Fall 2019](https://classtranscribe.illinois.edu/video?id=9ffe9353-c2a7-41af-9f8c-86b681c7ee6a&from=sharedlink) [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Physics.pdf)"
 - 
-  date: "Apr 23"
+  date: "Oct 28"
   materials: ""
   title: "Geometric Modeling: Parametric Curves <br/>
           [Bezier Blossoms](https://classtranscribe.illinois.edu/video?id=98a30365-56ce-4fb9-bbcb-e07b57fe7839&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Blossoms1.pdf) <br/>
@@ -150,23 +146,93 @@
           [More B-Spline Blossoms](https://classtranscribe.illinois.edu/video?id=987d4817-136f-4569-b40a-8e2af4907b3b&from=sharedlink)&nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Blossoms3.pdf) "
           
 - 
-  date: "Apr 28"
+  date: "Oct 30"
   materials: ""
   title: "Geometric Modeling: Parametric Surfaces <br/>
           [Parametric Surfaces](https://classtranscribe.illinois.edu/video?id=fffbf61c-6e29-4f1f-940e-e49b9074d996&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/parmSurfaces.pdf)<br/>
           [Subdivision Surfaces](https://classtranscribe.illinois.edu/video?id=823ae704-5e83-4c89-8740-ac34e92dc739&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/subdivSurfaces.pdf)"
 - 
-  date: "Apr 30"
+  date: "Nov 2"
   materials: ""
   title: "Geometric Modeling: Mesh Processing <br/>
                [Good Meshes](https://classtranscribe.illinois.edu/video?id=c5a18a69-7133-48f0-ab1e-b529f90d21e6&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/goodMeshes.pdf)<br/><br/>
                [Half Edge Mesh Representation](https://classtranscribe.illinois.edu/video?id=3bd1acef-584b-475a-8d1c-272712638247&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/halfEdge.pdf)<br/> <br/>
                [Mesh Simplification](https://classtranscribe.illinois.edu/video?id=ffed656e-9c56-4a82-9e61-e8c6f4f0f60b&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/meshSimp.pdf)<br/>"
 -
-  date: "May 5"
+  date: "Nov 4"
   materials: ~
-  title: "**Exam**"
-
-
+  title: ""
+-
+  date: "Nov 6"
+  materials: ~
+  title: ""
+  
+-
+  date: "Nov 9"
+  materials: ~
+  title: ""
+  
+-
+  date: "Nov 11"
+  materials: ~
+  title: ""
+  
+-
+  date: "Nov 13"
+  materials: ~
+  title: ""
+  
+-
+  date: "Nov 16"
+  materials: ~
+  title: ""
+-
+  date: "Nov 18"
+  materials: ~
+  title: ""
+  
+-
+  date: "Nov 20"
+  materials: ~
+  title: ""
+  
+-
+  date: "Nov 23"
+  materials: ~
+  title: "**Fall Break**"
+  
+-
+  date: "Nov 25"
+  materials: ~
+  title: "**Fall Break**"
+-
+  date: "Nov 27"
+  materials: ~
+  title: "**Fall Break** "
+-
+  date: "Nov 30"
+  materials: ~
+  title: ""
+  
+-
+  date: "Dec 2"
+  materials: ~
+  title: ""
+  
+-
+  date: "Dec 4"
+  materials: ~
+  title: ""
+  
+-
+  date: "Dec 6"
+  materials: ~
+  title: ""-
+  
+-
+  date: "Dec 9"
+  materials: ~
+  title: "**Exam 3**"
+  
 
   
