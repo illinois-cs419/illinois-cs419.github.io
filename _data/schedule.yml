@@ -88,51 +88,32 @@
   title: ""
 - 
   date: "Oct 9"
-  materials: "Lab4: Reading an OBJ File &nbsp; [PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/CS418-Lab4-2020.pdf) &nbsp; [Lab4-Sp2020.zip](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab4-Sp2020.zip)"
-  title: "Guest Lectures by John Hart <br/>
-          [Texture Shading Video](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=2a6cf3b5-a615-46eb-b522-6f825804ab85) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Texture-Shading.pdf) <br/>
-          [Fragment Shader Video](https://classtranscribe.illinois.edu/video?courseNumber=CS418&id=a7a55b8d-626c-4df2-9ba7-8b2ffc2887e3) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Fragment-Shader.pdf)  "
+  materials: ""
+  title: ""
 - 
   date: "Oct 12"
   materials: ""
-  title: "Guest Lectures by John Hart <br/>
-           [Additive Color](https://classtranscribe.illinois.edu/video?id=6a3605a8-65d7-4ff3-b3c3-564229576b2c&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/AdditiveColor.pdf)<br/>
-           [Subtractive Color](https://classtranscribe.illinois.edu/video?id=bdec0e2f-156e-40b8-a039-c37161443d81&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/SubtractiveColor.pdf)<br/>
-           [Color Spaces](https://classtranscribe.illinois.edu/video?id=8a6696f3-b3a0-48fa-bbe6-b76d2a708632&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/ColorSpaces.pdf)<br/>
-           [Perceptual Color Spaces](https://classtranscribe.illinois.edu/video?id=d8ac6319-fba6-43dc-a2d4-7a01cf56c29b&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/PerceptualColor.pdf)"
+  title: ""
 - 
   date: "Oct 14"
   materials: ""
-  title: "Guest Lectures by John Hart <br/>
-        [Alpha Compositing](https://classtranscribe.illinois.edu/video?id=e33262b0-e6e9-4610-97b5-023b14ec1468&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Alpha.pdf)"
+  title: ""
 - 
   date: "Oct 16"
   materials: ""
-  title: "Images <br/>
-           [Images](https://classtranscribe.illinois.edu/video?id=ef39510e-e0f6-4c06-a48a-bf0307b79c44&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/images.pdf)<br/>
-           [Resolution](https://classtranscribe.illinois.edu/video?id=dd6b039c-06cc-4e05-9fb4-5ed773406234&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/resolution.pdf)<br/>
-           [Formats](https://classtranscribe.illinois.edu/video?id=033727ab-f97b-493a-8095-1132c26655af&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/formats.pdf)<br/>
-           [Dithering](https://classtranscribe.illinois.edu/video?id=4b6539c1-37e9-4d90-8ee8-d73b051f3823&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/dithering.pdf)"
+  title: ""
 -
   date: "Oct 19"
   materials: ""
-  title: "Rasterization <br/>
-           [Lines](https://classtranscribe.illinois.edu/video?id=f3445f64-d155-4556-958a-03f372c60034&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/lineRaster.pdf) <br/>
-           [Polygons](https://classtranscribe.illinois.edu/video?id=51206e06-f20b-436a-b761-2c082579ef00&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/polygonRaster.pdf) <br/>
-           [Tiles](https://classtranscribe.illinois.edu/video?id=05e15a47-ad56-47ed-91b8-2de96e80d3e4&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/tileRaster.pdf)"
+  title: ""
 -
   date: "Oct 21"
   materials: ""
-  title: "Geometric Modeling: Parametric Curves <br/>
-          [Cubic Curves](https://classtranscribe.illinois.edu/video?id=e4d8c17d-5e23-47e7-ab4b-35e89acf518c&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Cubic-Curves.pdf) <br/>
-          [Hermite Curves](https://classtranscribe.illinois.edu/video?id=17d04191-00d3-4668-8840-ca09dc717ca4&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Hermite-Curves.pdf) <br/>
-          [Bezier Curves](https://classtranscribe.illinois.edu/video?id=969dec0a-f9d5-4173-947f-9b48550f0c3a&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Bezier-Curves.pdf)"
+  title: ""
 - 
   date: "Oct 23"
   materials: ""
-  title: "Geometric Modeling: Parametric Curves <br/>
-          [B-Splines](https://classtranscribe.illinois.edu/video?id=25268313-f1eb-4796-9c50-d49c708f973d&from=sharedlink) &nbsp; [[Slides]](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/B-Splines.pdf) <br/>
-          [Rational Curves](https://classtranscribe.illinois.edu/video?id=f568b7f1-61c2-41c7-9f4e-74791c0c7c42&from=sharedlink) &nbsp; [[Slides](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Rational-Curves.pdf)"
+  title: ""
 - 
   date: "Oct 26"
   materials: "" 
