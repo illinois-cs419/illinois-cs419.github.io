@@ -44,7 +44,7 @@
 - 
   date: "Sep 16"
   materials: ""
-  title: "**Exam 1**"
+  title: ""
 
 - 
   date: "Sep 18"
@@ -70,7 +70,7 @@
   title: ""
 - 
   date: "Sep 30"
-  materials: ""
+  materials: "**Exam 1**"
   title: ""
   
 -
@@ -134,7 +134,7 @@
 -
   date: "Nov 4"
   materials: ~
-  title: ""
+  title: "**Exam 2**"
 -
   date: "Nov 6"
   materials: ~
