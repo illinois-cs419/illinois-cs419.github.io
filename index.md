@@ -59,7 +59,7 @@ A bit old now, but pretty easy to read with decent example code.
 
 ### Office Hours ###
 
-**Every Wednesday at 10am on [ZOOM](https://illinois.zoom.us/j/93019304365?pwd=elBOT0Nrayt2YW1NVlA4NFB2dVR2Zz09)**
+**Every Wednesday at noon Central Time on [ZOOM](https://illinois.zoom.us/j/91320597674?pwd=TTRXeVpqUENJL3JyWXBnZ3lnNjg0QT09)**
 
 ## Assessments ##
 
