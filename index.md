@@ -37,10 +37,11 @@ The course will be taught using online lectures along with suggested additional 
 + **You can attend live lectures at 9am Central Time on Wednesdays at this [Zoom link](https://illinois.zoom.us/j/93019304365?pwd=elBOT0Nrayt2YW1NVlA4NFB2dVR2Zz09)**.
 We will focus on actively working through problems and doing code walkthroughs. These lectures will be recorded and available on the [course schedule](https://illinois-cs418.github.io/schedule).
 
-+ Additional lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs418.github.io/schedule).
++ Additional lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs418.github.io/schedule).  
+
 **You can expect new lectures to be posted by the end of the day on Monday, Wednesday, and Friday.** 
 
-We know attending online synchronous can be difficult so there is no required attendance. If you can attend the Wednesday lecture, please do so.
+We know attending online synchronous lectures can be difficult, so there is no required attendance. If you can attend the Wednesday lecture, please do so.
 
 #### Office Hours ####
 
@@ -67,10 +68,11 @@ A bit old now, but pretty easy to read with decent example code.
 
 ## Assessments ##
 
-Assigned work will include 12 quizzes, 4 programming assignments and 3 exams. there will be an additional project for students taking the course for 4 credits.
+Assigned work will include 10 quizzes, 4 programming assignments and 3 exams. there will be an additional project for students taking the course for 4 credits.
 
 #### Weekly Quizes ####
 There will be short weekly quizzes on PrairieLearn. These quizzes will be based on the lecture material and will serve as practice for the exams
+**Each quiz can be taken repeatedly..you can retake it till you get all the questions correct**
 
 + **They are due by Friday at midnight of the following week (e.g. Quiz 1 is due by Friday of Week 2).**
 + They can be completed late for 50% credit at any time before Dec. 9.
