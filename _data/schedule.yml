@@ -22,7 +22,7 @@
 - 
   date: "Sep 4"
   materials: ""
-  title: ""
+  title: "** Quiz 1 Due**"
 
 - 
   date: "Sep 7"
@@ -36,7 +36,7 @@
 -
   date: "Sep 11"
   materials: ""
-  title: ""
+  title: "** Quiz 2 Due**"
 - 
   date: "Sep 14"
   materials: ""
@@ -48,7 +48,7 @@
 
 - 
   date: "Sep 18"
-  materials: ""
+  materials: "** Quiz 3 Due**"
   title: ""
   
 - 
@@ -61,7 +61,7 @@
   title: ""
 - 
   date: "Sep 25"
-  materials: ""
+  materials: "** Quiz 4 Due**"
   title: ""
 
 - 
@@ -70,8 +70,8 @@
   title: ""
 - 
   date: "Sep 30"
-  materials: "**Exam 1**"
-  title: ""
+  materials: ""
+  title: "**Exam 1**"
   
 -
   date: "Oct 2"
@@ -89,7 +89,7 @@
 - 
   date: "Oct 9"
   materials: ""
-  title: ""
+  title: "** Quiz 5 Due**"
 - 
   date: "Oct 12"
   materials: ""
@@ -101,7 +101,7 @@
 - 
   date: "Oct 16"
   materials: ""
-  title: ""
+  title: "** Quiz 6 Due**"
 -
   date: "Oct 19"
   materials: ""
@@ -113,7 +113,7 @@
 - 
   date: "Oct 23"
   materials: ""
-  title: ""
+  title: "** Quiz 7 Due**"
 - 
   date: "Oct 26"
   materials: "" 
@@ -126,7 +126,7 @@
 - 
   date: "Oct 30"
   materials: ""
-  title: ""
+  title: "** Quiz 8 Due**"
 - 
   date: "Nov 2"
   materials: ""
@@ -153,7 +153,7 @@
 -
   date: "Nov 13"
   materials: ~
-  title: ""
+  title: "** Quiz 9 Due**"
   
 -
   date: "Nov 16"
@@ -167,7 +167,7 @@
 -
   date: "Nov 20"
   materials: ~
-  title: ""
+  title: "** Quiz 10 Due**"
   
 -
   date: "Nov 23"
