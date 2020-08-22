@@ -129,7 +129,7 @@ The course grade cutoffs can be expected to be:
 
 ## Communication ##
 
-#### [Piazza](piazza.com/illinois/fall2020/cs418/home) ####
+#### [Piazza](https://piazza.com/class/kdt5hrgnoh17o8) ####
 We will use Piazza for answering questions and administering the course.
 
 Click the header to join/view the forum. You do not need a passcode.
