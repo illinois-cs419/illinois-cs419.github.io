@@ -12,20 +12,23 @@
 - 
   date: "Aug 28"
   materials: ""
-  title: "[Geometric Modeling: Surface Meshes]()"
+  title: "[Geometric Modeling: Surface Meshes]()<br/>
+          [More WebGL]()"
 - 
   date: "Aug 31"
   materials: ""
-  title: ""
+  title: "[2D Affine Transformation]() <br/>
+          [3D Affine Transformations]()"
 
 - 
   date: "Sep 2"
   materials: ""
-  title: ""
+  title: "[WebGL: Animation]()"
 - 
   date: "Sep 4"
   materials: ""
-  title: "**Quiz 1 Due**"
+  title: "**Quiz 1 Due** <br/>
+          [Hierarchical Modeling]() <br/>"
 
 - 
   date: "Sep 7"
