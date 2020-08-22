@@ -1,15 +1,18 @@
 - 
   date: "Aug 24"
   materials: ""
-  title: "[Introduction to Rendering](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture1-Introduction.pptx)"
+  title: "[Color and Digital Display Devices]() <br/>
+          [Introduction to Rendering]() <br/>
+          [Rasterization]()"
 - 
   date: "Aug 26"
   materials: ""
-  title: "[Activity: Introduction to WebGL](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Lecture2-Webgl.pptx)"
+  title: "[Course Orientation]() <br/>
+          [Introduction to WebGL]()"
 - 
   date: "Aug 28"
   materials: ""
-  title: "[Geometric Modeling: Surface Meshes](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/CS418-Meshes.pptx)"
+  title: "[Geometric Modeling: Surface Meshes]()"
 - 
   date: "Aug 31"
   materials: ""
