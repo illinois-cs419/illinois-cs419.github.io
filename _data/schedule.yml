@@ -1,9 +1,11 @@
 - 
   date: "Aug 24"
-  materials: ""
-  title: "[Color and Digital Display Devices]() <br/>
-          [Introduction to Rendering]() <br/>
-          [Rasterization]()"
+  materials: "[Color and Digital Display Devices PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-1-1-DigitalImages.pdf) <br/>
+          [Rendering PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-1-2-Rendering.pdf) <br/>
+          [Rasterization PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-1-3-Rasterization.pdf)"
+  title: "[Color and Digital Display Devices - Video](https://classtranscribe.illinois.edu/video?id=1861db1e-bf3a-4a04-be97-192d5f2494f3&from=sharedlink) <br/>
+          [Rendering - Video](https://classtranscribe.illinois.edu/video?id=9dee4b37-9fd4-4efb-aa48-7cd433cb4c0d&from=sharedlink) <br/>
+          [Rasterization - Video](https://classtranscribe.illinois.edu/video?id=d7009251-ce8e-4ac6-bd99-74c3d928a928&from=sharedlink)"
 - 
   date: "Aug 26"
   materials: ""
