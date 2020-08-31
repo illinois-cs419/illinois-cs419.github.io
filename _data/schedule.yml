@@ -20,19 +20,21 @@
           [Geometric Data in WebGL Video](https://classtranscribe.illinois.edu/video?id=a6c4ee35-e00e-4163-ae0d-7dd189ec3441&from=sharedlink)"
 - 
   date: "Aug 31"
-  materials: ""
-  title: "[2D Affine Transformation]() <br/>
-          [3D Affine Transformations]()"
+  materials: "[2D Affine Transformation PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-4-1-Affine%20Transformations.pdf) <br/>
+          [3D Affine Transformations PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-4-2-Affine%20Transformations.pdf)"
+  title: "[2D Affine Transformation - Video](https://classtranscribe.illinois.edu/video?id=4f3806ff-6106-41de-911f-ea3ad9d80a97&from=sharedlink) <br/>
+          [3D Affine Transformations - Video](https://classtranscribe.illinois.edu/video?id=c4ff26cb-2a4c-4ea0-8d35-b586892a62c1&from=sharedlink)"
 
 - 
   date: "Sep 2"
   materials: ""
-  title: "[WebGL: Animation]()"
+  title: "[WebGL Program Walkthrough]()"
 - 
   date: "Sep 4"
   materials: ""
   title: "**Quiz 1 Due** <br/>
-          [Hierarchical Modeling]() <br/>"
+          [Hierarchical Modeling]() <br/>
+          [WebGL: Animation]()"
 
 - 
   date: "Sep 7"
