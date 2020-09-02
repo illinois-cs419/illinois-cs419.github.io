@@ -26,7 +26,7 @@ var vertexColorBuffer;
  */
 function createGLContext(canvas) {
   var context = null;
-  context = canvas.getContext("webgl");
+  context = canvas.getContext("webgl2");
   if (context) {
     context.viewportWidth = canvas.width;
     context.viewportHeight = canvas.height;
