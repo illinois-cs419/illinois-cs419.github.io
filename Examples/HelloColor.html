@@ -16,7 +16,13 @@ void main(void) {
 </script>
   
 <script id="shader-fs" type="x-shader/x-fragment">
+
+#ifdef GL_FRAGMENT_PRECISION_HIGH
+precision highp float;
+#else
 precision mediump float;
+#endif
+
 varying vec4 vColor;
 void main(void) {
         gl_FragColor = vColor;
