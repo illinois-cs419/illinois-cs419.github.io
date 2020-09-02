@@ -27,7 +27,7 @@
 
 - 
   date: "Sep 2"
-  materials: [WebGL Example HelloColor.html](https://illinois-cs418.github.io/Examples/HelloColor.html) <br/>
+  materials: "[WebGL Example HelloColor.html](https://illinois-cs418.github.io/Examples/HelloColor.html) <br/>
               [WebGL Example HelloColor.js](https://illinois-cs418.github.io/Examples/HelloColor.js)<br/>
               [Mozilla WebGL Documentation](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) <br/>
               [Chrome Developer Tools Documentaion](https://developers.google.com/web/tools/chrome-devtools)"
