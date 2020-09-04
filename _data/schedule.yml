@@ -35,10 +35,13 @@
           [**MP1 Realease**](https://illinois-cs418.github.io/assignments/mp1.html)"
 - 
   date: "Sep 4"
-  materials: ""
+  materials: "[Animation in WebGL PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-5-1-Animation.pdf) <br/>
+              [HelloAnimation.html](https://illinois-cs418.github.io/Examples/HelloAnimation.html) <br/>
+              [HelloAnimation.js](https://illinois-cs418.github.io/Examples/HelloAnimation.js) <br/>
+              [glmatrixmin.js](gl-matrix-min.js)<br/>
+              [glMatrix Library Documentation](http://glmatrix.net/)"
   title: "**Quiz 1 Due** <br/>
-          [Hierarchical Modeling]() <br/>
-          [WebGL: Animation]()"
+          [Animation in WebGL - Video](https://classtranscribe.illinois.edu/video?id=ec3ef2fd-6697-4692-922e-0e9dd347644a&from=sharedlink)"
 
 - 
   date: "Sep 7"
@@ -64,7 +67,7 @@
 
 - 
   date: "Sep 18"
-  materials: "**Quiz 3 Due**"
+  materials: "**Quiz 2 Due**"
   title: ""
   
 - 
@@ -77,7 +80,7 @@
   title: ""
 - 
   date: "Sep 25"
-  materials: "**Quiz 4 Due**"
+  materials: "**Quiz 3 Due**"
   title: ""
 
 - 
@@ -105,7 +108,7 @@
 - 
   date: "Oct 9"
   materials: ""
-  title: "**Quiz 5 Due**"
+  title: "**Quiz 4 Due**"
 - 
   date: "Oct 12"
   materials: ""
@@ -117,7 +120,7 @@
 - 
   date: "Oct 16"
   materials: ""
-  title: "**Quiz 6 Due**"
+  title: "**Quiz 5 Due**"
 -
   date: "Oct 19"
   materials: ""
@@ -129,7 +132,7 @@
 - 
   date: "Oct 23"
   materials: ""
-  title: "**Quiz 7 Due**"
+  title: "**Quiz 6 Due**"
 - 
   date: "Oct 26"
   materials: "" 
@@ -142,7 +145,7 @@
 - 
   date: "Oct 30"
   materials: ""
-  title: "**Quiz 8 Due**"
+  title: "**Quiz 7 Due**"
 - 
   date: "Nov 2"
   materials: ""
@@ -169,7 +172,7 @@
 -
   date: "Nov 13"
   materials: ~
-  title: "**Quiz 9 Due**"
+  title: "**Quiz 8 Due**"
   
 -
   date: "Nov 16"
@@ -183,7 +186,7 @@
 -
   date: "Nov 20"
   materials: ~
-  title: "**Quiz 10 Due**"
+  title: "**Quiz 9 Due**"
   
 -
   date: "Nov 23"
@@ -211,7 +214,7 @@
 -
   date: "Dec 4"
   materials: ~
-  title: ""
+  title: ""**Quiz 10 Due**""
   
 -
   date: "Dec 6"
