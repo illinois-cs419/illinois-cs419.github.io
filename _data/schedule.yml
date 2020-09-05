@@ -61,13 +61,13 @@
 - 
   date: "Sep 14"
   materials: ""
-  title: "**MP 1 Due** <br/>
-           [Perspective Projection]() <br/>
+  title: " [Perspective Projection]() <br/>
            [Perspective Projection in WebGL]()"
 - 
   date: "Sep 16"
   materials: ""
-  title: "[Geometric Modeling: Basic Mesh Data Structures]()"
+  title: "**MP 1 Due** <br/>
+           [Geometric Modeling: Basic Mesh Data Structures]()"
 
 - 
   date: "Sep 18"
