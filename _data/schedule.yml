@@ -38,7 +38,7 @@
   materials: "[Animation in WebGL PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-5-1-Animation.pdf) <br/>
               [HelloAnimation.html](https://illinois-cs418.github.io/Examples/HelloAnimation.html) <br/>
               [HelloAnimation.js](https://illinois-cs418.github.io/Examples/HelloAnimation.js) <br/>
-              [glmatrixmin.js](gl-matrix-min.js)<br/>
+              [gl-matrix-min.js](Examples/gl-matrix-min.js)<br/>
               [glMatrix Library Documentation](http://glmatrix.net/)"
   title: "**Quiz 1 Due** <br/>
           [Animation in WebGL - Video](https://classtranscribe.illinois.edu/video?id=ec3ef2fd-6697-4692-922e-0e9dd347644a&from=sharedlink)"
@@ -51,15 +51,19 @@
 - 
   date: "Sep 9"
   materials: "" 
-  title: ""  
+  title: "[Geometric Modeling: Basic Mesh Data Structures]() <br/>
+          [Orthographic Projection]()"  
 -
   date: "Sep 11"
   materials: ""
-  title: "**Quiz 2 Due**"
+  title: "[Hierarchical Modeling]() <br/>
+          [The Viewing Transformation]()"
 - 
   date: "Sep 14"
   materials: ""
-  title: "**MP 1 Due**"
+  title: "**MP 1 Due** <br/>
+           [Perspective Projection]() <br/>
+           [Perspective Projection in WebGL]()"
 - 
   date: "Sep 16"
   materials: ""
