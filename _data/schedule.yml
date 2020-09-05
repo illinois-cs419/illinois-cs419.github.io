@@ -51,7 +51,7 @@
 - 
   date: "Sep 9"
   materials: "" 
-  title: "[Geometric Modeling: Basic Mesh Data Structures]() <br/>
+  title: "[Debugging in WebGL]()<br/>
           [Orthographic Projection]()"  
 -
   date: "Sep 11"
@@ -67,12 +67,12 @@
 - 
   date: "Sep 16"
   materials: ""
-  title: ""
+  title: "[Geometric Modeling: Basic Mesh Data Structures]()"
 
 - 
   date: "Sep 18"
-  materials: "**Quiz 2 Due**"
-  title: ""
+  materials: ""
+  title: "**Quiz 2 Due**"
   
 - 
   date: "Sep 21"
@@ -81,11 +81,11 @@
 - 
   date: "Sep 23"
   materials: ""
-  title: ""
+  title: "[Implementing Shading in WebGL]()"
 - 
   date: "Sep 25"
-  materials: "**Quiz 3 Due**"
-  title: ""
+  materials: ""
+  title: "**Quiz 3 Due**"
 
 - 
   date: "Sep 28"
