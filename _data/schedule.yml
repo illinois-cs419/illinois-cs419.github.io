@@ -67,17 +67,19 @@
   date: "Sep 16"
   materials: ""
   title: "**MP 1 Due** <br/>
-           [Geometric Modeling: Basic Mesh Data Structures]()"
+           [Geometric Modeling: Procedural Mesh Geberation]()"
 
 - 
   date: "Sep 18"
   materials: ""
-  title: "**Quiz 2 Due**"
+  title: "**Quiz 2 Due** <br/>
+          [Geometric Modeling: Basic Mesh Data Structures]()
+          [Geometric Modeling: Terrain Generation]()"
   
 - 
   date: "Sep 21"
   materials: "" 
-  title: ""
+  title: "[Shading]()"
 - 
   date: "Sep 23"
   materials: ""
@@ -85,12 +87,13 @@
 - 
   date: "Sep 25"
   materials: ""
-  title: "**Quiz 3 Due**"
+  title: "**Quiz 3 Due**<br/>
+          [Mathematics for Orientation]()"
 
 - 
   date: "Sep 28"
   materials: ""
-  title: ""
+  title: "[Simulating Fog]()"
 - 
   date: "Sep 30"
   materials: ""
