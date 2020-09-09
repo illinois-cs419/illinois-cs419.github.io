@@ -54,48 +54,50 @@
               [Animation Example 2 PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-6-2-Animation-2.pdf) <br/>
               [HelloAnimation2.html](https://illinois-cs418.github.io/Examples/HelloAnimation2.html) <br/>
               [HelloAnimation2.js](https://illinois-cs418.github.io/Examples/HelloAnimation2.js)" 
-  title: "[Animation in WebGL Part 2 - Video]()"  
+  title: "[Animation in WebGL Part 2 - Video](https://classtranscribe.illinois.edu/video?id=2e6d7f53-72b1-449e-b6d2-663b6f201a7b&from=sharedlink)"  
 -
   date: "Sep 11"
   materials: ""
-  title: "[Hierarchical Modeling]() <br/>
-          [The Viewing Transformation]()"
+  title: "[Geometric Modeling: Polygonal Mesh Data Structures]() <br/>
+          [Geometric Primitives in WebGL]()"
 - 
   date: "Sep 14"
   materials: ""
-  title: " [Perspective Projection]() <br/>
-           [Perspective Projection in WebGL]()"
+  title: " [The View Transformation]() <br/>
+           [Hierarchical Modeling]()"
 - 
   date: "Sep 16"
   materials: ""
   title: "**MP 1 Due** <br/>
-           [Geometric Modeling: Procedural Mesh Geberation]()"
+           [Using the View Transformation]()"
 
 - 
   date: "Sep 18"
   materials: ""
   title: "**Quiz 2 Due** <br/>
-          [Geometric Modeling: Basic Mesh Data Structures]()
+          [Geometric Modeling: Procedural Mesh Generation]() <br/>
           [Geometric Modeling: Terrain Generation]()"
   
 - 
   date: "Sep 21"
   materials: "" 
-  title: "[Shading]()"
+  title: "[Orthographic Projection]() <br/>
+  [Perspective Projection]()"
 - 
   date: "Sep 23"
   materials: ""
-  title: "[Implementing Shading in WebGL]()"
+  title: "[Shading]()"
 - 
   date: "Sep 25"
   materials: ""
   title: "**Quiz 3 Due**<br/>
-          [Mathematics for Orientation]()"
+          [Shading in WebGL]()"
 
 - 
   date: "Sep 28"
   materials: ""
-  title: "[Simulating Fog]()"
+  title: "[Mathematics for Orientation]() <br/>
+          [Simulating Fog]()"
 - 
   date: "Sep 30"
   materials: ""
