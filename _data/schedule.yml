@@ -52,6 +52,7 @@
   date: "Sep 9"
   materials: "[Debugging WebGL](https://www.khronos.org/webgl/wiki/Debugging) <br/>
               [Animation Example 2 PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-6-2-Animation-2.pdf) <br/>
+              [gl-matrix-min.js](Examples/gl-matrix-min.js)<br/>
               [HelloAnimation2.html](https://illinois-cs418.github.io/Examples/HelloAnimation2.html) <br/>
               [HelloAnimation2.js](https://illinois-cs418.github.io/Examples/HelloAnimation2.js)" 
   title: "[Animation in WebGL Part 2 - Video](https://classtranscribe.illinois.edu/video?id=2e6d7f53-72b1-449e-b6d2-663b6f201a7b&from=sharedlink)"  
