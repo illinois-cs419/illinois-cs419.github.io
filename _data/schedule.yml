@@ -57,9 +57,8 @@
   title: "[Animation in WebGL Part 2 - Video](https://classtranscribe.illinois.edu/video?id=2e6d7f53-72b1-449e-b6d2-663b6f201a7b&from=sharedlink)"  
 -
   date: "Sep 11"
-  materials: ""
-  title: "[Geometric Modeling: Polygonal Mesh Data Structures]() <br/>
-          [Geometric Primitives in WebGL]()"
+  materials: "[Polygonal Mesh Data Structures PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-3-3-MeshStructures.pdf)"
+  title: "[Polygonal Mesh Data Structures - Video](https://classtranscribe.illinois.edu/video?id=7fc8e9ad-0891-4f09-811a-d55cdd713b14&from=sharedlink)"
 - 
   date: "Sep 14"
   materials: ""
