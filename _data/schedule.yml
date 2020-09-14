@@ -105,8 +105,8 @@
   
 -
   date: "Oct 2"
-  materials: "**Quiz 4 Due**"
-  
+  materials: ""
+  title: "**Quiz 4 Due**"
 -
   date: "Oct 5"
   materials: ""
@@ -118,8 +118,8 @@
   title: ""
 - 
   date: "Oct 9"
-  materials: "**Quiz 5 Due**"
-  title: ""
+  materials: ""
+  title: "**Quiz 5 Due**"
 - 
   date: "Oct 12"
   materials: ""
@@ -130,8 +130,8 @@
   title: ""
 - 
   date: "Oct 16"
-  materials: "**Quiz 6 Due**"
-  title: ""
+  materials: ""
+  title: "**Quiz 6 Due**"
 -
   date: "Oct 19"
   materials: ""
