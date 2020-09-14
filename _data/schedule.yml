@@ -66,31 +66,32 @@
   title: " [The View Transformation - Video](https://classtranscribe.illinois.edu/video?id=10d877c6-dd68-43fd-b470-41acde578c09&from=sharedlink)"
 - 
   date: "Sep 16"
-  materials: "[WebGL Debugging: spector.js](https://spector.babylonjs.com/)"
+  materials: "[WebGL Debugging: spector.js](https://spector.babylonjs.com/) <br/>
+              [Wikipedia: Phong Reflection Model](https://en.wikipedia.org/wiki/Phong_reflection_model)"
   title: "**MP 1 Due** <br/>
-           [Introduction to Shading]()"
+           [Introduction to Shading](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet-Phong.pdf)"
 
 - 
   date: "Sep 18"
   materials: ""
   title: "**Quiz 2 Due** <br/>
-          [Geometric Modeling: Procedural Mesh Generation]() <br/>
-          [Geometric Modeling: Terrain Generation]()"
+          [Shading]() <br/>
+          [Geometric Modeling: WebGL and Geometric Primitives]()"
   
 - 
   date: "Sep 21"
   materials: "" 
   title: "[Orthographic Projection]() <br/>
-  [Perspective Projection]()"
+          [Perspective Projection]()"
 - 
   date: "Sep 23"
   materials: ""
-  title: "[Shading]()"
+  title: "[Procedural Mesh Generation]()"
 - 
   date: "Sep 25"
   materials: ""
   title: "**Quiz 3 Due**<br/>
-          [Shading in WebGL]()"
+          [Terrain Generation]()"
 
 - 
   date: "Sep 28"
