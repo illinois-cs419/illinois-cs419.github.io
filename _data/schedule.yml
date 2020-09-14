@@ -62,9 +62,8 @@
   title: "[Polygonal Mesh Data Structures - Video](https://classtranscribe.illinois.edu/video?id=7fc8e9ad-0891-4f09-811a-d55cdd713b14&from=sharedlink)"
 - 
   date: "Sep 14"
-  materials: ""
-  title: " [The View Transformation]() <br/>
-           [Hierarchical Modeling]()"
+  materials: "[The View Transformation PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-7-1-clean.pdf)"
+  title: " [The View Transformation - Video](https://classtranscribe.illinois.edu/video?id=10d877c6-dd68-43fd-b470-41acde578c09&from=sharedlink)"
 - 
   date: "Sep 16"
   materials: "[WebGL Debugging: spector.js](https://spector.babylonjs.com/)"
