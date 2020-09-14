@@ -105,7 +105,7 @@
   
 -
   date: "Oct 2"
-  materials: ""
+  materials: "**Quiz 4 Due**"
   
 -
   date: "Oct 5"
@@ -118,8 +118,8 @@
   title: ""
 - 
   date: "Oct 9"
-  materials: ""
-  title: "**Quiz 4 Due**"
+  materials: "**Quiz 5 Due**"
+  title: ""
 - 
   date: "Oct 12"
   materials: ""
@@ -130,8 +130,8 @@
   title: ""
 - 
   date: "Oct 16"
-  materials: ""
-  title: "**Quiz 5 Due**"
+  materials: "**Quiz 6 Due**"
+  title: ""
 -
   date: "Oct 19"
   materials: ""
@@ -143,7 +143,7 @@
 - 
   date: "Oct 23"
   materials: ""
-  title: "**Quiz 6 Due**"
+  title: "**Quiz 7 Due**"
 - 
   date: "Oct 26"
   materials: "" 
@@ -156,7 +156,7 @@
 - 
   date: "Oct 30"
   materials: ""
-  title: "**Quiz 7 Due**"
+  title: "**Quiz 8 Due**"
 - 
   date: "Nov 2"
   materials: ""
@@ -183,7 +183,7 @@
 -
   date: "Nov 13"
   materials: ~
-  title: "**Quiz 8 Due**"
+  title: "**Quiz 9 Due**"
   
 -
   date: "Nov 16"
@@ -197,7 +197,7 @@
 -
   date: "Nov 20"
   materials: ~
-  title: "**Quiz 9 Due**"
+  title: "**Quiz 10 Due**"
   
 -
   date: "Nov 23"
@@ -225,7 +225,7 @@
 -
   date: "Dec 4"
   materials: ~
-  title: "**Quiz 10 Due**"
+  title: "**Optional: Quiz 11 Due**"
   
 -
   date: "Dec 6"
