@@ -38,7 +38,10 @@ rubric:
 
 ![University of Illnois Logo](/img/logo.png)
 
-For your first Machine Problem, you will create a 2-D animation of the majestic and inspiring University of Illinois logo (as shown above). You will also create a short 2-D animation of your choice…more details below….
+For your first Machine Problem, you will create **two** animations: 
+
++ a 2-D animation of the majestic and inspiring University of Illinois logo (as shown above)
++ you will also create a short 2-D animation of your choice…more details below
 
 To complete the MP, you will need to create a digital model of the logo, write code to render it, and write code to animate it.
 
@@ -58,7 +61,7 @@ Implement another motion by directly changng the vertex positions in the vertex 
 ## Your Own Animation
 Implement a second animation of your own design. It should still be simple, but it should be more than just a slightly different shape doing a similar dance. Some possibilities:
 
-+ It could have two logos collide.
++ It could have two different logos collide...with actual collision detecion and response.
 + It could be a mosaic in which the vertex positions don’t change but the colors of the pieces do.
 + It could be a stick figure jumping or walking.
 
