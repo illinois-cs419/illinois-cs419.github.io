@@ -67,16 +67,15 @@
 - 
   date: "Sep 16"
   materials: "[WebGL Debugging: spector.js](https://spector.babylonjs.com/) <br/>
-              [Wikipedia: Phong Reflection Model](https://en.wikipedia.org/wiki/Phong_reflection_model)"
+              [Wikipedia: Phong Reflection Model](https://en.wikipedia.org/wiki/Phong_reflection_model) <br/>
+              [Shading Worksheet](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet-Phong.pdf)"
   title: "**MP 1 Due** <br/>
-           [Introduction to Shading](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Worksheets/CS%20418-Worksheet-Phong.pdf)"
-
+           [Introduction to Shading - Video]()"
 - 
   date: "Sep 18"
   materials: ""
   title: "**Quiz 2 Due** <br/>
-          [Shading]() <br/>
-          [Geometric Modeling: WebGL and Geometric Primitives]()"
+          [Shading]()"
   
 - 
   date: "Sep 21"
