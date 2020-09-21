@@ -85,18 +85,18 @@
 - 
   date: "Sep 23"
   materials: ""
-  title: "[Procedural Mesh Generation]()"
+  title: "[Shading in WebGL]()"
 - 
   date: "Sep 25"
   materials: ""
   title: "**Quiz 3 Due**<br/>
-          [Terrain Generation]()"
+          [Perspective Projection]()"
 
 - 
   date: "Sep 28"
   materials: ""
-  title: "[Mathematics for Orientation]() <br/>
-          [Simulating Fog]()"
+  title: "[Procedural Mesh Generation]() <br/>
+          [Terrain Generation]()"
 - 
   date: "Sep 30"
   materials: ""
