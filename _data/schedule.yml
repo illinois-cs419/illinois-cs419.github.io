@@ -86,8 +86,10 @@
   date: "Sep 23"
   materials: "[HelloPhong.html](https://illinois-cs418.github.io/Examples/PhongReflection/HelloPhong.html) <br/>
               [HelloPhong.js](https://illinois-cs418.github.io/Examples/PhongReflection/HelloPhong.js) <br/>
+              [simpleModeling.js](https://illinois-cs418.github.io/Examples/PhongReflection/simpleModeling.js) <br/>
+              [webgl-utils.js](https://illinois-cs418.github.io/Examples/PhongReflection/webgl-utils.js) <br/>
               [Exam 1 Study Guide](https://piazza.com/class/kdt5hrgnoh17o8?cid=108)"
-  title: "[Shading in WebGL]()"
+  title: "[Shading in WebGL - Video](https://classtranscribe.illinois.edu/video?id=02e49561-6903-4fc2-bdee-cec360c2db1c&from=sharedlink)"
 - 
   date: "Sep 25"
   materials: ""
@@ -97,8 +99,7 @@
 - 
   date: "Sep 28"
   materials: ""
-  title: "[Procedural Mesh Generation]() <br/>
-          [Terrain Generation]()"
+  title: "[The Perspective and Frustum Matrices]()"
 - 
   date: "Sep 30"
   materials: ""
@@ -107,7 +108,8 @@
 -
   date: "Oct 2"
   materials: ""
-  title: ""
+  title: "[Procedural Mesh Generation]() <br/>
+          [Terrain Generation]()"
 -
   date: "Oct 5"
   materials: ""
