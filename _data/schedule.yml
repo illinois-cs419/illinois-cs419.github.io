@@ -84,7 +84,8 @@
   title: "[Orthographic Projection - Video](https://classtranscribe.illinois.edu/video?id=8f0f35b7-4194-49e9-a1c8-29faf19df23e&from=sharedlink)"
 - 
   date: "Sep 23"
-  materials: ""
+  materials: "[HelloPhong.html](https://illinois-cs418.github.io/Examples/PhongReflection/HelloPhong.html) <br/>
+              [HelloPhong.js](https://illinois-cs418.github.io/Examples/PhongReflection/HelloPhong.js) <br/>"
   title: "[Shading in WebGL]()"
 - 
   date: "Sep 25"
