@@ -30,6 +30,7 @@
     
     // Get the vertex position in view coordinates
     vec4 vertexPositionEye4 = uMVMatrix * vec4(aVertexPosition, 1.0);
+    vec3 vertexPositionEye3 = vertexPositionEye4.xyz;
   
     // Calculate the vector (l) to the light source
     vec3 vectorToLightSource = normalize(uLightPosition - vertexPositionEye3);
