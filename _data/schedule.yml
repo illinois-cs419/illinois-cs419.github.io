@@ -111,17 +111,18 @@
   title: "[Normal Vectors - Video](https://classtranscribe.illinois.edu/video?id=94f487e9-19b4-415a-8af5-1f6e61418bc9&from=sharedlink )"
 -
   date: "Oct 5"
-  materials: ""
-  title: ""
+  materials: "[Back Face Culling PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-14-Culling.pdf)"
+  title: "[Back Face Culling - Video](https://classtranscribe.illinois.edu/video?id=0c4b73ce-d80a-44e1-950a-dcdf0a071bab&from=sharedlink)"
   
 -
   date: "Oct 7"
   materials: ""
-  title: ""
+  title: "[Procedural Mesh Generation in WebGL]()"
 - 
   date: "Oct 9"
   materials: ""
-  title: "**Quiz 4 Due**"
+  title: "**Quiz 4 Due** <br/>
+          [Terrain Generation]()"
 - 
   date: "Oct 12"
   materials: ""
