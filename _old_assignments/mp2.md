@@ -89,7 +89,7 @@ Implement the Phong reflection model with **Phong shading**. This means your sha
 
 ### 4. Implement an elevation-based colormap for the terrain ###
 
-In your shading calculation, you should assign material colors (the $$k$$ values in the Blinn-Phong model) to vertices based on the elevation of the vertex. If you use the z-coordinate as elevation, that means you should base your color assignment on the value of the z-coordinate. For example, you could define four different intervals of z values and assign blue to the vertices in the lowest interval, green to the second lowest, brown to the second highest, and white to the highest. **This can be done in the vertex shader....which would be the most performant way to do it.** A useful reference for writing the GLSL code to do this is available on [www.shaderific.com](https://www.shaderific.com/glsl).
+In your shading calculation, you should assign material colors (the $$k$$ values in the Phong model) to vertices based on the elevation of the vertex. If you use the z-coordinate as elevation, that means you should base your color assignment on the value of the z-coordinate. For example, you could define four different intervals of z values and assign blue to the vertices in the lowest interval, green to the second lowest, brown to the second highest, and white to the highest. **This can be done in the vertex shader or fragment shader.** Using the shader programs to generate the material colors will be mroe performant than doiing so in your JS code. A useful reference for writing the GLSL code to do this is available on [www.shaderific.com](https://www.shaderific.com/glsl).
 
 ![Example Terraing](/img/terrain.PNG)
 
