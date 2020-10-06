@@ -111,8 +111,10 @@
   title: "[Normal Vectors - Video](https://classtranscribe.illinois.edu/video?id=94f487e9-19b4-415a-8af5-1f6e61418bc9&from=sharedlink )"
 -
   date: "Oct 5"
-  materials: "[Back Face Culling PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-14-Culling.pdf)"
-  title: "[Back Face Culling - Video](https://classtranscribe.illinois.edu/video?id=0c4b73ce-d80a-44e1-950a-dcdf0a071bab&from=sharedlink)"
+  materials: "[Back Face Culling PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-14-Culling.pdf) <br/>
+              [Indexed Meshes PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-13-IndexedMeshes.pdf)"
+  title: "[Back Face Culling - Video](https://classtranscribe.illinois.edu/video?id=0c4b73ce-d80a-44e1-950a-dcdf0a071bab&from=sharedlink)  <br/>
+              [Indexed Meshes - Video](https://classtranscribe.illinois.edu/video?id=67567527-f5d3-4222-8375-0fa5f2545c2e&from=sharedlink)"
   
 -
   date: "Oct 7"
