@@ -89,13 +89,13 @@ Implement the Phong reflection model with **Phong shading**. This means your sha
 
 ### 4. Implement an elevation-based colormap for the terrain ###
 
-In your shading calculation, you should assign material colors (the $$k$$ values in the Blinn-Phong model) to vertices based on the elevation of the vertex. If you use the z-coordinate as elevation, that means you should base your color assignment on the value of the z-coordinate. For example, you could define four different intervals of z values and assign blue to the vertices in the lowest interval, green to the second lowest, brown to the second highest, and white to the highest.
+In your shading calculation, you should assign material colors (the $$k$$ values in the Blinn-Phong model) to vertices based on the elevation of the vertex. If you use the z-coordinate as elevation, that means you should base your color assignment on the value of the z-coordinate. For example, you could define four different intervals of z values and assign blue to the vertices in the lowest interval, green to the second lowest, brown to the second highest, and white to the highest. **This can be done in the vertex shader....which would be the most performant way to do it.** A useful reference for writing the GLSL code to do this is available on [www.shaderific.com](https://www.shaderific.com/glsl).
 
 ![Example Terraing](/img/terrain.PNG)
 
-In the image above, you can see interpolation effects as colors are blended together. One way to achieve this look would be to assign the material colors either at the CPU level (in JavaScript) or in the vertex shader (which would be more performant) and pass them as varyings to the fragment shader to complete the shading process.
+In the image above, you can see interpolation effects as colors are blended together. One way to achieve this look would be to assign the material colors in the vertex shader and pass them as varyings to the fragment shader to complete the shading process.
 
-Or, you could generate material colors in fragment shader...you can implement you linear interpolation based on elevation...or you could decide not to interpolate and to have a stratified appearance or something else more sophisticated.
+Or, you could generate material colors in fragment shader...you can implement your own linear interpolation based on elevation...or you could decide not to interpolate and to have a stratified appearance or something else more sophisticated.
 
 ### 5. Comment appropriately ###
 
