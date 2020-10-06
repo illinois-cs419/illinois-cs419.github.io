@@ -2,7 +2,7 @@
 layout: assignment
 title: "MP2: Terrain Modeling Part 1"
 index: 10
-due: "Oct. 14, 2019 @ 11:59 PM"
+due: "Oct. 21, 2019 @ 11:59 PM"
 material: ~
 points: 9
 rubric:
@@ -84,8 +84,8 @@ In order for the mesh to be shaded correctly **you will also need to generate pe
 
 Your code should generate a view matrix and a perspective projection matrix in the javascript portion of the app and send them to the vertex shader...and use them to transform the vertices. You should use the [glMatrix library](http://glmatrix.net/) functions **`lookAt(out, eye, center, up)`{: style="background-color: GainsBoro"}** and **`perspective(out, fovy, aspect, near, far)`{: style="background-color: GainsBoro"}** to generate the matrices. It is up to you to understand how to specify the parameters to generate a good view. 
 
-### 3. Implement the Blinn-Phong reflection model ###
-Implement the Blinn-Phong illumination model with Phong shading. This means your shading calculations should be done per-fragment...meaning in the fragment shader. You can position your light source(s) anywhere in the scene as long as the rendered images are well-lit. You can use the [Lab 3 shader code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3-Fa2019.zip) as a starting point...the completed code implements the Phong relfection model and Phong shading. You will need to understand the difference between the two reflection models and make the relatively minor change to the code to switch it to Blinn-Phong. In addition, you will need to change how the shader handles material colors...you will need to generate a color for the terrain based on elevation as described below.
+### 3. Implement the Phong reflection model with Phong shading ###
+Implement the Phong reflection model with **Phong shading**. This means your shading calculations should be done per-fragment...meaning in the fragment shader. You can position your light source(s) anywhere in the scene as long as the rendered images are well-lit. You can use the [Lab 3 shader code](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Labs/Lab3-Fa2019.zip) as a starting point...In addition, you will need to change how the shader handles material colors...you will need to generate a color for the terrain based on elevation as described below.
 
 ### 4. Implement an elevation-based colormap for the terrain ###
 
