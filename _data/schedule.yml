@@ -130,8 +130,9 @@
           [Terrain Generation - Video](https://classtranscribe.illinois.edu/video?id=031995ee-adb1-4a95-b8e5-9dbc6d3da5c4&from=sharedlink)"
 - 
   date: "Oct 12"
-  materials: ""
-  title: ""
+  materials: "[Euler Angles PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-16-EulerAngles.pdf) <br>
+              [Euler Angles Visualization Tool](http://danceswithcode.net/engineeringnotes/rotations_in_3d/demo3D/rotations_in_3d_tool.html)"
+  title: "[Euler Angles - Video](https://classtranscribe.illinois.edu/video?id=acf73ea1-7a86-43ca-8b95-d4804765e07a&from=sharedlink)"
 - 
   date: "Oct 14"
   materials: "[MP2 Starter Code](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/Examples/Terrain-Fa2020.zip) <br/>
@@ -139,8 +140,9 @@
   title: " [MP2 Walkthrough - Video](https://classtranscribe.illinois.edu/video?id=4939103a-ea5e-4725-98b1-5df3f1cbf822&from=sharedlink)"
 - 
   date: "Oct 16"
-  materials: ""
-  title: "**Quiz 5 Due**"
+  materials: "[Quaternions PDF]()"
+  title: "**Quiz 5 Due** <br/>
+          [Quaternions - Video]()"
 -
   date: "Oct 19"
   materials: ""
