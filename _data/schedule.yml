@@ -126,7 +126,7 @@
   materials: "[No Man's Sky Workd Building - Sean Murray 2017 GDC Talk](https://youtu.be/C9RyEiEzMiU) <br/>
               [Terrain Generation PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-14-TerrainGeneration.pdf)"
   title: "**Quiz 4 Due** <br/>
-          **Quiz 5 Assigned** <br/>
+          **Quiz 6 Assigned** <br/>
           [Terrain Generation - Video](https://classtranscribe.illinois.edu/video?id=031995ee-adb1-4a95-b8e5-9dbc6d3da5c4&from=sharedlink)"
 - 
   date: "Oct 12"
@@ -140,9 +140,10 @@
   title: " [MP2 Walkthrough - Video](https://classtranscribe.illinois.edu/video?id=4939103a-ea5e-4725-98b1-5df3f1cbf822&from=sharedlink)"
 - 
   date: "Oct 16"
-  materials: "[Quaternions PDF]()"
+  materials: "[Quaternions PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-16-Quaternions.pdf)"
   title: "**Quiz 5 Due** <br/>
-          [Quaternions - Video]()"
+          **Quiz 7 Assigned** <br/>
+          [Quaternions - Video](https://classtranscribe.illinois.edu/video?id=f9ed8481-70ae-426e-b5f2-954f009981e3&from=sharedlink)"
 -
   date: "Oct 19"
   materials: ""
