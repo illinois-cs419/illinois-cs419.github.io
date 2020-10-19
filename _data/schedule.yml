@@ -146,16 +146,24 @@
           [Quaternions - Video](https://classtranscribe.illinois.edu/video?id=9805473d-6c97-456b-af52-2679b8f3049f&from=sharedlink)"
 -
   date: "Oct 19"
-  materials: ""
-  title: ""
+  materials: "[Color:Representing Intensity PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-17-Intensity.pdf) <br/>
+          [Color:HSV PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-17-3-HSV.pdf) <br/>
+          [Color:Perceptual Color Spaces PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-17-4-XYZ.pdf)"
+  title: "[Color:Representing Intensity - Video](https://classtranscribe.illinois.edu/video?id=3a538275-a259-44f1-8d17-c437ddf4ccc3&from=sharedlink) <br/>
+          [Color:HSV - Video](https://classtranscribe.illinois.edu/video?id=6d4fcf7b-7eb2-49f4-9a40-1f82ae4ae976&from=sharedlink) <br/>
+          [Color:Perceptual Color Spaces - Video](https://classtranscribe.illinois.edu/video?id=8829d27d-eef9-49eb-9e45-264de75b984d&from=sharedlink)"
 -
   date: "Oct 21"
   materials: ""
-  title: ""
+  title: "[MP 2 Part 2 Walkthrough]() <br/>
+          [User Interaction in JavaScript]()"
 - 
   date: "Oct 23"
   materials: ""
-  title: "**Quiz 6 Due**"
+  title: "**Quiz 6 Due** <br/>
+          **Quiz 8 Released** <br/>
+           [Color: sRGB]() <br/>
+           [Color: Gamma]()"
 - 
   date: "Oct 26"
   materials: "" 
