@@ -154,33 +154,35 @@
           [Color:Perceptual Color Spaces - Video](https://classtranscribe.illinois.edu/video?id=8829d27d-eef9-49eb-9e45-264de75b984d&from=sharedlink)"
 -
   date: "Oct 21"
-  materials: ""
-  title: "[MP 2 Part 2 Walkthrough]() <br/>
-          [User Interaction in JavaScript]()"
+  materials: "[Fog and Flying PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-18-Fog.pdf)"
+  title: "[MP 2 Part 2 Walkthrough - Video](https://classtranscribe.illinois.edu/video?id=5814a232-adad-43b8-8c79-8cb8fdf6312c&from=sharedlink)"
 - 
   date: "Oct 23"
   materials: ""
   title: "**Quiz 6 Due** <br/>
           **Quiz 8 Released** <br/>
-           [Color: sRGB]() <br/>
-           [Color: Gamma]()"
+           [User Interaction in JS]
+           "
 - 
   date: "Oct 26"
   materials: "" 
-  title: ""
+  title: "[Color: sRGB]() <br/>
+          [Color: Gamma]()"
 - 
   date: "Oct 28"
   materials: ""
-  title: ""
+  title: "[Texture Mapping Walkthrough]()"
           
 - 
   date: "Oct 30"
   materials: ""
-  title: "**Quiz 7 Due**"
+  title: "**Quiz 7 Due** <br/>
+          [Texture Mapping]()"
 - 
   date: "Nov 2"
   materials: ""
-  title: ""
+  title: "[Texture Mapping: Minification]() <br/>
+          [Texture Mapping: Magnification]()"
 -
   date: "Nov 4"
   materials: ~
@@ -188,7 +190,8 @@
 -
   date: "Nov 6"
   materials: ~
-  title: ""
+  title: "[Environment Mapping]() <br/>
+          [Normal Mapping]()"
   
 -
   date: "Nov 9"
