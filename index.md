@@ -43,10 +43,6 @@ We will focus on actively working through problems and doing code walkthroughs. 
 
 We know attending online synchronous lectures can be difficult, so there is no required attendance. If you can attend the Wednesday lecture, please do so.
 
-#### Office Hours ####
-
-**Every Wednesday at noon Central Time on [ZOOM](https://illinois.zoom.us/j/91320597674?pwd=TTRXeVpqUENJL3JyWXBnZ3lnNjg0QT09)**
-
 #### Reading ####
 
 There is no book for the class. Notes and other materials will be posted online on the [course schedule](https://illinois-cs418.github.io/schedule).
@@ -87,7 +83,7 @@ If you are taking the course for 4 credits, you will complete an extra project i
 This class will have three midterm exams and no final exam. Each exam is on the PrairieLearn platform.
 
 - Exam 1: 9am-10am, Sept. 30, 2020 
-- Exam 2: 9am-10am, Nov. 4, 2020
+- Exam 2: 9am-10am, Nov. 11, 2020
 - Exam 3: 9am-10am, Dec. 9, 2020
 
 The exams will be online using Prairielearn. **They will be synchronous and available from 9am-10am Central Time on the day of the exam**
