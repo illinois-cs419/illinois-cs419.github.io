@@ -119,7 +119,7 @@
 -
   date: "Oct 7"
   materials: "[Simple Procedural Mesh Generation PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/Terrain-2020.pdf)"
-  title: " [**MP2 Assigned**](https://illinois-cs418.github.io/assignments/mp2-1.html) <br/>
+  title: " [**MP2 Part 1 Assigned**](https://illinois-cs418.github.io/assignments/mp2-1.html) <br/>
            [Simple Procedural Mesh Generation in WebGL](https://classtranscribe.illinois.edu/video?id=6838deb5-b0e6-425a-83dc-6d7380f64e35&from=sharedlink)"
 - 
   date: "Oct 9"
@@ -155,7 +155,8 @@
 -
   date: "Oct 21"
   materials: "[Fog and Flying PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-18-Fog.pdf)"
-  title: "[MP 2 Part 2 Walkthrough - Video](https://classtranscribe.illinois.edu/video?id=5814a232-adad-43b8-8c79-8cb8fdf6312c&from=sharedlink)"
+  title: " [**MP2 Part 2 Assigned**](https://illinois-cs418.github.io/assignments/mp2-2.html) <br/>
+  [MP 2 Part 2 Walkthrough - Video](https://classtranscribe.illinois.edu/video?id=5814a232-adad-43b8-8c79-8cb8fdf6312c&from=sharedlink)"
 - 
   date: "Oct 23"
   materials: "[User Interaction in JS PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-18-1-Interaction.pdf)"
