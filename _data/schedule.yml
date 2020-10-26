@@ -165,9 +165,10 @@
            "
 - 
   date: "Oct 26"
-  materials: "" 
-  title: "[Color: sRGB]() <br/>
-          [Color: Gamma]()"
+  materials: "[Color: sRGB PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-17-sRGB.pdf) <br/>
+          [Color: Gamma PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-18-gamma.pdf)" 
+  title: "[Color: sRGB - Video]() <br/>
+          [Color: Gamma - Video]()"
 - 
   date: "Oct 28"
   materials: ""
@@ -186,7 +187,7 @@
 -
   date: "Nov 4"
   materials: ~
-  title: "**Exam 2**"
+  title: ""
 -
   date: "Nov 6"
   materials: ~
@@ -201,7 +202,7 @@
 -
   date: "Nov 11"
   materials: ~
-  title: ""
+  title: "**Exam 2**"
   
 -
   date: "Nov 13"
