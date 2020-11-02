@@ -53,17 +53,17 @@ Your app should have the following features:
 
 + Rendered in perspective
 + A skyboxed scene that can can be switched between:
-  1. A London street (images provided below)
-  2. A scene you capture using a camera and convert into a cubemap (instructions below)
+  1. A London street (images provided below)[]
+  2. A scene you capture using a camera and convert into a cubemap (instructions below)[]
 + Allow the user view to orbit around the teapot.
 + A control in the HTML that allows the user to switch between
   1. simply shading the teapot
   2. making the teapot reflective
-  3. making the teapot refractive.
+  3. making the teapot refractive
 
 + Your code should use a cubemap for the required texture effects.
-  1. **Reflection on the teapot should always be consistent with the scene rendered on the skybox**
-  2. When using the cube map on the teapot, you do not have to also use Phong relection. 
+  1. Reflection on the teapot should always be consistent with the scene rendered on the skybox.
+  2. When using the cube map on the teapot, you do not have to also use Phong reflection. 
 
 Your app should look something like the image above.
 
@@ -87,8 +87,10 @@ Here's a suggested plan of attack:
 ## Multiple Shaders ##
 You should implement more than one shader program for this MP. At a minimum, it makes sense to have separate shaders for the teapot and skybox. You could break it down even further and have three shader programs for the teapot (Phong, reflective, and refractive). **Be very careful if you cut and paste code when doing this.** In given code using single shaders, lots of information, e.g. location of attributes in the shader program, is stored as attributes of the program object. You will need to handle these correctly for each shader program.
 
+
 ## London Skybox ##
 Create and draw an environment using skyboxing...render a large cube surrrounding the viewer...this is the skybox. Use the cube map images to texture map the inside of the skybox. **Just to be clear, instead of texture mapping each side of the skybox independently, you should use the cubemap...you just have to figure out what direction vector to use when accessing the environment map to color a fragment on the box.**
+
 
 ### Background Reading and Resources ###
  + A set of 6 image files forming a cubemap are available in this [zip file](https://github.com/illinois-cs418/illinois-cs418.github.io/raw/master/img/London.zip). You can use these for the MP if you wish.
@@ -102,7 +104,7 @@ You can make your own cubemaps as well. Here's a how to do it:
 2. Convert the Photo Sphere images to 6 cubemap images. You can use any of the following options:
 + Use [this site]()
 + Use [this site](http://pano.sentiovr.com/)
-+ Do it yourself using code...check out [this stackoverflow post](https://stackoverflow.com/questions/29678510/convert-21-equirectangular-panorama-to-cube-map). If you are really interested in computational photography you can try this option.
++ Do it yourself using code...check out [this stackoverflow post](https://stackoverflow.com/questions/29678510/convert-21-equirectangular-panorama-to-cube-map).
 
 This does not have to be perfect. There will be some artifacts in your images, and that's fine. 
 
