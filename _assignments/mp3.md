@@ -53,8 +53,8 @@ Your app should have the following features:
 
 + Rendered in perspective
 + A skyboxed scene that can can be switched between:
-  1. A London street (images provided below)[]
-  2. A scene you capture using a camera and convert into a cubemap (instructions below)[]
+  1. A London street (images provided below)[https://illinois-cs418.github.io/assignments/mp3.html#london-skybox]
+  2. A scene you capture using a camera and convert into a cubemap (instructions below)[https://illinois-cs418.github.io/assignments/mp3.html#your-own-skybox]
 + Allow the user view to orbit around the teapot.
 + A control in the HTML that allows the user to switch between
   1. simply shading the teapot
