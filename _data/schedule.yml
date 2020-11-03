@@ -182,9 +182,8 @@
           [Interpolation - Video](https://classtranscribe.illinois.edu/video?id=3a13845f-b49a-4efb-bf80-f0011895190d&from=sharedlink)"
 - 
   date: "Nov 2"
-  materials: ""
-  title: "[Texture Mapping: Minification]() <br/>
-          [Texture Mapping: Magnification]()"
+  materials: "[Texture Mapping: Magnification PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-19-4-1.pdf)"
+  title: "[Texture Mapping: Magnification - Video](https://classtranscribe.illinois.edu/video?id=5bfdda06-67f6-43a2-bccc-36c41fe1c53f&from=sharedlink)"
 -
   date: "Nov 4"
   materials: ~
@@ -192,8 +191,7 @@
 -
   date: "Nov 6"
   materials: ~
-  title: "[Environment Mapping]() <br/>
-          [Normal Mapping]()"
+  title: ""
   
 -
   date: "Nov 9"
