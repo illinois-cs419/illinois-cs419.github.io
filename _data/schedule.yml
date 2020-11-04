@@ -186,8 +186,10 @@
   title: "[Texture Mapping: Magnification - Video](https://classtranscribe.illinois.edu/video?id=5bfdda06-67f6-43a2-bccc-36c41fe1c53f&from=sharedlink)"
 -
   date: "Nov 4"
-  materials: ~
-  title: ""
+  materials: "[Reading an OBJ File PDF ](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-19-obj.pdf) <br/>
+                   [TriMesh.js](https://illinois-cs418.github.io/Examples/TriMesh.js)       <br/>
+                   [cow.obj](https://illinois-cs418.github.io/Examples/cow.obj)        "
+  title: "[MP3 Walkthrough]()"
 -
   date: "Nov 6"
   materials: ~
