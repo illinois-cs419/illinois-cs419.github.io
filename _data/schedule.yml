@@ -197,8 +197,8 @@
   
 -
   date: "Nov 9"
-  materials: ~
-  title: ""
+  materials: "[Environment Mapping PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-19-5.pdf)"
+  title: [Environment Mapping - Video](https://classtranscribe.illinois.edu/video?id=b8b41f09-e833-48a4-9a2a-ace57e6c2479&from=sharedlink)"
   
 -
   date: "Nov 11"
@@ -207,8 +207,9 @@
   
 -
   date: "Nov 13"
-  materials: ~
-  title: "**Quiz 8 Due**"
+  materials: "[Normal Maps PDF]()"
+  title: " [Normal Maps - Video]() <br/>
+  **Quiz 8 Due**"
   
 -
   date: "Nov 16"
