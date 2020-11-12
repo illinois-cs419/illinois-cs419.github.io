@@ -198,7 +198,7 @@
 -
   date: "Nov 9"
   materials: "[Environment Mapping PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-19-5.pdf)"
-  title: [Environment Mapping - Video](https://classtranscribe.illinois.edu/video?id=b8b41f09-e833-48a4-9a2a-ace57e6c2479&from=sharedlink)"
+  title: "[Environment Mapping - Video](https://classtranscribe.illinois.edu/video?id=b8b41f09-e833-48a4-9a2a-ace57e6c2479&from=sharedlink)"
   
 -
   date: "Nov 11"
@@ -214,16 +214,17 @@
 -
   date: "Nov 16"
   materials: ~
-  title: ""
+  title: "[Compositing - Video]()"
 -
   date: "Nov 18"
   materials: ~
-  title: ""
+  title: "[Rasterization]()"
   
 -
   date: "Nov 20"
   materials: ~
-  title: "**Quiz 9 Due**"
+  title: "**Quiz 9 Due** <br/>
+          [Hidden Surface Removal]()"
   
 -
   date: "Nov 23"
@@ -241,22 +242,25 @@
 -
   date: "Nov 30"
   materials: ~
-  title: ""
+  title: "[Physics]() <br/>
+          [Collision Detection]()"
   
 -
   date: "Dec 2"
   materials: ~
-  title: ""
+  title: "[MP4 Walkthrough]()"
   
 -
   date: "Dec 4"
   materials: ~
-  title: "**Quiz 10 Due**"
+  title: "**Quiz 10 Due**<br/>
+         [Bezier Curves]() <br/>
+         [Bezier Surfaces]() "
   
 -
   date: "Dec 6"
   materials: ~
-  title: ""
+  title: "[Subdivision Surfaces]()"
   
 -
   date: "Dec 9"
