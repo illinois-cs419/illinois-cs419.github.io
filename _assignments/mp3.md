@@ -131,7 +131,7 @@ To get around the issue of reading files from the local filesystem, it is best t
 Your user interface should alllow to the user view to orbit the teapot (just letting the view circle the teapot by rotating around the y-axis is fine, it needn't employ quaternions). This effect can be achieved by rotating the world (teapot and enclosing environment box) assuming the teapot is at the origin. Or you can implement it as part of the view tranformation. 
 
 ## Lighting ##
-Use a point light source to light the model from the direction (1,1,1). You can adjust the ambient light as you wish, but it must be possible to see the effects of diffuse shading and a specular highlight on the teapot. Use Phong reflectance model and Phong shading.
+Use a point light source to light the model from the direction (1,1,1) in **world coordinate space**. This means the light source is coming from a fixed direction and should not move with the the viewpoint. You can adjust the ambient light as you wish, but it must be possible to see the effects of diffuse shading and a specular highlight on the teapot. Use Phong reflectance model and Phong shading.
 
 ## Comment appropriately ##
 
