@@ -51,6 +51,10 @@ Each particle will be have a postion $$\mathbf{P}$$ and velocity $$\mathbf{V}$$.
 You only need to generate one sphere mesh...you simply draw that mesh in multiple different spots each frame...once for each particle.
 You can use some of the code on the course website that can generate and render a sphere.
 
+## Texture Mapped Spheres ##
+
+Some number of your spheres should be textured. You can texture all of them or just randomly choose which ones to texture. 
+
 ## User Interface ##
 
 Your user interface should allow you to create spheres using a mouse click or key press. Each creation event should create $$n$$ spheres, where $$n$$ is some number of your choosing.
@@ -69,6 +73,8 @@ After rendering a frame showing the current position of the spheres, you will ne
 + Update the acceleration using the forces of gravity.
 
 Implement 2 forces that affect the spheres: gravity and friction. If you want to violate physics for fun and have the spheres gain velocity after hitting walls, you can implement a mode to do that as well.
+
+## Collision Detection ##
 
 ## Commenting ##
 
