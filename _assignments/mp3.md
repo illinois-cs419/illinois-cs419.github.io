@@ -105,6 +105,7 @@ You can make your own cubemaps as well. Here's a how to do it:
 + Use [this site](https://jaxry.github.io/panorama-to-cubemap/)
 + Use [this site](http://pano.sentiovr.com/)
 + Do it yourself using code...check out [this stackoverflow post](https://stackoverflow.com/questions/29678510/convert-21-equirectangular-panorama-to-cube-map).
++ Do it yourself using code...check out [this blog post](http://paulbourke.net/panorama/cubemaps/#3)
 
 This does not have to be perfect. There will be some artifacts in your images, and that's fine. 
 
