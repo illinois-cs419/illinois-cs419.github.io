@@ -213,12 +213,12 @@
   
 -
   date: "Nov 16"
-  materials: ~
-  title: "[Compositing - Video]()"
+  materials: "[Alpha PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/Alpha.pdf)"
+  title: "[Alpha - Joh Hart Guest Lecture](https://classtranscribe.illinois.edu/video?id=e33262b0-e6e9-4610-97b5-023b14ec1468&from=sharedlink)"
 -
   date: "Nov 18"
-  materials: ~
-  title: "[Rasterization]()"
+  materials: "[Line Rasterization PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/jch/lineRaster.pdf)"
+  title: "[Line Rasterization - John Hart Guest Leture](https://classtranscribe.illinois.edu/video?id=f3445f64-d155-4556-958a-03f372c60034&from=sharedlink)"
   
 -
   date: "Nov 20"
