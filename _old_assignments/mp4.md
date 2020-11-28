@@ -2,7 +2,7 @@
 layout: assignment
 title: "MP4: A Simple Physics Engine"
 index: 10
-due: "May 6, 2020 @ 11:59 PM"
+due: "Dec 9, 2020 @ 11:59 PM"
 material: ~
 points: 10
 rubric:
@@ -74,7 +74,10 @@ Implement 2 forces that affect the spheres: gravity and friction. If you want to
 
 For this MP you only need to check for sphere collision with a wall, if you use an axis aligned box this is pretty simple:
 1. Compute the line segment along which the center of the sphere will move during one frame. If $$c_0$$ is the original position and $$c_1$$ is the final position then the sphere center will travel along $$c(t) = (1-t)c_0 + tc_1$$
-2. 
+2. Let the sphere have a radius $$r$$...if the wall you check against is the $$X=1$$ plane then you just need to check if $$c(1)_x + r >= 1$$..if it is then there was a collision.
+3. If there was a collison, calculate a reflection vector. In our example, you can solve for the $$t__{collide}$$ at which the sphere hits the wall. The incident vector is then $$$$ and the normal is $$N=(-1,0,0)$$ in this case. The reflection vector is then $$$$. This becomes the new direction for the sphere and the speed of the sphere will be. 
+
+To be principled, you should divide the timestep $$t_{total}$$ for the sphere into $$t_b$$ before the collsion and $$t_a$$ such that $$t_{total}= t_a + t_b$$ and compute the new sphere position using a timestep of $$t_b$$ from the point of collision in the direction of the new velocity. However, you could just set the sphere postion to the point of collison and update the velocity to the new velocity and then let the sphere move in that direction in the next timestep. For this app, the difference will probably not be noticeable.       
 
 ## Commenting ##
 
