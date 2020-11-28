@@ -74,7 +74,7 @@ There will be short weekly quizzes on PrairieLearn. These quizzes will be based 
 + They can be completed late for 50% credit at any time before Dec. 9.
 
 #### Programming Assignments ####
-There will a series of four programming assignments. See the [Assignments page](/assignments) for more details.
+There will a series of four programming assignments. **We will drop the lowest MP score and base your total programming assignment grade on the 3 highest scores.** See the [Assignments page](/assignments) for more details.
 
 #### 4 Credit Project ####
 If you are taking the course for 4 credits, you will complete an extra project implelementing a ray-tracer.
