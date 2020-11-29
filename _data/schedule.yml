@@ -253,9 +253,8 @@
 -
   date: "Dec 4"
   materials: ~
-  title: "**Quiz 10 Due**<br/>
-         [Bezier Curves]() <br/>
-         [Bezier Surfaces]() "
+  title: "[Bezier Curves]() <br/>
+          [Bezier Surfaces]() "
   
 -
   date: "Dec 6"
@@ -265,7 +264,8 @@
 -
   date: "Dec 9"
   materials: ~
-  title: "**Exam 3**"
+  title: "**Exam 3** <br/>
+          **Quiz 10 Due**"
   
 
   
