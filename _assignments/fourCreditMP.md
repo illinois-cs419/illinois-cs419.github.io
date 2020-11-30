@@ -2,7 +2,7 @@
 layout: assignment
 title: "4 Credit MP: Ray Tracing"
 index: 10
-due: "Dec. 9, 2020 @ 11:59 PM"
+due: "Dec. 14, 2020 @ 11:59 PM"
 material: ~
 points: 10
 rubric:
