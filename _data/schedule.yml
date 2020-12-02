@@ -241,14 +241,13 @@
   title: "**Fall Break** "
 -
   date: "Nov 30"
-  materials: ~
-  title: "[Physics]() <br/>
-          [Collision Detection]()"
+  materials: "[Physics PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-Physics.pdf)"
+  title: "[Physics - Video](https://classtranscribe.illinois.edu/video?id=4800e988-4f5d-4559-a3bc-beae3f3cfd3d&from=sharedlink)"
   
 -
   date: "Dec 2"
   materials: ~
-  title: "[MP4 Walkthrough]()"
+  title: "[Collision Detection]()"
   
 -
   date: "Dec 4"
