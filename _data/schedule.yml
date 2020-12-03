@@ -246,19 +246,19 @@
   
 -
   date: "Dec 2"
-  materials: ~
-  title: "[Collision Detection]()"
+  materials: "[Euler's Method PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-EulersMethod.pdf)"
+  title: "[Eulers Method- Video](https://classtranscribe.illinois.edu/video?id=bd611499-ac64-4766-98c2-c3eeaebb16e2&from=sharedlink)"
   
 -
   date: "Dec 4"
   materials: ~
-  title: "[Bezier Curves]() <br/>
-          [Bezier Surfaces]() "
+  title: "[Collision Dtection]() <br/>
+          [Bezier Curves]() "
   
 -
   date: "Dec 6"
   materials: ~
-  title: "[Subdivision Surfaces]()"
+  title: "[Bezier Surfaces]()"
   
 -
   date: "Dec 9"
