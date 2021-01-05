@@ -14,7 +14,7 @@ Production Computer Graphics is about the techniques and technologies used to ge
 
 The course is project-oriented and over the course of the semester you will implement your own rendering engine capable of generating high quality images. You get to design the scenes you render and choose the advanced rendering effects you wish implement...whether that is procedural generation of another world or animation or using hardware acceleration for real-time ray tracing.
 
-The focus of the course will be on learning things you wish to learn. For example, you can choose any programming language you wish for the assignments. If you want to learn Rust or another new language, this is an opportunity to do so. There will be a few low-stakes quizzes and two exams that you can take more than once, but these really exist just to encourage people to keep pace with the course. The majority of your grade will be based on your creative work.   
+The focus of the course will be on learning things you wish to learn. For example, you can choose any programming language you wish for the assignments. If you want to learn Rust or another new language, this is an opportunity to do so. There will be a few low-stakes quizzes and two exams, but these really exist just to encourage people to keep pace with the course. The majority of your grade will be based on your creative work.   
 
 This semester, we anticipate having live guest lectures from University of Illinois graduates currently working at NVIDIA, Pixar, and Blizzard. You will have the opportunity to ask people about their work and what their advice is for pursuing work in industry.
 
@@ -54,35 +54,47 @@ The course will be taught using online lectures along with suggested additional 
 #### Reading ####
 
 The course will use Pete Shirley's free online books: 
-![Fundamentals of Computer Graphics 4th Edition by Steve Marschner, Peter Shirley](/img/shirley.jpg){:height="200px" width="160px"}
-[UIUC Library E-book link](https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8503840)
+
+<div class='books'>
+    <a href='books/RayTracingInOneWeekend.html'>
+      <img src='images/RTOneWeekend.jpg' width='202' height='325' alt='Ray Tracing in One Weekend'>
+    </a>
+
+    <a href='books/RayTracingTheNextWeek.html'>
+      <img src='images/RTNextWeek.jpg' width='202' height='325' alt='Ray Tracing: The Next Week'>
+    </a>
+
+    <a href='books/RayTracingTheRestOfYourLife.html'>
+      <img src='images/RTRestOfYourLife.jpg' width='202' height='325' alt='Ray Tracing: The Rest Of Your Life'>
+    </a>
+</div>
+
 
 ## Assessments ##
 
 Assigned work will include 4 quizzes, 3 programming assignments, 2 exams and a final project completed as a team.
 
 #### Tri-Weekly Quizes ####
-There will be short quizzes on PrairieLearn. These quizzes will be based on the lecture material and will serve as practice for the exams
+There will be 4 short quizzes on PrairieLearn. These quizzes will be based on the lecture material and will serve as practice for the exams
 **Each quiz can be taken repeatedly..you can retake it till you get all the questions correct**
 
-+ **They are due by Friday at midnight of the following week (e.g. Quiz 1 is due by Friday of Week 2).**
-+ They can be completed late for 50% credit at any time before Dec. 9.
++ **They are due by Friday at midnight of the week they are assigned.**
++ They can be completed late for 50% credit at any time before May 5.
 
 #### Programming Assignments ####
-There will a series of four programming assignments. **We will drop the lowest MP score and base your total programming assignment grade on the 3 highest scores.** See the [Assignments page](/assignments) for more details.
+There will a series of 3 programming assignments. These can be done in any programming language you wish. They will provide you with a basic understanding of physically-based rendering and can be used as a code base for the course project
 
-#### 4 Credit Project ####
-If you are taking the course for 4 credits, you will complete an extra project implelementing a ray-tracer.
+#### Project ####
+The course project will be team-based with teams of 3 to 4 people working on a project. You will have a choice of what to implement. Typically, a group will add advanced features to your existing code. For example, you could add anoimation and physics or volumtric rendering of smoke and other participating media. 
 
 #### Exams ####
-This class will have three midterm exams and no final exam. Each exam is on the PrairieLearn platform.
+This class will have two midterm exams and no final exam. Each exam is on the PrairieLearn platform. 
 
-- Exam 1: 9am-10am, Sept. 30, 2020 
-- Exam 2: 9am-10am, Nov. 11, 2020
-- Exam 3: 9am-10am, Dec. 9, 2020
+- Exam 1: Week of March 8-12
+- Exam 2: Week of April 19-23
 
-The exams will be online using Prairielearn. **They will be synchronous and available from 9am-10am Central Time on the day of the exam**
-They are open web - you can use any reference material you wish while taking the exam. You should not collaborate with other people. Any instances of collaboration will be considered a violation of academic integrity and will result in a 0 on the exam and a letter grade reduction in the final course grade. Also, the nature of the exam will make collaboration unhelpful - you will get a better grade working on your own rather than wasting time trying to work together.  
+The exams will be asynchronous and can be taken any time during the week assigned. They are time-limited, so once you start you will have 60 minutes to finish.  
+They are open web - you can use any reference material you wish while taking the exam. You should not collaborate with other people. Any instances of collaboration will be considered a violation of academic integrity and will result in a 0 on the exam and a letter grade reduction in the final course grade. Also, the nature of the exam will make collaboration unhelpful - you will get a better grade working on your own rather than wasting time trying to work together. 
 
 ## Grades ##
 We will post grades on [Compass 2g](https://compass.illinois.edu){:target="_blank" rel="noopener"}.
@@ -91,14 +103,14 @@ We weight grades as follows:
 
 | | 3 credits | 4 credits |  
 | ----- | ------ | ----- |  
-| MP 1 | 10% | 10% | 
+| MP 1 | 5% | 5% | 
 | MP 2 | 10% | 10% | 
 | MP 3 | 10% | 10% |  
 | Quizzes| 5%  | 5%  |
 | Exam 1| 15% | 15% |
 | Exam 2| 15% | 15% |
 | Project | 40% | 30% |
-| 4 Credit Project | 40% | 30% |
+| 4 Credit Project | NA | 10% |
 
 The course grade cutoffs can be expected to be:
 
