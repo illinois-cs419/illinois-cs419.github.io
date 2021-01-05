@@ -6,7 +6,7 @@ layout: page
 permalink: /
 ---
 
-![Mandolorian](/img/mando.jpg){:class="img-responsive" style="display:block; margin:auto"}
+![Mandolorian](/img/mando.jpg){:class="img-responsive" style="display:block; margin:auto" width="800px"}
 
 ## Overview ##
 
@@ -20,29 +20,22 @@ This semester, we anticipate having live guest lectures from University of Illin
 
 ### Topics
 The topics we will cover include:
-+ Geoemetric modeling
-+ Mathematics for animation and rendering
-+ Shading and programmable shaders
-+ Rasterization
-+ Physics simulation
-+ Physically-based rendering
-Ray tracing
-Distributed ray tracing
-KD Trees
-Radiometry
-Path tracing
-Irradiance Caching
-High Dynamic Range Imaging
-Bidirectional path tracing
-Texture synthesis
-Compositing
-Image based rendering
-Basic ideas in animation
-Inverse kinematics
-Procedural animation
-Human animation and motion graphs
-Physical models in animation
 
++ Basic ray tracing 
++ Path tracing
++ Photon mapping
++ Real-time ray-tracing
++ Volumetric rendering of effects like fog and smoke
++ Fluid simulation
++ Digital material modeling
++ Geometric data structures
++ High Dynamic Range imaging
++ Procedural texture generation
++ Procedural geometry generation
++ Compositing
++ Basic ideas in animation
++ Radiosity
++ Radiometry
 
 #### Prerequisites ####
 We recommend the following courses and skills:
@@ -60,29 +53,16 @@ The course will be taught using online lectures along with suggested additional 
 
 #### Reading ####
 
-There is no book for the class. Notes and other materials will be posted online on the [course schedule](https://illinois-cs418.github.io/schedule).
-We do have some suggested books:
-
+The course will use Pete Shirley's free online books: 
 ![Fundamentals of Computer Graphics 4th Edition by Steve Marschner, Peter Shirley](/img/shirley.jpg){:height="200px" width="160px"}
-
-_Fundamentals of Computer Graphics 4th Edition_ by Steve Marschner, Peter Shirley  
-Deals with the theoretical and mathematical aspects of computer graphics. Very readable.  
 [UIUC Library E-book link](https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8503840)
-
-![WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL by Kouichi Matsuda and Rodger Lea](/img/wengl1.jpg){:height="200px" width="200px"}
-
-_WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL_  
-by Kouichi Matsuda and Rodger Lea  
-A bit old now, but pretty easy to read with decent example code.   
-[UIUC Library E-book link](https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_8494400)  
-
 
 ## Assessments ##
 
-Assigned work will include 10 quizzes, 4 programming assignments and 3 exams. there will be an additional project for students taking the course for 4 credits.
+Assigned work will include 4 quizzes, 3 programming assignments, 2 exams and a final project completed as a team.
 
-#### Weekly Quizes ####
-There will be short weekly quizzes on PrairieLearn. These quizzes will be based on the lecture material and will serve as practice for the exams
+#### Tri-Weekly Quizes ####
+There will be short quizzes on PrairieLearn. These quizzes will be based on the lecture material and will serve as practice for the exams
 **Each quiz can be taken repeatedly..you can retake it till you get all the questions correct**
 
 + **They are due by Friday at midnight of the following week (e.g. Quiz 1 is due by Friday of Week 2).**
