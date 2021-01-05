@@ -10,9 +10,9 @@ permalink: /
 
 ## Overview ##
 
-Production Computer Graphics is about the techniques and technologies used to generate synthetic high quality digital imagery. The main focus of the course will be 3D photorealistic rendering current physically-based rendering methods used in cinematic rendering and games.
+Production Computer Graphics is about the techniques and technologies used to generate high quality synthetic digital imagery. The main focus of the course will be 3D photorealistic physically-based rendering methods currently used in cinematic rendering and games.
 
-The course is project-oriented and over the course of the semester you will implement your own rendering engine capable of generating high quality images. You get to design the scenes you render and choose the advanced rendering effects you wish implement...whether that is procedural generation of another world or animation or using hardware acceleration for real-time ray tracing.
+The course is project-oriented and over the course of the semester you will implement your own rendering engine capable of generating high quality images. You get to design the scenes you render and choose the advanced rendering effects you wish implement...whether that is procedural generation of another world or animation or using hardware acceleration for real-time ray tracing...or something else.
 
 The focus of the course will be on learning things you wish to learn. For example, you can choose any programming language you wish for the assignments. If you want to learn Rust or another new language, this is an opportunity to do so. There will be a few low-stakes quizzes and two exams, but these really exist just to encourage people to keep pace with the course. The majority of your grade will be based on your creative work.   
 
