@@ -57,15 +57,15 @@ The course will use Pete Shirley's free online books:
 
 <div class='books'>
     <a href='books/RayTracingInOneWeekend.html'>
-      <img src='images/RTOneWeekend.jpg' width='202' height='325' alt='Ray Tracing in One Weekend'>
+      <img src='img/RTOneWeekend.jpg' width='202' height='325' alt='Ray Tracing in One Weekend'>
     </a>
 
     <a href='books/RayTracingTheNextWeek.html'>
-      <img src='images/RTNextWeek.jpg' width='202' height='325' alt='Ray Tracing: The Next Week'>
+      <img src='img/RTNextWeek.jpg' width='202' height='325' alt='Ray Tracing: The Next Week'>
     </a>
 
     <a href='books/RayTracingTheRestOfYourLife.html'>
-      <img src='images/RTRestOfYourLife.jpg' width='202' height='325' alt='Ray Tracing: The Rest Of Your Life'>
+      <img src='img/RTRestOfYourLife.jpg' width='202' height='325' alt='Ray Tracing: The Rest Of Your Life'>
     </a>
 </div>
 
@@ -90,8 +90,10 @@ The course project will be team-based with teams of 3 to 4 people working on a p
 #### Exams ####
 This class will have two midterm exams and no final exam. Each exam is on the PrairieLearn platform. 
 
+
 - Exam 1: Week of March 8-12
 - Exam 2: Week of April 19-23
+
 
 The exams will be asynchronous and can be taken any time during the week assigned. They are time-limited, so once you start you will have 60 minutes to finish.  
 They are open web - you can use any reference material you wish while taking the exam. You should not collaborate with other people. Any instances of collaboration will be considered a violation of academic integrity and will result in a 0 on the exam and a letter grade reduction in the final course grade. Also, the nature of the exam will make collaboration unhelpful - you will get a better grade working on your own rather than wasting time trying to work together. 
