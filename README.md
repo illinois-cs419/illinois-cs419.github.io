@@ -1,6 +1,6 @@
-# CS 418: The Website 
+# CS 419: The Website 
 
-Course website for CS 418 Interactive Computer Graphics at the University of Illinois.
+Course website for CS 419 Production Computer Graphics at the University of Illinois.
 [![Build Status](https://travis-ci.org/illinois-cs418/illinois-cs418.github.io.svg?branch=master)](https://travis-ci.org/illinois-cs418llinois-cs418.github.io)
 
 ## Getting Started
