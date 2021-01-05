@@ -6,7 +6,7 @@ layout: page
 permalink: /
 ---
 
-![Zelda: Breath of the Wild](/img/Main-Day.jpg){:class="img-responsive" style="display:block; margin:auto"}
+![Mandolorian](/img/mando.jpg){:class="img-responsive" style="display:block; margin:auto"}
 
 ## Overview ##
 
