@@ -95,8 +95,7 @@ This class will have two midterm exams and no final exam. Each exam is on the Pr
 - Exam 2: Week of April 19-23
 
 
-The exams will be asynchronous and can be taken any time during the week assigned. They are time-limited, so once you start you will have 60 minutes to finish.  
-They are open web - you can use any reference material you wish while taking the exam. You should not collaborate with other people. Any instances of collaboration will be considered a violation of academic integrity and will result in a 0 on the exam and a letter grade reduction in the final course grade. Also, the nature of the exam will make collaboration unhelpful - you will get a better grade working on your own rather than wasting time trying to work together. 
+The exams will be asynchronous and can be taken any time during the week assigned. They are time-limited, so once you start you will have 60 minutes to finish. They are open web - you can use any reference material you wish while taking the exam. You should not collaborate with other people. Any instances of collaboration will be considered a violation of academic integrity and will result in a 0 on the exam and a letter grade reduction in the final course grade. Also, the nature of the exam will make collaboration unhelpful - you will get a better grade working on your own rather than wasting time trying to work together. 
 
 ## Grades ##
 We will post grades on [Compass 2g](https://compass.illinois.edu){:target="_blank" rel="noopener"}.
