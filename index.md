@@ -56,15 +56,15 @@ The course will be taught using online lectures along with suggested additional 
 The course will use Pete Shirley's free online books: 
 
 <div class='books'>
-    <a href='books/RayTracingInOneWeekend.html'>
+    <a href='https://raytracing.github.io/books/RayTracingInOneWeekend.html'>
       <img src='img/RTOneWeekend.jpg' width='202' height='325' alt='Ray Tracing in One Weekend'>
     </a>
 
-    <a href='books/RayTracingTheNextWeek.html'>
+    <a href='https://raytracing.github.io/books/RayTracingTheNextWeek.html'>
       <img src='img/RTNextWeek.jpg' width='202' height='325' alt='Ray Tracing: The Next Week'>
     </a>
 
-    <a href='books/RayTracingTheRestOfYourLife.html'>
+    <a href='https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html'>
       <img src='img/RTRestOfYourLife.jpg' width='202' height='325' alt='Ray Tracing: The Rest Of Your Life'>
     </a>
 </div>
