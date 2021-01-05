@@ -10,7 +10,7 @@ permalink: /
 
 ## Overview ##
 
-Interactive Computer Graphics is about the techniques and technologies used to generate synthetic digital imagery in real-time. The main focus of the course will be 3D photorealistic rendering and the current rendering methods used in games and other interactive applications.
+Production Computer Graphics is about the techniques and technologies used to generate synthetic high quality digital imagery. The main focus of the course will be 3D photorealistic rendering and the current physically-based rendering methods used in cinematic rendering and games.
 
 The topics we will cover include:
 + Geoemetric modeling
