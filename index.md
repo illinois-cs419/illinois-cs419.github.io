@@ -12,6 +12,11 @@ permalink: /
 
 Production Computer Graphics is about the techniques and technologies used to generate synthetic high quality digital imagery. The main focus of the course will be 3D photorealistic rendering and the current physically-based rendering methods used in cinematic rendering and games.
 
+Guest lectures
+
+### Course Objectives ###
+
+### Topics
 The topics we will cover include:
 + Geoemetric modeling
 + Mathematics for animation and rendering
@@ -19,8 +24,23 @@ The topics we will cover include:
 + Rasterization
 + Physics simulation
 + Physically-based rendering
+Ray tracing
+Distributed ray tracing
+KD Trees
+Radiometry
+Path tracing
+Irradiance Caching
+High Dynamic Range Imaging
+Bidirectional path tracing
+Texture synthesis
+Compositing
+Image based rendering
+Basic ideas in animation
+Inverse kinematics
+Procedural animation
+Human animation and motion graphs
+Physical models in animation
 
-We will learn how to implement 3D web applications using WebGL and JavaScript. WebGL shares many of the same characteristics as Vulkan, Direct3D, and other popular low-level graphics APIs, so the skills you learn should be transferable.
 
 #### Prerequisites ####
 We recommend the following courses and skills:
@@ -96,13 +116,14 @@ We weight grades as follows:
 
 | | 3 credits | 4 credits |  
 | ----- | ------ | ----- |  
-| MP 1 | 10% | 5% | 
+| MP 1 | 10% | 10% | 
 | MP 2 | 10% | 10% | 
-| MP 3 | 10% | 10% | 
-| MP 4 | 10% | 5% | 
-| Weekly Quizzes| 15%  | 15%  |
-| Exam Grade| 45% | 45% |   
-| 4 Credit Project | | 10% |  
+| MP 3 | 10% | 10% |  
+| Quizzes| 5%  | 5%  |
+| Exam 1| 15% | 15% |
+| Exam 2| 15% | 15% |
+| Project | 40% | 30% |
+| 4 Credit Project | 40% | 30% |
 
 The course grade cutoffs can be expected to be:
 
@@ -125,18 +146,14 @@ The course grade cutoffs can be expected to be:
 
 ## Communication ##
 
-#### [Piazza](https://piazza.com/class/kdt5hrgnoh17o8) ####
+#### [Piazza](https://piazza.com/class) ####
 We will use Piazza for answering questions and administering the course.
 
 Click the header to join/view the forum. You do not need a passcode.
 
 #### Course Staff ####
-See the [schedule for office hours](/officehours).
 
 * Professor Eric Shaffer, shaffer1@illinois.edu
-* TA: Rizky Welllyanto wellyan2@illinois.edu
-* TA: Huai Wu huaiwu2@illinois.edu
-* TA: Yichen Yang yy18@illinois.edu
 
 #### Mental Health ####
 Diminished mental health, including significant stress, mood changes, excessive worry, substance/alcohol abuse, or problems with eating and/or sleeping can interfere with optimal academic performance, social development, and emotional wellbeing. The University of Illinois offers a variety of confidential services including individual and group counseling, crisis intervention, psychiatric services, and specialized screenings at no additional cost. If you or someone you know experiences any of the above mental health concerns, it is strongly encouraged to contact or visit any of the University’s resources provided below. Getting help is a smart and courageous thing to do -- for yourself and for those who care about you.
