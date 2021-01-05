@@ -10,11 +10,13 @@ permalink: /
 
 ## Overview ##
 
-Production Computer Graphics is about the techniques and technologies used to generate synthetic high quality digital imagery. The main focus of the course will be 3D photorealistic rendering and the current physically-based rendering methods used in cinematic rendering and games.
+Production Computer Graphics is about the techniques and technologies used to generate synthetic high quality digital imagery. The main focus of the course will be 3D photorealistic rendering current physically-based rendering methods used in cinematic rendering and games.
 
-Guest lectures
+The course is project-oriented and over the course of the semester you will implement your own rendering engine capable of generating high quality images. You get to design the scenes you render and choose the advanced rendering effects you wish implement...whether that is procedural generation of another world or animation or using hardware acceleration for real-time ray tracing.
 
-### Course Objectives ###
+The focus of the course will be on learning things you wish to learn. For example, you can choose any programming language you wish for the assignments. If you want to learn Rust or another new language, this is an opportunity to do so. There will be a few low-stakes quizzes and two exams that you can take more than once, but these really exist just to encourage people to keep pace with the course. The majority of your grade will be based on your creative work.   
+
+This semester, we anticipate having live guest lectures from University of Illinois graduates currently working at NVIDIA, Pixar, and Blizzard. You will have the opportunity to ask people about their work and what their advice is for pursuing work in industry.
 
 ### Topics
 The topics we will cover include:
@@ -54,14 +56,7 @@ The course will be taught using online lectures along with suggested additional 
 
 #### Lectures ####
 
-+ **You can attend live lectures at 9am Central Time on Wednesdays at this [Zoom link](https://illinois.zoom.us/j/93019304365?pwd=elBOT0Nrayt2YW1NVlA4NFB2dVR2Zz09)**.
-We will focus on actively working through problems and doing code walkthroughs. These lectures will be recorded and available on the [course schedule](https://illinois-cs418.github.io/schedule).
-
-+ Additional lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs418.github.io/schedule).  
-
-**You can expect new lectures to be posted by the end of the day on Monday, Wednesday, and Friday.** 
-
-We know attending online synchronous lectures can be difficult, so there is no required attendance. If you can attend the Wednesday lecture, please do so.
++ Lectures will be available as asynchronous video links posted on the [course schedule](https://illinois-cs419.github.io/schedule).  
 
 #### Reading ####
 
