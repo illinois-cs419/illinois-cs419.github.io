@@ -4,28 +4,6 @@ permalink: /assignments
 title: Assignments
 ---
 
-## Development Environment Information ##
-
-We will use HTML/JavaScript/WebGL and GLSL for the programming assignments. No prior knowledge of these is required for the class.
-Code examples in the course use WebGL 1.0. You are encouraged to use that version as well.
-
-You may develop using any environment you wish. You just need a editor or development environment in which to write the code and browser in which to test. Here are some useful resources:
-
-+ JavaScript: [Mozilla JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- 
-+ Suggested Editor: [Brackets](http://brackets.io/)
- 
-+ Debugging Tools: [Chrome DevTools Overview](https://developers.google.com/web/tools/chrome-devtools/)
- 
-+ Matrix/Vector Library for WebGL: [glmatrix](http://glmatrix.net/)
- 
-+ WebGL Tutorial and API: [Mozilla WebGL Guide](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
-
-**All files, classes, methods and properties should be documented with JSDoc comments with the appropriate tags and types.
-Details can be found in the [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html#jsdoc).**
-
-**We will grade your assignments by running them using Google Chrome. Please test your code in Chrome before submitting to make sure it will run there.**
-
 ### Late Work ###
 Machine problems submitted after the due date lose 10% of the total assignment value per day. In exceptional circumstances where extension may be reasonable (illness, family emergency etc.) arrangement must be made with the instructor.
 
