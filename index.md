@@ -29,11 +29,11 @@ The topics we will cover include:
 + Fluid simulation
 + Digital material modeling
 + Geometric data structures
-+ High Dynamic Range imaging
++ High dynamic range imaging
 + Procedural texture generation
 + Procedural geometry generation
 + Compositing
-+ Basic ideas in animation
++ Geometric modeling
 + Radiosity
 + Radiometry
 
@@ -45,7 +45,7 @@ We recommend the following courses and skills:
 
 ## Instructional Content ##
 
-The course will be taught using online lectures along with suggested additional reading materials
+The course will be taught using online lectures along with additional reading materials
 
 #### Lectures ####
 
@@ -69,6 +69,7 @@ The course will use Pete Shirley's free online books:
     </a>
 </div>
 
+There will be additional course notes ans assigned reading form other sources.
 
 ## Assessments ##
 
@@ -85,7 +86,7 @@ There will be 4 short quizzes on PrairieLearn. These quizzes will be based on th
 There will a series of 3 programming assignments. These can be done in any programming language you wish. They will provide you with a basic understanding of physically-based rendering and can be used as a code base for the course project
 
 #### Project ####
-The course project will be team-based with teams of 3 to 4 people working on a project. You will have a choice of what to implement. Typically, a group will add advanced features to your existing code. For example, you could add anoimation and physics or volumtric rendering of smoke and other participating media. 
+The course project will be team-based with teams of 3 to 4 people working on a project. You will have a choice of what to implement. Typically, a group will add advanced features to your existing code. For example, you could add animation and physics or volumtric rendering of smoke and other participating media. 
 
 #### Exams ####
 This class will have two midterm exams and no final exam. Each exam is on the PrairieLearn platform. 
@@ -96,6 +97,8 @@ This class will have two midterm exams and no final exam. Each exam is on the Pr
 
 
 The exams will be asynchronous and can be taken any time during the week assigned. They are time-limited, so once you start you will have 60 minutes to finish. They are open web - you can use any reference material you wish while taking the exam. You should not collaborate with other people. Any instances of collaboration will be considered a violation of academic integrity and will result in a 0 on the exam and a letter grade reduction in the final course grade. Also, the nature of the exam will make collaboration unhelpful - you will get a better grade working on your own rather than wasting time trying to work together. 
+
+A second-chance exam will be offered the week after which will not be identical to the first exam but will cover the same topics. If taken, this exam will be for a maximum of 80% credit and can be used to replace the original exam score.
 
 ## Grades ##
 We will post grades on [Compass 2g](https://compass.illinois.edu){:target="_blank" rel="noopener"}.
