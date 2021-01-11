@@ -1,3 +1,81 @@
-
-
-  
+- 
+  date: "Week 1:"
+  materials: ""
+  title: "[Welcome to the Course!]() <br/>
+          [Basic Ray Tracing]() <br/>
+          [Aliasing]() <br/>
+          [Sampling]()"
+- 
+  date: "Week 2:"
+  materials: ""
+  title: "[Cameras]() <br/>
+          [Ambient Occlusion]() <br/>
+          [Basic Shading]() <br/>
+          [Depth of Field]()"
+-
+  date: "Week 3:"
+  materials: ""
+  title: "[Shadows]() <br/>
+          [Uniform Grids]() <br/>
+          [Meshes]() <br/>
+          [Affine Trabsformations]()"
+-  
+  date: "Week 4:"
+  materials: ""
+  title: "[KD Trees]() <br/>
+          [Bounding Volume Hierarchies]() <br/>
+          [Monte Carlo Methods]() <br/>
+          [The Rendering Equation]()"
+-
+  date: "Week 5:"
+  materials: ""
+  title: "[Basic BRDFs]() <br/>
+          [Area Lights]() <br/>
+          [Reflection]() <br/>
+          [Transparency]()"
+- 
+  date: "Week 6:"
+  materials: ""
+  title: "[Path Tracing]() <br/>
+          [CSG Modeling]() <br/>
+          [Texture Mapping]()"
+-
+  date: "Week 7:"
+  materials: ""
+  title: "[Procedural Textures]() <br/>
+          [Noise Textures]() <br/>
+          [Irradiance Caching]()"
+-  
+  date: "Week 8:"
+  materials: ""
+  title: "[Photon Mapping]() <br/>
+          [Microfacet BRDFs]()"
+-
+  date: "Week 9:"
+  materials: ""
+  title: "[Color Theory]() <br/>
+          [High Dynamic Range]() <br/>
+          [Radiosity]()"
+-
+  date: "Week 10:"
+  materials: ""
+  title: "[Volumetric Rendering]()"
+- 
+  date: "Week 12:"
+  materials: ""
+  title: "[Fluid Simulation]()"
+-
+  date: "Week 13:"
+  materials: ""
+  title: "[ML Methods: Denoising]()  <br/>
+          [ML Methods: Animation]()  <br/>
+          [ML Methods: Upscaling]()"
+-  
+  date: "Week 14:"
+  materials: ""
+  title: "[Real-Time Ray Tracing]()"
+-
+  date: "Week 15:"
+  materials: ""
+  title: "[Project Showcase]() <br/>
+          [Final Exam]()"
