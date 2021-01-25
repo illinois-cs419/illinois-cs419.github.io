@@ -142,7 +142,8 @@ The course grade cutoffs can be expected to be:
 
 #### [CampusWire](https://campuswire.com/p/GECC31C03) ####
 We will use CampusWire for answering questions and administering the course.
-Click the header to join/view the forum. Use the passcode 3796.
+Click the header to join/view the forum.<br/> 
+Use the passcode 3796.
 
 + For any question involving a grade you should select `Post to instructors and TAs`.
 
