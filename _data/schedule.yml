@@ -1,15 +1,15 @@
 - 
   date: "Week 1: Jan 26 "
   materials: "Basics of Ray Tracing by Eric Haines [Video](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/) <br/>
-              Ray Tracing Vs. Rasterization by Eric Haines [Video](https://news.developer.nvidia.com/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/) <br/>
-              Read RTiOW Section 1-5 [Web Book](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere/creatingourfirstraytracedimage)"
-  title: " Introduction to Ray Tracing"
+              Rasterization by Eric Haines [Video](https://news.developer.nvidia.com/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/) <br/>
+              Read RTiOW Sections 1-5 [Web Book](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere/creatingourfirstraytracedimage)"
+  title: "Introduction to Ray Tracing"
 - 
   date: "Week 1: Jan 28 "
   materials: "Course Overview [Video]() <br/>
-              Basic Ray Tracing [Video]()&nbsp[PDF]()<br/>
-              Aliasing  [Video]()&nbsp[PDF]()<br/>
-              Basic Sampling [Video]()&nbsp[PDF]()<br/>"
+              Basic Ray Tracing [Video]()&nbsp;[PDF]()<br/>
+              Aliasing  [Video]()&nbsp;[PDF]()<br/>
+              Basic Sampling [Video]()&nbsp;[PDF]()<br/>"
   title: " Basic Ray Tracing <br/>
            Aliasing <br/>
            Basic Sampling"
