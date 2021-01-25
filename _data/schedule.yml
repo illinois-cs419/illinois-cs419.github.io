@@ -1,10 +1,18 @@
 - 
-  date: "Week 1: Jan 25 - 29 "
-  materials: ""
-  title: "[Welcome to the Course!]() <br/>
-          [Basic Ray Tracing]() <br/>
-          [Aliasing]() <br/>
-          [Sampling]()"
+  date: "Week 1: Jan 26 "
+  materials: "Basics of Ray Tracing by Eric Haines [Video](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/) <br/>
+              Ray Traicng Versus Rasterization by Eric Haines [Video](https://news.developer.nvidia.com/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/) <br/>
+              Read Ray Tracing in One Weekend Section 1-5 [Web Book](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere/creatingourfirstraytracedimage)"
+  title: " Introduction to Ray Tracing"
+- 
+  date: "Week 1: Jan 28 "
+  materials: "Course Overview [Video]() <br/>
+              Basic Ray Tracing [Video]()[PDF]()<br/>
+              Aliasing  [Video]()[PDF]()<br/>
+              Basic Sampling [Video]()[PDF]()<br/>"
+  title: " Basic Ray Tracing <br/>
+           Aliasing <br/>
+           Basic Sampling"
 - 
   date: "Week 2: Feb 1 - 5"
   materials: ""
