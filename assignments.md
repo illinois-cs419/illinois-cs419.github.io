@@ -15,7 +15,7 @@ You should type the code in yourself. You should not copy code verbatim from eac
 ## Regrade Requests ##
 To submit a regrade request:
 
-- Create a private Piazza post with the `regrade` tag.
+- Create a post on CampusWire with the category `regrade` and select `Post to instructors and TAs`.
 - Include a brief explanation of why you think your grade is incorrect.
 - You must submit regrade requests within one week after we release grades on a given assignment.
 
