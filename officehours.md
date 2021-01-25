@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Office Hours
+title: Course Calendar
 ---
 
 Office hours for Eric will be online using Zoom.
