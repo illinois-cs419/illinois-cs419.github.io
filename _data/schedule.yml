@@ -7,26 +7,26 @@
 - 
   date: "Week 1 (Jan 28) "
   materials: "Course Overview [Video](https://classtranscribe.illinois.edu/video?id=21f12c34-6ab6-41a4-96b4-e7e707c2f25a&from=sharedlink) <br/>
-              Basic Ray Tracing [Video]()&nbsp;[PDF]()<br/>
-              Aliasing  [Video]()&nbsp;[PDF]()<br/>
-              Basic Sampling [Video]()&nbsp;[PDF]()<br/>"
-  title: " Basic Ray Tracing <br/>
-           Aliasing <br/>
-           Basic Sampling"
+              Basic Ray Tracing [Video](https://classtranscribe.illinois.edu/video?id=19c6b086-3407-4bbc-870d-8ef7f2351e0b&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-2-RayTracing.pdf)<br/>
+              "
+  title: "Basic Ray Tracing"
 - 
   date: "Week 2: Feb 1 - 5"
   materials: ""
-  title: "[Cameras]() <br/>
-          [Ambient Occlusion]() <br/>
-          [Basic Shading]() <br/>
-          [Depth of Field]()"
+  title: "Cameras <br/>
+          Basic Shading <br/>
+           Aliasing <br/>
+           Basic Sampling <br/
+          Ray-Sphere Intersection"
 -
   date: "Week 3: Feb 8 - 12"
   materials: ""
-  title: "[Shadows]() <br/>
+  title: "[Ambient Occlusion]() <br/>
+  [Shadows]() <br/>
           [Uniform Grids]() <br/>
           [Meshes]() <br/>
-          [Affine Transformations]()"
+          [Affine Transformations]() <br/>
+          [Depth of Field]()"
 -  
   date: "Week 4: Feb 15 - 19"
   materials: ""
