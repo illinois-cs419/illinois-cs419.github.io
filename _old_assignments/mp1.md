@@ -36,36 +36,68 @@ rubric:
     description: Is your animation significantly different than the logo and visually interesting
 ---
 
-![University of Illnois Logo](/img/logo.png)
+---
+title: MP1
+permalink: "/mp1/"
+layout: page
+---
 
-For your first Machine Problem, you will create a 2-D animation of the majestic and inspiring University of Illinois logo (as shown above). You will also create a short 2-D animation of your choice…more details below….
+### <span style="color:blue"> Bare Bones Ray Tracing </span>
+**Due: September 20, 11:55pm**
 
-To complete the MP, you will need to create a digital model of the logo, write code to render it, and write code to animate it.
+For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
-## Modeling
-You will need to model the logo with a 2-D mesh of triangles. One approach to creating the mesh would be to get some graph paper, draw the logo and figure out a set of coordinates for the vertices and a set of edges for the triangles that works. You do not need to make the blue line around orange I curve as in the logo…just create a straight-line block I modelOnce you have the coordinates and triangles, just write up a set of JavaScript arrays in your code containing those numbers.
+1. Ray-object intersection support for:
+   1. Planes
+   2. Spheres
+   3. Triangles
+ 
+2. Orthographic projection
+ 
+3. Perspective projection with a movable camera
+ 
+4. Multi-jittered sampling for the primary rays
+ 
+5. Simple shading using the Blinn-Phong or Phong reflectance model. Just do diffuse (Lambertain) shading without any specular component. Use a directional light with no position
 
-## Rendering
-You should color the logo orange and blue as shown above. For this MP, you can render using the gl.drawArrays call, with the primitives specified as gl.TRIANGLES. Note that this will draw a triangle for each group of three consecutive vertices. For example, 12 vertices create 4 separate triangles. This means that the coordinates of vertices shared by multiple triangles will be repeated in the buffer. If you wish, you can use a different implementation like fans or strips or an indexed mesh...it just has to work. But the one suggested here is probably the simplest.
+### Hand-in
 
-## Animation
-You will need to write code to change the location of vertices over time to animate your model. Your code should use two different methods for changing the vertices:
+You will hand in your code and 5 images:
 
-Use 2 or 3 affine transformations (such as scaling, rotation, or translation). Use the glMatrix library to implement these as matrix transformations. These transformations should be applied to the vertices in the Vertex Shader.
++ One orthographic rendering of a scene with spheres and triangles
 
-Implement another motion by directly changng the vertex positions in the vertex buffer. Have this motion be something non-uniform that cannot easily be implemented as an affine transformation. For example, make the logo dance like a vertical sine curve. This part of the animation could be data driven using a table of pre-defined vertex positions for the motion. The motion can also be keyframed, so the vertices are interpolated from one keyframe location to a second keyframe location. Linear interpolation is fine for this assignment. When modifying the vertex positions by changing the coordinates in the buffer, make sure you use gl.DYNAMIC_DRAW.
++ One perspective rendering of the same scene
 
-## Your Own Animation
-Implement a second animation of your own design. It should still be simple, but it should be more than just a slightly different shape doing a similar dance. Some possibilities:
++ An additional perspective rendering of the same scene from a different viewpoint
 
-+ It could have two logos collide.
-+ It could be a mosaic in which the vertex positions don’t change but the colors of the pieces do.
-+ It could be a stick figure jumping or walking.
++ Two images illustrating the effects of using jittering. The first image should use a single ray for each pixel, while the second should use multi-jittering. Try to set up a scene so that the difference is apparent. 
 
-It doesn’t have to be complex, but it should be your own. Do something creative. You should use an HTML radio button on the webpage to switch between the logo animation and your animation.
+Hand-in will be done on Compass and detailed instructions will be forthcoming 
 
+### Rubric
 
+|:----------------+------------|
+| **Feature**           | **Points** |
+|:--------------------------|-------:|
+| Writes out an image!      | 1      |
+| Ray-Plane Intersection    | 2      |
+| Ray-Triangle Intersection | 2      |
+| Ray-Sphere Intersection   | 2      |
+| Orthographic Projection   | 1      |
+| Perspective Projection    | 1      |
+| Movable Camera            | 2      |
+| Multi-Jittered Sampling   | 2      |
+| Shading                   | 2      |
+| **TOTAL**	                 |15        |
+|===
+| 
 
+### Technical Details
 
- 	 
++ You can use any programming /platform you wish
 
++ You can use any math library/package you wish to support the vector/matrix operations you need to perform
+
++ If you wish to use the framework code from Ray-Tracing from the Ground Up, you may.
+
+**Keep in mind that if you use code from other sources, you must document the use of that code**
