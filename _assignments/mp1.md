@@ -50,27 +50,27 @@ rubric:
 ![Tracing](/img/MP1.jpg){:width="500px"}   
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
-1. **Ray-object intersection support for:**
-   1. **Planes** <br/> Reference: [Basic Ray Tracing Jan 28.](https://illinois-cs419.github.io/schedule)
+**1. Ray-object intersection support for:**
+   **1. Planes** <br/> Reference: [Basic Ray Tracing Jan 28.](https://illinois-cs419.github.io/schedule)
 
-   2. **Spheres** <br/> Reference: [Ray-Sphere Intesection Feb.2](https://illinois-cs419.github.io/schedule) <br/>  Reference: [RTiOW Section 5](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere)
+   **2. Spheres** <br/> Reference: [Ray-Sphere Intesection Feb.2](https://illinois-cs419.github.io/schedule) <br/>  Reference: [RTiOW Section 5](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere)
    
-   3. **Triangles** <br/> Reference: [Ray-Triangle Intersection Feb. 9](https://illinois-cs419.github.io/schedule)
+   **3. Triangles** <br/> Reference: [Ray-Triangle Intersection Feb. 9](https://illinois-cs419.github.io/schedule)
  
-2. **Orthographic projection and perspective projection** <br/> Reference: [Basic Ray Tracing Jan. 28](https://illinois-cs419.github.io/schedule)
+**2. Orthographic projection and perspective projection** <br/> Reference: [Basic Ray Tracing Jan. 28](https://illinois-cs419.github.io/schedule)
  
-3. **A movable camera** <br/> Reference: [Cameras Feb. 9](https://illinois-cs419.github.io/schedule)
+**3. A movable camera** <br/> Reference: [Cameras Feb. 9](https://illinois-cs419.github.io/schedule)
  
-4. **Multi-jittered sampling for the primary rays** <br/> Reference: [Sampling Feb. 4](https://illinois-cs419.github.io/schedule) 
+**4. Multi-jittered sampling for the primary rays** <br/> Reference: [Sampling Feb. 4](https://illinois-cs419.github.io/schedule) 
  
-5. **Simple shading using the Blinn-Phong or Phong reflectance model.** <br/>
+**5. Simple shading using the Blinn-Phong or Phong reflectance model.** <br/>
 Just do diffuse (Lambertain) shading without any specular component. <br/>
 Use a point light and do not recurse...just shade the hit using a surface normal and the direction to the light. <br/>
 Reference: [Diffuse Shading Feb. 9](https://illinois-cs419.github.io/schedule)
 
-6. **Hard shadows** <br/> Reference: [Hard Shadows Feb. 11](https://illinois-cs419.github.io/schedule)   
+**6. Hard shadows** <br/> Reference: [Hard Shadows Feb. 11](https://illinois-cs419.github.io/schedule)   
 
-7. **Output images in one of PPM or PNG format.** <br/> Reference: [RTiOW Section 2](https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage)
+**7. Output images in one of PPM or PNG format.** <br/> Reference: [RTiOW Section 2](https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage)
 
 ### Technical Details
 
