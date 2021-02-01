@@ -44,7 +44,7 @@ rubric:
     points: 5
     description: Be able to produce hard-edged sahodws as shown in the image on this page.
 ---
-![Tracing](MP1.jpg){:width="500px"}   
+![Tracing](img/MP1.jpg){:width="500px"}   
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
 1. Ray-object intersection support for:
