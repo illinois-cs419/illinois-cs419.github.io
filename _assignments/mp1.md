@@ -53,24 +53,24 @@ For your first programming assignment you will implement a bare bones ray-tracer
 1. Ray-object intersection support for:
    1. Planes <br/> Reference: [Basic Ray Tracing Jan 28.](https://illinois-cs419.github.io/schedule)
 
-   2. Spheres <br/> Reference: [Ray-Sphere Intesection Feb.2](https://illinois-cs419.github.io/schedule) <br/>  [Reference: RTiOW Section 5](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere)
+   2. Spheres <br/> Reference: [Ray-Sphere Intesection Feb.2](https://illinois-cs419.github.io/schedule) <br/>  Reference: [RTiOW Section 5](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere)
    
-   3. Triangles <br/> [Reference: Ray-Triangle Intersection Feb. 9](https://illinois-cs419.github.io/schedule)
+   3. Triangles <br/> Reference: [Ray-Triangle Intersection Feb. 9](https://illinois-cs419.github.io/schedule)
  
-2. Orthographic projection and perspective projection <br/> [Reference: Basic Ray Tracing Jan. 28](https://illinois-cs419.github.io/schedule)
+2. Orthographic projection and perspective projection <br/> Reference: [Basic Ray Tracing Jan. 28](https://illinois-cs419.github.io/schedule)
  
-3. A movable camera <br/> [Reference: Cameras Feb. 9](https://illinois-cs419.github.io/schedule)
+3. A movable camera <br/> Reference: [Cameras Feb. 9](https://illinois-cs419.github.io/schedule)
  
-4. Multi-jittered sampling for the primary rays <br/> [Reference: Sampling Feb. 4](https://illinois-cs419.github.io/schedule) 
+4. Multi-jittered sampling for the primary rays <br/> Reference: [Sampling Feb. 4](https://illinois-cs419.github.io/schedule) 
  
 5. Simple shading using the Blinn-Phong or Phong reflectance model. <br/>
 Just do diffuse (Lambertain) shading without any specular component. <br/>
 Use a point light and do not recurse...just shade the hit using a surface normal and the direction to the light. <br/>
-[Reference: Diffuse Shaddng Feb. 9](https://illinois-cs419.github.io/schedule)
+Reference: [Diffuse Shading Feb. 9](https://illinois-cs419.github.io/schedule)
 
-6. Hard shadows <br/> [Reference: Hard Shadows Feb. 11](https://illinois-cs419.github.io/schedule)   
+6. Hard shadows <br/> Reference: [Hard Shadows Feb. 11](https://illinois-cs419.github.io/schedule)   
 
-6. Output images in one of PPM or PNG format. <br/> [Reference: RTiOW Section 2](https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage)
+6. Output images in one of PPM or PNG format. <br/> Reference: [RTiOW Section 2](https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage)
 
 ### Technical Details
 
@@ -83,20 +83,20 @@ Use a point light and do not recurse...just shade the hit using a surface normal
   + The inputs to the function
   + The return value(s) if any
 
-+ **If you use code from other sources, you must document the use of that code in a text file named README.md in your handin**
++ **If you use code from other sources, you must document that in a text file named README.md in your handin**
 
 ### FAQ
-1. **Should my images look like the one on this page?**<br/>
-A. Not exactly! You can ignore the cylinder and the box...you won't render those.<br/>
+**1. Should my images look like the one on this page?**<br/>
+Not exactly! You can ignore the cylinder and the box...you won't render those.<br/>
    And you can be a little creative and any scene you want as long as it denomstrates the elements shown here.<br/> 
    Also, you should be aware the scene on this page is in perspective, which is why there is a horizon from the plane. 
    
-2. **Can use code X that I found on the web?**<br/>
-A. Probably! In general, code to do basic numerical work (e.g. cross-product or even barycentric coordinates for a point) can be from a library.
+**2. Can use code X that I found on the web?**<br/>
+Probably! In general, code to do basic numerical work (e.g. cross-product or even barycentric coordinates for a point) can be from a library.
    You can ask on CampusWire about specific pieces of code. <br/>
    Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
 
-3. **In what order should I implement these features?**<br/>
+**3. In what order should I implement these features?**<br/>
 I would implement things in the following order <br/>
     1. Image output, orthographic and persepctive projection, ray-plane intresection (with flat shading)<br/>
     2. Spheres, diffuse shading, movable camera<br/>
