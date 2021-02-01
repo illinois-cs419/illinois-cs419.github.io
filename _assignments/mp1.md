@@ -6,6 +6,10 @@ due: "Feb. 18, 2021 @ 11:59 PM"
 material: ~
 points: 50
 rubric:
+-
+    name: Commented code
+    points: 5
+    description: Comment code as described in the MP specification
 - 
     name: Ray-Plane Intersection
     points: 5
