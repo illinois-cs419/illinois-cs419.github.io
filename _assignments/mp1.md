@@ -97,7 +97,7 @@ A. Probably! In general, code to do basic numerical work (e.g. cross-product or 
    Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
 
 Q. In what order should I implement these features?<br/>
-A.  I would implement things in the following order <br/>
+A. I would implement things in the following order <br/>
     1. Image output, orthographic and persepctive projection, ray-plane intresection (with flat shading)<br/>
     2. Spheres, diffuse shading, movable camera<br/>
     3. Triangles, multi-jittered sampling, shadows<br/>
@@ -114,7 +114,7 @@ You will hand in your code and 5 images:
 + An additional perspective rendering of the same scene from a different viewpoint at a resolution of at least 500x500. 
 
 + Two images illustrating the effects of using jittering. <br/>
-  The first image should use a single ray for each pixel, while the second should use multi-jittering. 
-  Try to set up a scene so that the difference is apparent, you can reduce the resolution to something small. 
+  The first image should use a single ray for each pixel.<br/>
+  The second should use multi-jittering.<br/> 
+  You can reduce the resolution to something small in order to see the difference. 
 
-Hand-in will be done on Compass 
