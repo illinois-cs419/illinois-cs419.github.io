@@ -21,7 +21,7 @@ rubric:
     description: Be able to render a sphere
   -
     name: Ray-Triangle Intersection
-    points: 10
+    points: 5
     description: Be able to render a triangle
   - 
     name: Movable Camera
@@ -39,8 +39,12 @@ rubric:
     name: Simple Diffuse Shading
     points: 5
     description: Use the diffuse shading term from the Phong reflection model 
+-
+    name: Hard Shadows
+    points: 5
+    description: Be able to produce hard-edged sahodws as shown in the image on this page.
 ---
-![Tracing](/img/ray-tracing.jpg){:height="400px" width="600px"}   
+![Tracing](MP1.jpg){:width="500px"}   
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
 1. Ray-object intersection support for:
@@ -58,6 +62,8 @@ For your first programming assignment you will implement a bare bones ray-tracer
  
 5. Simple shading using the Blinn-Phong or Phong reflectance model. Just do diffuse (Lambertain) shading without any specular component. Use a point light and do not recurse...just shade the hit using a surface normal and the direction to the light. <br/>[Reference: Diffuse Shaddng Feb. 9](https://illinois-cs419.github.io/schedule)
 
+6. Hard shadows <br/> [Reference: Hard Shadows Feb. 11](https://illinois-cs419.github.io/schedule)   
+
 6. Output images in one of PPM or PNG format. <br/> [Reference: RTiOW Section 2](https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage)
 
 ### Technical Details
@@ -74,6 +80,9 @@ For your first programming assignment you will implement a bare bones ray-tracer
 + **If you use code from other sources, you must document the use of that code in a text file named README.md in your handin**
 
 ### FAQ
+Q. Should my images look like the one on this page?
+A. Not exactly! You can ignore the cylinder and the box...you won't render those. 
+
 Q. Can use code X that I found on the web?<br/>
 A. Probably! In general, code to do basic numerical work (e.g. cross-product or even barycentric coordinates for a point) can be from a library. You can ask on CampusWire about specific pieces of code. Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
 
@@ -81,7 +90,7 @@ Q. In what order should I implement these features?<br/>
 A.  I would implement things in the following order 
     1. Image output, orthographic and persepctive projection, ray-plane intresection (with flat shading)
     2. Spheres, diffuse shading, movable camera
-    3. Triangles, multi-jittered sampling
+    3. Triangles, multi-jittered sampling, shadows
     Test as you go...save your test cases for re-use if possible.
 
 
