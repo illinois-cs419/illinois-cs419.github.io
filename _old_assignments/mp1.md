@@ -43,6 +43,7 @@ rubric:
     name: Hard Shadows
     points: 5
     description: Be able to produce hard-edged sahodws as shown in the image on this page.
+    
 ---
 ![Tracing](img/MP1.jpg){:width="500px"}   
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
@@ -80,7 +81,7 @@ For your first programming assignment you will implement a bare bones ray-tracer
 + **If you use code from other sources, you must document the use of that code in a text file named README.md in your handin**
 
 ### FAQ
-Q. Should my images look like the one on this page?
+Q. Should my images look like the one on this page?<br/>
 A. Not exactly! You can ignore the cylinder and the box...you won't render those. 
 
 Q. Can use code X that I found on the web?<br/>
