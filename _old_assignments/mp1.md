@@ -44,6 +44,7 @@ rubric:
     description: Be able to produce hard-edged sahodws as shown in the image on this page.
     
 ---
+
 ![Tracing](/img/MP1.jpg){:width="500px"}   
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
