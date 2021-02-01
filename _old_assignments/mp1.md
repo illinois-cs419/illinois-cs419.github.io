@@ -1,6 +1,6 @@
 ---
 layout: assignment
-title: "MP1: Dancing Logo"
+title: "Bare Bones Ray Tracing"
 index: 10
 due: "Sept. 16, 2020 @ 11:59 PM"
 material: ~
@@ -11,27 +11,35 @@ rubric:
     points: 1
     description: Program runs without crashing and renders multiple frames.
   -
-    name: Commented
+    name: COmmented and well-engineered code
     points: 1
-    description: Each function in your code is commented in the required style.
+    description: Each function in your code is commented
   - 
-    name: Affine Transformation
+    name: Ray-Plane Intersection
     points: 1
-    description: Affine transformations used in the vertex shader
+    description: 
   - 
-    name: Logo
+    name: Ray-Sphere Intersection
     points: 2
     description: Logo model looks substantially like the provided image	and is a set of triangles.
+  -
+    name: Ray-Triangle Intersection
+    points: 1
+    description: Is your animation significantly different than the logo and visually interesting
   - 
-    name: Change coordinates in buffer
+    name: Movable Camera
     points: 2
     description: Non-uniform transformation implemented by changing coordinates in buffer	
   -
-    name: Second animation
+    name: Orthographic and Perspective Projection
     points: 2
     description: Implement your own animation, different than the logo
   -
-    name: Creativity
+    name: Multi-Jittered Sampling
+    points: 1
+    description: Is your animation significantly different than the logo and visually interesting
+  -
+    name: Simple Diffuse Shading
     points: 1
     description: Is your animation significantly different than the logo and visually interesting
 ---
@@ -74,23 +82,7 @@ You will hand in your code and 5 images:
 
 Hand-in will be done on Compass and detailed instructions will be forthcoming 
 
-### Rubric
 
-|:----------------+------------|
-| **Feature**           | **Points** |
-|:--------------------------|-------:|
-| Writes out an image!      | 1      |
-| Ray-Plane Intersection    | 2      |
-| Ray-Triangle Intersection | 2      |
-| Ray-Sphere Intersection   | 2      |
-| Orthographic Projection   | 1      |
-| Perspective Projection    | 1      |
-| Movable Camera            | 2      |
-| Multi-Jittered Sampling   | 2      |
-| Shading                   | 2      |
-| **TOTAL**	                 |15        |
-|===
-| 
 
 ### Technical Details
 
