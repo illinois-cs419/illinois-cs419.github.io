@@ -52,7 +52,7 @@ For your first programming assignment you will implement a bare bones ray-tracer
 
 **1. Ray-object intersection support for:**<br/>
     &nbsp;&nbsp;&nbsp;**Planes** Reference: [Basic Ray Tracing Jan 28.](https://illinois-cs419.github.io/schedule)<br/>
-    &nbsp;&nbsp;&nbsp;**Spheres** Reference: [Ray-Sphere Intesection Feb.2](https://illinois-cs419.github.io/schedule) <br/>  Reference: [RTiOW Section 5](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere)<br/>
+    &nbsp;&nbsp;&nbsp;**Spheres** Reference: [Ray-Sphere Intesection Feb.2](https://illinois-cs419.github.io/schedule)<br/> 
     &nbsp;&nbsp;&nbsp;**Triangles** Reference: [Ray-Triangle Intersection Feb. 9](https://illinois-cs419.github.io/schedule)
  
 **2. Orthographic projection and perspective projection** <br/> Reference: [Basic Ray Tracing Jan. 28](https://illinois-cs419.github.io/schedule)
