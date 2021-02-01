@@ -2,7 +2,7 @@
 layout: assignment
 title: "Bare Bones Ray Tracing"
 index: 10
-due: "Feb. 16, 2021 @ 11:59 PM"
+due: "Feb. 18, 2021 @ 11:59 PM"
 material: ~
 points: 50
 rubric:
@@ -44,19 +44,46 @@ rubric:
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
 1. Ray-object intersection support for:
-   1. Planes
-   2. Spheres
-   3. Triangles
- 
-2. Orthographic projection
- 
-3. Perspective projection with a movable camera
- 
-4. Multi-jittered sampling for the primary rays
- 
-5. Simple shading using the Blinn-Phong or Phong reflectance model. Just do diffuse (Lambertain) shading without any specular component. Use a directional light with no position
+   1. Planes <br/> Reference: [Basic Ray Tracing Jan 28.](https://illinois-cs419.github.io/schedule)
 
-6. Output images in one of PPM or PNG format.
+   2. Spheres <br/> Reference: [Ray-Sphere Intesection Feb.2](https://illinois-cs419.github.io/schedule) <br/>  [Reference: RTiOW Section 5](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere)
+   
+   3. Triangles <br/> [Reference: Ray-Triangle Intersection Feb. 9](https://illinois-cs419.github.io/schedule)
+ 
+2. Orthographic projection and perspective projection <br/> [Reference: Basic Ray Tracing Jan. 28](https://illinois-cs419.github.io/schedule)
+ 
+3. A movable camera <br/> [Reference: Cameras Feb. 9](https://illinois-cs419.github.io/schedule)
+ 
+4. Multi-jittered sampling for the primary rays <br/> [Reference: Sampling Feb. 4](https://illinois-cs419.github.io/schedule) 
+ 
+5. Simple shading using the Blinn-Phong or Phong reflectance model. Just do diffuse (Lambertain) shading without any specular component. Use a point light and do not recurse...just shade the hit using a surface normal and the direction to the light. <br/>[Reference: Diffuse Shaddng Feb. 9](https://illinois-cs419.github.io/schedule)
+
+6. Output images in one of PPM or PNG format. <br/> [Reference: RTiOW Section 2](https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage)
+
+### Technical Details
+
++ You can use any programming /platform you wish
+
++ You can use any math library/package you wish to support the vector/matrix operations you need to perform
+
++ The documentation standard is simple each function or scoped block of code should have a comment describing the following:
+  +The purpose of the function
+  + The inputs to the function
+  + The return value(s) if any
+
++ **If you use code from other sources, you must document the use of that code in a text file named README.md in your handin**
+
+### FAQ
+Q. Can use code X that I found on the web?<br/>
+A. Probably! In general, code to do basic numerical work (e.g. cross-product or even barycentric coordinates for a point) can be from a library. You can ask on CampusWire about specific pieces of code. Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
+
+Q. In what order should I implement these features?<br/>
+A.  I would implement things in the following order 
+    1. Image output, orthographic and persepctive projection, ray-plane intresection (with flat shading)
+    2. Spheres, diffuse shading, movable camera
+    3. Triangles, multi-jittered sampling
+    Test as you go...save your test cases for re-use if possible.
+
 
 ### Hand-in
 
@@ -75,15 +102,3 @@ You will hand in your code and 5 images:
 Hand-in will be done on Compass 
 
 
-### Technical Details
-
-+ You can use any programming /platform you wish
-
-+ You can use any math library/package you wish to support the vector/matrix operations you need to perform
-
-+ The documentation standard is simple each function or scoped block of code should have a comment describing the following:
-+++ The purpose of the function
-+++ The inputs to the function
-+++ The return value(s) if any
-
-+ **If you use code from other sources, you must document the use of that code**
