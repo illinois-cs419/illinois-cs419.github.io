@@ -65,15 +65,15 @@ For your first programming assignment you will implement a bare bones ray-tracer
 
 You will hand in your code and 5 images:
 
-+ One orthographic rendering of a scene with spheres and triangles
++ One orthographic rendering of a scene with spheres and triangles at a resolution of at least 500x500. 
 
-+ One perspective rendering of the same scene
++ One perspective rendering of the same scene at a resolution of at least 500x500. 
 
-+ An additional perspective rendering of the same scene from a different viewpoint
++ An additional perspective rendering of the same scene from a different viewpoint at a resolution of at least 500x500. 
 
-+ Two images illustrating the effects of using jittering. The first image should use a single ray for each pixel, while the second should use multi-jittering. Try to set up a scene so that the difference is apparent.
-
-The images should be at least 500 x 500 pixels. 
++ Two images illustrating the effects of using jittering. <br/>
+  The first image should use a single ray for each pixel, while the second should use multi-jittering. 
+  Try to set up a scene so that the difference is apparent, you can reduce the resolution to something small. 
 
 Hand-in will be done on Compass 
 
