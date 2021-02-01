@@ -1,5 +1,57 @@
 ---
 layout: assignment
+title: "4 Credit MP: Ray Tracing"
+index: 10
+due: "May 5, 2021 @ 11:59 PM"
+material: ~
+points: 10
+rubric:
+  -
+    name: Positionable camera
+    points: 1
+    description: Implement a camera you can position in the scene...choose an interesting view in for your scene
+  - 
+    name: Spheres
+    points: 1
+    description: Be able to render spheres of different sizes
+  -
+    name: Diffuse material
+    points: 1
+    description: Some spheres should be rendered as diffuse surafces
+  - 
+    name: Metal material
+    points: 1
+    description: Some spheres should be rendered as metallic surfaces (mirrors are nice)
+  - 
+    name: Dielectrics
+    points: 1
+    description: Some spheres should be glass....
+  - 
+    name: Instances
+    points: 1
+    description: Render a non-trivial number of spheres by using instancing
+  -
+    name: Bounding Volume Hierarchy
+    points: 1
+    description: You should implement a BVH to make your tracer more performant
+  - 
+    name: Plane
+    points: 1
+    description: Render a geometric plane as a floor for your scene
+  - 
+    name: Shadows
+    points: 1
+    description: Support shadows...can be hard shadows using a point light
+  - 
+    name: Creativity
+    points: 1
+    description: Do something interesting and visually unique in your scene...maybe texturing
+    
+---
+
+
+---
+layout: assignment
 title: "Bare Bones Ray Tracing"
 index: 10
 due: "Feb. 18, 2021 @ 11:59 PM"
