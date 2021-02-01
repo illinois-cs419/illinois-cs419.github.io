@@ -10,7 +10,34 @@ rubric:
     name: Ray-Plane Intersection
     points: 5
     description: Be able to render a plane.
-
+- 
+    name: Ray-Sphere Intersection
+    points: 5
+    description: Be able to render a sphere
+-
+    name: Ray-Triangle Intersection
+    points: 5
+    description: Be able to render a triangle
+- 
+    name: Movable Camera
+    points: 5
+    description: Be able to generate a render from an arbitrary viewpoint and direction	
+-
+    name: Orthographic and Perspective Projection
+    points: 5
+    description: Be able to render using either type of projection
+-
+    name: Multi-Jittered Sampling
+    points: 10
+    description: Be able to render an image using multi-jittered sampling for anti-aliasing
+-
+    name: Simple Diffuse Shading
+    points: 5
+    description: Use the diffuse shading term from the Phong reflection model 
+-
+    name: Hard Shadows
+    points: 5
+    description: Be able to produce hard-edged sahodws as shown in the image on this page.
 ---
 
 
