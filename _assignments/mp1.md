@@ -100,10 +100,10 @@ Probably! In general, code to do basic numerical work (e.g. cross-product or eve
 
 **3. In what order should I implement these features?**<br/>
 
-I would implement things in the following order: <br/>
+I would implement things in the following order: <br/><br/>
     1. Image output, orthographic and persepctive projection, ray-plane intresection (with flat shading)<br/>
     2. Spheres, diffuse shading, movable camera<br/>
-    3. Triangles, multi-jittered sampling, shadows<br/>
+    3. Triangles, multi-jittered sampling, shadows<br/><br/>
 Test as you go...save your test cases for re-use if possible.
 
 ### Hand-in
