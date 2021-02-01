@@ -95,11 +95,11 @@ A. Probably! In general, code to do basic numerical work (e.g. cross-product or 
    Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
 
 Q. In what order should I implement these features?<br/>
-A.  I would implement things in the following order 
-    1. Image output, orthographic and persepctive projection, ray-plane intresection (with flat shading)
-    2. Spheres, diffuse shading, movable camera
-    3. Triangles, multi-jittered sampling, shadows
-    Test as you go...save your test cases for re-use if possible.
+A.  I would implement things in the following order <br/>
+    1. Image output, orthographic and persepctive projection, ray-plane intresection (with flat shading)<br/>
+    2. Spheres, diffuse shading, movable camera<br/>
+    3. Triangles, multi-jittered sampling, shadows<br/>
+    Test as you go...save your test cases for re-use if possible.<br/>
 
 ### Hand-in
 
