@@ -4,46 +4,43 @@ title: "Bare Bones Ray Tracing"
 index: 10
 due: "Feb. 16, 2021 @ 11:59 PM"
 material: ~
-points: 10
+points: 50
 rubric:
-  -
-    name: Runs and renders
-    points: 1
-    description: Program runs without crashing and renders multiple frames.
+  
   -
     name: Commented code
-    points: 1
+    points: 5
     description: 
   - 
     name: Ray-Plane Intersection
-    points: 1
+    points: 5
     description: Be able to render a plane.
   - 
     name: Ray-Sphere Intersection
-    points: 2
+    points: 5
     description: Be able to render a sphere
   -
     name: Ray-Triangle Intersection
-    points: 1
+    points: 10
     description: Be able to render a triangle
   - 
     name: Movable Camera
-    points: 2
+    points: 5
     description: Be able to generate a render from an arbitrary viewpoint and direction	
   -
     name: Orthographic and Perspective Projection
-    points: 2
+    points: 5
     description: Be able to render using either type of projection
   -
     name: Multi-Jittered Sampling
-    points: 1
+    points: 10
     description: Be able to render an image using multi-jittered sampling for anti-aliasing
   -
     name: Simple Diffuse Shading
-    points: 1
-    description: Use the diffue shading term from the Phong reflection model 
+    points: 5
+    description: Use the diffuse shading term from the Phong reflection model 
 ---
-
+![Tracing](/img/ray-tracing.jpg){:height="400px" width="600px"}   
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
 1. Ray-object intersection support for:
@@ -65,7 +62,7 @@ For your first programming assignment you will implement a bare bones ray-tracer
 
 You will hand in your code and 5 images:
 
-+ One orthographic rendering of a scene with spheres and triangles at a resolution of at least 500x500. 
++ One orthographic rendering of a scene with sphere, a plane, and triangles at a resolution of at least 500x500. 
 
 + One perspective rendering of the same scene at a resolution of at least 500x500. 
 
