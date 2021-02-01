@@ -86,19 +86,19 @@ Reference: [Diffuse Shading Feb. 9](https://illinois-cs419.github.io/schedule)
 + **If you use code from other sources, you must document that in a text file named README.md in your handin**
 
 ### FAQ
-**1. Should my images look like the one on this page?**<br/><br/>
+**1. Should my images look like the one on this page?**<br/>
 
 Not exactly! You can ignore the cylinder and the box...you won't render those.<br/>
    And you can be a little creative and any scene you want as long as it denomstrates the elements shown here.<br/> 
    Also, you should be aware the scene on this page is in perspective, which is why there is a horizon from the plane. 
    
-**2. Can use code X that I found on the web?**<br/><br/>
+**2. Can use code X that I found on the web?**<br/>
 
 Probably! In general, code to do basic numerical work (e.g. cross-product or even barycentric coordinates for a point) can be from a library.
    You can ask on CampusWire about specific pieces of code. <br/>
    Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
 
-**3. In what order should I implement these features?**<br/><br/>
+**3. In what order should I implement these features?**<br/>
 
 I would implement things in the following order: <br/>
 
