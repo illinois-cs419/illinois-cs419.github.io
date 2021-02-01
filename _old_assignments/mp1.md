@@ -61,7 +61,10 @@ For your first programming assignment you will implement a bare bones ray-tracer
  
 4. Multi-jittered sampling for the primary rays <br/> [Reference: Sampling Feb. 4](https://illinois-cs419.github.io/schedule) 
  
-5. Simple shading using the Blinn-Phong or Phong reflectance model. Just do diffuse (Lambertain) shading without any specular component. Use a point light and do not recurse...just shade the hit using a surface normal and the direction to the light. <br/>[Reference: Diffuse Shaddng Feb. 9](https://illinois-cs419.github.io/schedule)
+5. Simple shading using the Blinn-Phong or Phong reflectance model. <br/>
+Just do diffuse (Lambertain) shading without any specular component. <br/>
+Use a point light and do not recurse...just shade the hit using a surface normal and the direction to the light. <br/>
+[Reference: Diffuse Shaddng Feb. 9](https://illinois-cs419.github.io/schedule)
 
 6. Hard shadows <br/> [Reference: Hard Shadows Feb. 11](https://illinois-cs419.github.io/schedule)   
 
@@ -82,10 +85,14 @@ For your first programming assignment you will implement a bare bones ray-tracer
 
 ### FAQ
 Q. Should my images look like the one on this page?<br/>
-A. Not exactly! You can ignore the cylinder and the box...you won't render those. And you can be a little creative and any scene you want as long as it denomstrates the elements shown here. 
-
+A. Not exactly! You can ignore the cylinder and the box...you won't render those.<br/>
+   And you can be a little creative and any scene you want as long as it denomstrates the elements shown here.<br/> 
+   Also, you should be aware the scene on this page is in perspective, which is why there is a horizon from the plane. 
+   
 Q. Can use code X that I found on the web?<br/>
-A. Probably! In general, code to do basic numerical work (e.g. cross-product or even barycentric coordinates for a point) can be from a library. You can ask on CampusWire about specific pieces of code. Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
+A. Probably! In general, code to do basic numerical work (e.g. cross-product or even barycentric coordinates for a point) can be from a library.
+   You can ask on CampusWire about specific pieces of code. <br/>
+   Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
 
 Q. In what order should I implement these features?<br/>
 A.  I would implement things in the following order 
@@ -93,7 +100,6 @@ A.  I would implement things in the following order
     2. Spheres, diffuse shading, movable camera
     3. Triangles, multi-jittered sampling, shadows
     Test as you go...save your test cases for re-use if possible.
-
 
 ### Hand-in
 
