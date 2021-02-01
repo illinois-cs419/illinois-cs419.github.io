@@ -41,7 +41,7 @@ rubric:
 -
     name: Hard Shadows
     points: 5
-    description: Be able to produce hard-edged sahodws as shown in the image on this page.
+    description: Be able to produce hard-edged sahodws as shown in the image on this page
 ---
 
 
@@ -79,25 +79,25 @@ Use a point light and do not recurse...just shade the hit using a surface normal
 + You can use any math library/package you wish to support the vector/matrix operations you need to perform
 
 + The documentation standard is simple each function or scoped block of code should have a comment describing the following:
-  +The purpose of the function
+  + The purpose of the function
   + The inputs to the function
   + The return value(s) if any
 
 + **If you use code from other sources, you must document the use of that code in a text file named README.md in your handin**
 
 ### FAQ
-Q. Should my images look like the one on this page?<br/>
+1. **Should my images look like the one on this page?**<br/>
 A. Not exactly! You can ignore the cylinder and the box...you won't render those.<br/>
    And you can be a little creative and any scene you want as long as it denomstrates the elements shown here.<br/> 
    Also, you should be aware the scene on this page is in perspective, which is why there is a horizon from the plane. 
    
-Q. Can use code X that I found on the web?<br/>
+2. **Can use code X that I found on the web?**<br/>
 A. Probably! In general, code to do basic numerical work (e.g. cross-product or even barycentric coordinates for a point) can be from a library.
    You can ask on CampusWire about specific pieces of code. <br/>
    Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
 
-Q. In what order should I implement these features?<br/>
-A. I would implement things in the following order <br/>
+3. **In what order should I implement these features?**<br/>
+I would implement things in the following order <br/>
     1. Image output, orthographic and persepctive projection, ray-plane intresection (with flat shading)<br/>
     2. Spheres, diffuse shading, movable camera<br/>
     3. Triangles, multi-jittered sampling, shadows<br/>
