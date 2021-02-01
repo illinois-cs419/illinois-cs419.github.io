@@ -5,8 +5,7 @@ index: 10
 due: "Feb. 18, 2021 @ 11:59 PM"
 material: ~
 points: 50
-rubric:
-  
+rubric:  
   -
     name: Commented code
     points: 5
@@ -45,7 +44,7 @@ rubric:
     description: Be able to produce hard-edged sahodws as shown in the image on this page.
     
 ---
-![Tracing](img/MP1.jpg){:width="500px"}   
+![Tracing](/img/MP1.jpg){:width="500px"}   
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
 1. Ray-object intersection support for:
@@ -82,7 +81,7 @@ For your first programming assignment you will implement a bare bones ray-tracer
 
 ### FAQ
 Q. Should my images look like the one on this page?<br/>
-A. Not exactly! You can ignore the cylinder and the box...you won't render those. 
+A. Not exactly! You can ignore the cylinder and the box...you won't render those. And you can be a little creative and any scene you want as long as it denomstrates the elements shown here. 
 
 Q. Can use code X that I found on the web?<br/>
 A. Probably! In general, code to do basic numerical work (e.g. cross-product or even barycentric coordinates for a point) can be from a library. You can ask on CampusWire about specific pieces of code. Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
