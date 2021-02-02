@@ -1,5 +1,5 @@
 - 
-  date: "Week (Jan 26) "
+  date: "Week 1 (Jan 26) "
   materials: "Basics of Ray Tracing by Eric Haines [Video](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/) <br/>
               Rasterization by Eric Haines [Video](https://news.developer.nvidia.com/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/) <br/>
               Read RTiOW Sections 1-5 [Web Book](https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere/creatingourfirstraytracedimage)"
@@ -12,13 +12,12 @@
               NVIDIA RTX Demos&nbsp;[Web page](https://www.nvidia.com/en-us/geforce/news/atomic-heart-justice-reflections-nvidia-rtx-tech-demo-downloads/) "
   title: "Basic Ray Tracing"
 - 
-  date: "Week 2: Feb 1 - 5"
-  materials: ""
-  title: "Cameras <br/>
-          Basic Shading <br/>
-           Aliasing <br/>
-           Basic Sampling <br/>
-          Ray-Sphere Intersection"
+  date: "Week 2 (Feb 2)"
+  materials: "MP1 Specification[Web page](https://illinois-cs419.github.io/assignments/mp1.html) <br/>
+              Anti-aliasing[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-4-SimpleAntiAliasing.pdf)"
+  title: " Ant-Aliasing <br/>
+           Sampling <br/>
+           Ray-Sphere Intersection"
 -
   date: "Week 3: Feb 8 - 12"
   materials: ""
