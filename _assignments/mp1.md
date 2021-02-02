@@ -94,7 +94,7 @@ Not exactly! You can ignore the cylinder and the box...you won't render those.<b
 
 Probably! In general, code to do basic numerical work (e.g. cross-product or even barycentric coordinates for a point) can be from a library.
    You can ask on CampusWire about specific pieces of code. <br/>
-   Whether your use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
+   Whether you use a library or copy source code from some approved source, you must cite the source in a text file named README.md in your handin.
 
 **3. In what order should I implement these features?**<br/>
 
