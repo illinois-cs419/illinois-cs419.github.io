@@ -87,8 +87,9 @@ Reference: [Diffuse Shading Feb. 9](https://illinois-cs419.github.io/schedule)
 **1. Should my images look like the one on this page?**<br/>
 
 Not exactly! You can ignore the cylinder and the box...you won't render those.<br/>
-   And you can be a little creative and any scene you want as long as it denomstrates the elements shown here.<br/> 
-   Also, you should be aware the scene on this page is in perspective, which is why there is a horizon from the plane. 
+   And you can be creative. Generate any scene you want as long as it demonstrates the elements shown here.<br/> 
+   Also, you should be aware that the scene on this page is in perspective, which is why there is a horizon from the plane.
+   An orthographic scene will not appear the same...
    
 **2. Can use code X that I found on the web?**<br/>
 
