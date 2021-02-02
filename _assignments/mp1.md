@@ -76,7 +76,7 @@ Reference: [Diffuse Shading Feb. 9](https://illinois-cs419.github.io/schedule)
 
 + You can use any math library/package you wish to support the vector/matrix operations you need to perform
 
-+ The documentation standard is simple each function or scoped block of code should have a comment describing the following:
++ The documentation standard is simple.<br/> Each function or scoped block of code should have a comment describing the following:
   + The purpose of the function
   + The inputs to the function
   + The return value(s) if any
