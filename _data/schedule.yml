@@ -14,10 +14,14 @@
 - 
   date: "Week 2 (Feb 2)"
   materials: "MP1 Specification [Web page](https://illinois-cs419.github.io/assignments/mp1.html) <br/>
-              Anti-aliasing [Video](https://classtranscribe.illinois.edu/video?id=b69b34d9-eae4-422d-a23d-9f3bf40708f7&from=sharedlink)[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-4-SimpleAntiAliasing.pdf)"
-  title: " Ant-Aliasing <br/>
-           Sampling <br/>
-           Ray-Sphere Intersection"
+              Anti-aliasing [Video](https://classtranscribe.illinois.edu/video?id=b69b34d9-eae4-422d-a23d-9f3bf40708f7&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-4-SimpleAntiAliasing.pdf)"
+  title: " Anti-Aliasing "
+-
+  date: "Week 2 (Feb 4)"
+  materials: "Sampling [Video](https://classtranscribe.illinois.edu/video?id=17632f2c-9c1d-425e-b777-82a64ba90972&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/sampling-annotated.pdf)"
+  title: "Sampling <br/>
+          Ray-Sphere Intersection <br/>
+          Blinn-Phong Reflection Model"
 -
   date: "Week 3: Feb 8 - 12"
   materials: ""
