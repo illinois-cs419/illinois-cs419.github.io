@@ -2,7 +2,7 @@
 layout: assignment
 title: "Bare Bones Ray Tracing"
 index: 10
-due: "Feb. 18, 2021 @ 11:59 PM"
+due: "Feb. 20, 2021 @ 11:59 PM"
 material: ~
 points: 50
 rubric:
