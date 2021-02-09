@@ -19,17 +19,17 @@
 -
   date: "Week 2 (Feb 4)"
   materials: "Sampling [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/sampling-annotated.pdf) <br/>
-             Shadows [Video]()&nbsp;[PDF]() <br/>
-              Phong Reflection Model [Video]()&nbsp;[PDF]()"
+              Phong Reflection Model [Video](https://classtranscribe.illinois.edu/video?id=ed15a6d7-8eb6-407f-8acf-5ada8c70430c&from=sharedlink)&nbsp;[PDF]()"
   title: "Sampling <br/>
-          Shaodows <br/>
           Phong Reflection Model"
 -
   date: "Week 3 (Feb.8)"
-  materials: ""
-  title: "[A Camera Model]() <br/>
-          [Ray-Sphere Intersection]() <br/>
-          [Barycentric Coordinates]()"
+  materials: "Shadows [Video]()&nbsp;[PDF]() <br/>
+          A Camera Model[Video]()&nbsp;[PDF]()  <br/>
+          Ray-Sphere Intersection[Video]()&nbsp;[PDF]()"
+  title: "Shadows <br/>
+          A Camera Model <br/>
+          Ray-Sphere Intersection"
 -  
   date: "Week 4: Feb 15 - 19"
   materials: ""
