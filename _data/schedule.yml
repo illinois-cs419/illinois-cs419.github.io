@@ -31,12 +31,12 @@
           A Camera Model"
 -
   date: "Week 3 (Feb 11)"
-  materials: "Ray-Sphere Intersection[Video]()&nbsp;[PDF]()"
+  materials: "Ray-Sphere Intersection[Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-3-RaySphere.pdf)"
   title: "Ray-Sphere Intersection"
 
 -  
   date: "Week 4 (Feb 15)"
-  materials: "Barycentric Coordinates[Video]()&nbsp;[PDF]()"
+  materials: "Barycentric Coordinates[Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-4-RayTri.pdf)"
   title: "Barycentric Coordinates <br/>
           Ray-Triangle Intersection"
 -
