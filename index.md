@@ -82,7 +82,7 @@ Assigned work will include 4 quizzes, 3 programming assignments, 2 exams and a f
 There will be 4 short quizzes on PrairieLearn. These quizzes will be based on the lecture material and will serve as practice for the exams
 **Each quiz can be taken repeatedly..you can retake it till you get all the questions correct**
 
-+ **They are due by Friday at midnight of the week they are assigned.**
++ **They are due at midnight 7 days after they are assigned.**
 + They can be completed late for 50% credit at any time before May 5.
 
 #### Programming Assignments ####
