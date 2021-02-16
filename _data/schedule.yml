@@ -35,12 +35,10 @@
   title: "Ray-Sphere Intersection"
 
 -  
-  date: "Week 4: Feb 15 - 19"
-  materials: ""
-  title: "[KD Trees]() <br/>
-          [Bounding Volume Hierarchies]() <br/>
-          [Monte Carlo Methods]() <br/>
-          [The Rendering Equation]()"
+  date: "Week 4 (Feb 15)"
+  materials: "Barycentric Coordinates[Video]()&nbsp;[PDF]()"
+  title: "Barycentric Coordinates <br/>
+          Ray-Triangle Intersection"
 -
   date: "Week 5: Feb 22 - 26"
   materials: ""
