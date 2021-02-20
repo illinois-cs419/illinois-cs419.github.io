@@ -35,10 +35,14 @@
   title: "Ray-Sphere Intersection"
 
 -  
-  date: "Week 4 (Feb 15)"
+  date: "Week 4 (Feb 16)"
   materials: "Barycentric Coordinates [Video](https://classtranscribe.illinois.edu/video?id=32d58bdb-b2e6-4cd0-88b0-29fc76ee61af&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-4-RayTri.pdf)"
   title: "Barycentric Coordinates <br/>
           Ray-Triangle Intersection"
+-  
+  date: "Week 4 (Feb 18)"
+  materials: "Depth of Field [Video](https://classtranscribe.illinois.edu/video?id=4bd00d51-570f-4f75-a771-367a26a5fec7&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-DepthOfField.pdf)"
+  title: "Defocus Blur (Depth of Field)"
 -
   date: "Week 5: Feb 22 - 26"
   materials: ""
