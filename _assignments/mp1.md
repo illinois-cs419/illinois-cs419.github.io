@@ -51,8 +51,8 @@ For your first programming assignment you will implement a bare bones ray-tracer
 
 **1. Ray-object intersection support for:**<br/>
     &nbsp;&nbsp;&nbsp;**Planes** Reference: [Basic Ray Tracing Jan 28.](https://illinois-cs419.github.io/schedule)<br/>
-    &nbsp;&nbsp;&nbsp;**Spheres** Reference: [Ray-Sphere Intesection Feb.2](https://illinois-cs419.github.io/schedule)<br/> 
-    &nbsp;&nbsp;&nbsp;**Triangles** Reference: [Ray-Triangle Intersection Feb. 9](https://illinois-cs419.github.io/schedule)
+    &nbsp;&nbsp;&nbsp;**Spheres** Reference: [Ray-Sphere Intesection Feb.11](https://illinois-cs419.github.io/schedule)<br/> 
+    &nbsp;&nbsp;&nbsp;**Triangles** Reference: [Ray-Triangle Intersection Feb. 16](https://illinois-cs419.github.io/schedule)
  
 **2. Orthographic projection and perspective projection** <br/> Reference: [Basic Ray Tracing Jan. 28](https://illinois-cs419.github.io/schedule)
  
@@ -61,11 +61,11 @@ For your first programming assignment you will implement a bare bones ray-tracer
 **4. Multi-jittered sampling for the primary rays** <br/> Reference: [Sampling Feb. 4](https://illinois-cs419.github.io/schedule) 
  
 **5. Simple shading using the Blinn-Phong or Phong reflectance model.** <br/>
-Just do diffuse (Lambertain) shading without any specular component. <br/>
+Just do diffuse (Lambertian) shading without any specular component. <br/>
 Use a point light and do not recurse...just shade the hit using a surface normal and the direction to the light. <br/>
-Reference: [Diffuse Shading Feb. 9](https://illinois-cs419.github.io/schedule)
+Reference: [Phong Shading Feb. 4](https://illinois-cs419.github.io/schedule)
 
-**6. Hard shadows** <br/> Reference: [Hard Shadows Feb. 11](https://illinois-cs419.github.io/schedule)   
+**6. Hard shadows** <br/> Reference: [Hard Shadows Feb. 9](https://illinois-cs419.github.io/schedule)   
 
 **7. Output images in one of PPM or PNG format.** <br/> Reference: [RTiOW Section 2](https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage)
 
