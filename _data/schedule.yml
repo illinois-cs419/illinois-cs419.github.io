@@ -44,14 +44,16 @@
 -  
   date: "Week 4 (Feb 18)"
   materials: "Depth of Field [Video](https://classtranscribe.illinois.edu/video?id=4bd00d51-570f-4f75-a771-367a26a5fec7&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-DepthOfField.pdf)"
-  title: "Defocus Blur (Depth of Field)"
+  title: "Defocus Blur"
 -
-  date: "Week 5: Feb 22 - 26"
-  materials: ""
-  title: "[Basic BRDFs]() <br/>
-          [Area Lights]() <br/>
-          [Reflection]() <br/>
-          [Transparency]()"
+  date: "Week 5 (Feb. 23)"
+  materials: "[Bounding Volume Hierarchies]()"
+  title: "Acceleration Structures"
+-
+  date: "Week 5 (Feb. 25"
+  materials: "[KD Trees]() <br/>
+              [Grids]()"
+  title: "Acceleration Structures"
 - 
   date: "Week 6: March 1 - 5"
   materials: ""
