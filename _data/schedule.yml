@@ -47,11 +47,11 @@
   title: "Defocus Blur"
 -
   date: "Week 5 (Feb. 23)"
-  materials: "Regular Grids [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-UniformGrids.pdf)"
+  materials: "Regular Grids [Video](https://classtranscribe.illinois.edu/video?id=8db744dd-a204-4d7c-b56d-81fcb9847b42&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-UniformGrids.pdf)"
   title: "Acceleration Structures"
 -
   date: "Week 5 (Feb. 25)"
-  materials: "Bounding Volume Hierarchies [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-BVH.pdf) <br/>
+  materials: "Bounding Volume Hierarchies [Video](https://classtranscribe.illinois.edu/video?id=9dcb24c2-b4aa-4b86-b5fc-c1065337b4d1&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-BVH.pdf) <br/>
               <i>Physically Based Rendering</i> Section 4.3 [Link](http://www.pbr-book.org/3ed-2018/Primitives_and_Intersection_Acceleration/Bounding_Volume_Hierarchies.html#) <br/>
               <i>Ray tracing the Next Week</i> Section 3 [Link](https://raytracing.github.io/books/RayTracingTheNextWeek.html#boundingvolumehierarchies)"
   title: "Acceleration Structures"
