@@ -51,7 +51,9 @@
   title: "Acceleration Structures"
 -
   date: "Week 5 (Feb. 25)"
-  materials: ""
+  materials: "Bounding Volume Hierarchies [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-BVH.pdf) <br/>
+              <i>Physically Based Rendering</i> Section 4.3 [Link](http://www.pbr-book.org/3ed-2018/Primitives_and_Intersection_Acceleration/Bounding_Volume_Hierarchies.html#) <br/>
+              <i>Ray tracing the Next Week</i> Section 3 [Link](https://raytracing.github.io/books/RayTracingTheNextWeek.html#boundingvolumehierarchies)"
   title: "Acceleration Structures"
 - 
   date: "Week 6: March 1 - 5"
