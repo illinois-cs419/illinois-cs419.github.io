@@ -56,11 +56,9 @@
               <i>Ray Tracing the Next Week</i> Section 3 [Link](https://raytracing.github.io/books/RayTracingTheNextWeek.html#boundingvolumehierarchies)"
   title: "Acceleration Structures"
 - 
-  date: "Week 6: March 1 - 5"
-  materials: ""
-  title: "[Path Tracing]() <br/>
-          [CSG Modeling]() <br/>
-          [Texture Mapping]()"
+  date: "Week 6 (March 2)"
+  materials: "Affine Transformations [PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Affine.pdf)"
+  title: "Affine Transformations"
 -
   date: "Week 7: March 8 - 12"
   materials: ""
