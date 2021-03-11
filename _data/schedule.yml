@@ -64,11 +64,9 @@
   materials: "Surface Normals [Video](https://classtranscribe.illinois.edu/video?id=2a8b7b2d-4804-4d17-af63-a751624fa9d6&begin=12&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs418/cs418CourseMaterial/raw/master/Lectures/Fall2020/418-13-1-Normals.pdf)"
   title: "Surface Normals"
 -
-  date: "Week 7: March 8 - 12"
-  materials: ""
-  title: "[Procedural Textures]() <br/>
-          [Noise Textures]() <br/>
-          [Irradiance Caching]()"
+  date: "Week 7: March 11"
+  materials: "_Ray Tracing Essentials Part 6: The Rendering Equation_ - Eric Haines[Video](https://youtu.be/AODo_RjJoUA) "
+  title: "The Rendering Equation"
 -  
   date: "Week 8: March 15 - 19"
   materials: ""
