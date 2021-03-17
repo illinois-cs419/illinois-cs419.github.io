@@ -69,10 +69,9 @@
   materials: "_Ray Tracing Essentials Part 6: The Rendering Equation_ - Eric Haines[Video](https://youtu.be/AODo_RjJoUA) "
   title: "The Rendering Equation"
 -  
-  date: "Week 8: March 15 - 19"
-  materials: ""
-  title: "[Photon Mapping]() <br/>
-          [Microfacet BRDFs]()"
+  date: "Week 8: March 16"
+  materials: "Rendering Equation [Video](https://classtranscribe.illinois.edu/video?id=25be368e-2109-4f37-96ba-16fb248b9b2a&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-RenderingEquation-clean.pdf)"
+  title: "Theoretcial Foundations"
 -
   date: "Week 9: March 22 - 26"
   materials: ""
