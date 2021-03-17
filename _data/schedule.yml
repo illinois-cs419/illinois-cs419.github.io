@@ -70,7 +70,8 @@
   title: "The Rendering Equation"
 -  
   date: "Week 8: March 16"
-  materials: "Rendering Equation [Video](https://classtranscribe.illinois.edu/video?id=25be368e-2109-4f37-96ba-16fb248b9b2a&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-RenderingEquation-clean.pdf)"
+  materials: "Rendering Equation [Video](https://classtranscribe.illinois.edu/video?id=25be368e-2109-4f37-96ba-16fb248b9b2a&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-RenderingEquation-clean.pdf) <br/>
+              _Ray Tracing from the Ground Up_ Chapter 9 [UIUC Library](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)"
   title: "Theoretcial Foundations"
 -
   date: "Week 9: March 22 - 26"
