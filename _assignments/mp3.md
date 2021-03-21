@@ -7,6 +7,18 @@ material: ~
 points: 50
 rubric:
 -
+    name: Mirror Reflection
+    points: 15
+    description: Add support for perfect specular relfection on a sphere.
+-
+    name: Transparency
+    points: 15
+    description: Add support for transparent spheres
+-
+    name: Area Lights
+    points: 15
+    description: Add support for rectangular arae lights.
+-
     name: Creativity
     points: 5
     description: Submitted images are scenes of your own design of similar quality to the provided images.
