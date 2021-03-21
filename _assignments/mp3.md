@@ -41,17 +41,18 @@ You will add the following features. You can consult either or both of the books
   + See _Ray Tracing in One Weekend_   [**Chapter 9 Metal**](https://raytracing.github.io/books/RayTracingInOneWeekend.html#metal)
   + See _Ray Tracing from the Ground Up **Chapter 24 Mirror Reflection**  [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/q1ojeg/alma99947038912205899)<br/><br/>
 
-2. Rendering a transparent object.<br/> Render a scene of about the same complexity and quality as the one at the top of this assignment. 
+2. Rendering a transparent object.<br/> Render a scene of about the same complexity and quality as the one at the top of this assignment.<br/> 
   _**References:**_<br/> 
   + See _Ray Tracing in One Weekend_   [**Chapter 10 Dielectrics**](https://raytracing.github.io/books/RayTracingInOneWeekend.html#dielectrics)
   + See _Ray Tracing from the Ground Up_ **Chapter 27 Simple Transparency** [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/q1ojeg/alma99947038912205899)<br/><br/>
 
-3. Support for area lights. <br/>Render a scene of about the same complexity and quality as the one shown below. You can use spheres and/or simple rectangles instead of rectangular solids.<br/>
-  ![whitted](https://illinois-cs419.github.io/img/light.PNG){:width="200px"} <br/>
-
-  _**References:**_<br/> 
-  + See _Ray Tracing the Next Weekend_  [**Chapter 7 Rectangles and Lights**](https://raytracing.github.io/books/RayTracingTheNextWeek.html#rectanglesandlights) 
-  + See _Ray Tracing from the Ground Up_ **Chapter 18 Area Lights**  [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/q1ojeg/alma99947038912205899)<br/><br/>
+3. Support for area lights. <br/>
+   ![whitted](https://illinois-cs419.github.io/img/light.PNG){:width="200px"} <br/>
+   Render a scene of about the same complexity and quality as the one shown here.<br/> 
+   You can use spheres and/or simple rectangles instead of rectangular solids.<br/>
+   _**References:**_<br/> 
+   + See _Ray Tracing the Next Weekend_  [**Chapter 7 Rectangles and Lights**](https://raytracing.github.io/books/RayTracingTheNextWeek.html#rectanglesandlights) 
+   + See _Ray Tracing from the Ground Up_ **Chapter 18 Area Lights**  [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/q1ojeg/alma99947038912205899)<br/><br/>
          
 ### Creativity
 
