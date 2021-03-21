@@ -6,19 +6,19 @@ due: "April 2, 2021 @ 11:59 PM"
 material: ~
 points: 50
 rubric:
-  -
+-
     name: Area Lights
     points: 15
     description: 
-  -
+-
     name: Transparency
     points: 15
     description: 
-  - 
+- 
     name: Mirror Reflection
     points: 15
     description: 
-  - 
+- 
     name: Creativity
     points: 5
     description
