@@ -14,7 +14,7 @@ rubric:
 
 ### Whitted Ray Tracing and Beyond
 
-![whitted](https://illinois-cs419.github.io/img/whitted.jpg)  
+![whitted](https://illinois-cs419.github.io/img/whitted.jpg){:width="400px"}  
 
 For your third programming assignment you will extend your ray tracer to include effects pioneered by Turner Whitted in his paper from 1980  [*An improved illumination model for shaded display.*](https://dl.acm.org/doi/10.1145/358876.358882)  You can read his own account of his initial implementation of recursive ray tracing in [this 2018 essay he wrote for NVIDIA](https://blogs.nvidia.com/blog/2018/08/01/ray-tracing-global-illumination-turner-whitted/). It's interesting, short, and worth reading.
 
@@ -36,8 +36,8 @@ You will add the following features. You can consult either or both of the books
   1. See _Ray Tracing in One Weekend_   [**Chapter 10 Dielectrics**](https://raytracing.github.io/books/RayTracingInOneWeekend.html#dielectrics)
   2. See _Ray Tracing from the Ground Up_ **Chapter 27 Simple Transparency** [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/q1ojeg/alma99947038912205899)
 
-3. Support for area lights. Render a scene of about the same complexity and quality as the one shown below. You can use some spheres instead of rectangular solids.
-  ![whitted](https://illinois-cs419.github.io/img/light.PNG) 
+3. Support for area lights. Render a scene of about the same complexity and quality as the one shown below. You can use spheres and/or simple rectangles instead of rectangular solids.
+  ![whitted](https://illinois-cs419.github.io/img/light.PNG){:width="400px"} 
 
   _**References:**_
 
