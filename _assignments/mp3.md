@@ -7,21 +7,9 @@ material: ~
 points: 50
 rubric:
 -
-    name: Area Lights
-    points: 15
-    description: 
--
-    name: Transparency
-    points: 15
-    description: 
-- 
-    name: Mirror Reflection
-    points: 15
-    description: 
-- 
     name: Creativity
     points: 5
-    description
+    description: Submitted images are scenes of your own design of similar quality to the provided images.
 ---
 
 ### Whitted Ray Tracing and Beyond
@@ -40,13 +28,13 @@ You will add the following features. You can consult either or both of the books
   _**References:**_
 
   1. See _Ray Tracing in One Weekend_   [**Chapter 9 Metal**](https://raytracing.github.io/books/RayTracingInOneWeekend.html#metal)
-  2. See _Ray Tracing from the Ground Up **Chapter 24 Mirror Reflection**_  [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/q1ojeg/alma99947038912205899)
+  2. See _Ray Tracing from the Ground Up **Chapter 24 Mirror Reflection**  [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/q1ojeg/alma99947038912205899)
 
 2. Rendering a transparent object. Render a scene of about the same complexity and quality as the one at the top of this assignment. 
   _**References:**_
 
   1. See _Ray Tracing in One Weekend_   [**Chapter 10 Dielectrics**](https://raytracing.github.io/books/RayTracingInOneWeekend.html#dielectrics)
-  2. See _Ray Tracing from the Ground Up_ **Chapter 27 Simple Transparency** _[UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/q1ojeg/alma99947038912205899)
+  2. See _Ray Tracing from the Ground Up_ **Chapter 27 Simple Transparency** [UIUC Library Link](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/q1ojeg/alma99947038912205899)
 
 3. Support for area lights. Render a scene of about the same complexity and quality as the one shown below. You can use some spheres instead of rectangular solids.
   ![whitted](https://illinois-cs419.github.io/img/light.PNG) 
