@@ -18,14 +18,11 @@ rubric:
     name: Mirror Reflection
     points: 15
     description: 
-- 
+  - 
     name: Creativity
     points: 5
-    description:
-
+    description
 ---
-
-
 
 ### Whitted Ray Tracing and Beyond
 
