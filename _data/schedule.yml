@@ -75,8 +75,8 @@
   title: "Theoretical Foundations"
 -  
   date: "Week 9: March 23"
-  materials: "Monte Carlo Methods [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-MC.pdf) <br/>
-              Area Lights [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Area.pdf) <br/>
+  materials: "Monte Carlo Methods [Video](https://classtranscribe.illinois.edu/video?id=02c8afaf-cd27-4cd3-a568-fbda170c05ce&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-MC.pdf) <br/>
+              Area Lights [Video](https://classtranscribe.illinois.edu/video?id=b5c54e93-9316-4707-b4c0-6df14ef546f6&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Area-Clean.pdf) <br/>
               _Ray Tracing from the Ground Up_ Chapter 13 & 18 [UIUC Library](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)"
   title: "Monte Carlo Ray Tracing"  
 -
