@@ -2,7 +2,7 @@
 layout: assignment
 title: "Whitted Ray Tracing and Beyond"
 index: 20
-due: "April 2, 2021 @ 11:59 PM"
+due: "April 7, 2021 @ 11:59 PM"
 material: ~
 points: 50
 rubric:
