@@ -80,11 +80,9 @@
               _Ray Tracing from the Ground Up_ Chapter 13 & 18 [UIUC Library](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)"
   title: "Monte Carlo Ray Tracing"  
 -
-  date: "Week 9: March 22 - 26"
-  materials: ""
-  title: "[Color Theory]() <br/>
-          [High Dynamic Range]() <br/>
-          [Radiosity]()"
+  date: "Week 9: March 25"
+  materials: "Mirrors [Video](https://classtranscribe.illinois.edu/video?id=8d986c3e-c3f1-42f0-8fd8-d1636c8067f2&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Mirror-clean.pdf)"
+  title: "Mirror Reflection"
 -
   date: "Week 10: March 29 - April 2"
   materials: ""
