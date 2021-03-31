@@ -84,29 +84,47 @@
   materials: "Mirrors [Video](https://classtranscribe.illinois.edu/video?id=8d986c3e-c3f1-42f0-8fd8-d1636c8067f2&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Mirror-clean.pdf)"
   title: "Mirror Reflection"
 -
-  date: "Week 10: March 29 - April 2"
-  materials: "Transparency [Video](https://classtranscribe.illinois.edu/video?id=565e428f-35d5-4439-b6e8-1deb2b1ac384&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Transparency.pdf)"
+  date: "Week 10: March 30"
+  materials: "Transparency [Video](https://classtranscribe.illinois.edu/video?id=565e428f-35d5-4439-b6e8-1deb2b1ac384&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Transparency.pdf)<br/>
+              _Ray Tracing from the Ground Up_ Chapter 27 [UIUC Library](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)"
   title: "Transparency"
+-
+  date: "Week 10: April 1"
+  materials: ""
+  title: "Path Tracing"
+-
+  date: "Week 11: April 6"
+  materials: ""
+  title: "Texture Mapping"
+-
+  date: "Week 11: April 8"
+  materials: "[]
+  title: "BRDFs"
 - 
-  date: "Week 12: April 5 - 9"
+  date: "Week 12: April 13"
   materials: ""
-  title: "[Fluid Simulation]()"
+  title: "Hardware Accelerated Ray-Traicng"
+  
+  date: "Week 12: April 15"
+  materials: ""
+  title: "Photon Mapping"
 -
-  date: "Week 13: April 12 - 16"
+  date: "Week 13: April 20"
   materials: ""
-  title: "[Machine Learning Methods and Rendering]() <br/>
-  [Denoising]()  <br/>
-          [Animation]()  <br/>
-          [Upscaling]()"
+  title: "Machine Learning Methods and Rendering"
+-
+  date: "Week 13: April 22"
+  materials: ""
+  title: "Fluids: theory"  
 -  
-  date: "Week 14: April 19 - 23"
+  date: "Week 14: April 27"
   materials: ""
-  title: "[Real-Time Ray Tracing]()"
+  title: "Fluids: Implementation"
 -
-  date: "Week 15: April 26 - 30 "
+  date: "Week 14: April 29"
   materials: ""
   title: "Image-based Rendering"
 -
-  date: "Week 16:May 3  - May 5 "
+  date: "Week 15: May 4"
   materials: ""
-  title: "[Final Exam]()"
+  title: "Final Exam"
