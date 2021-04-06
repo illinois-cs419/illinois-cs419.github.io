@@ -1,3 +1,21 @@
+---
+layout: assignment
+title: "Final Project"
+index: 20
+due: "May 14, 2021 @ 11:59 PM"
+material: ~
+points: 50
+rubric:
+-
+    name: Required Features
+    points: 40
+    description: Implement features with weight equal to the number of people on the team
+-
+    name: Report
+    points: 10
+    description: Submit report website or PDF describing the project
+---
+
 # Final Projects
 
 ![scene](https://illinois-cs419.github.io/img/scene.jpg){:width="500px"}
@@ -40,9 +58,7 @@ The report can be from 1 to 5 pages and should include the following sections:
    [[A Practical Guide to Global Illumination using Photon Maps](http://171.67.77.70/courses/cs348b-01/course8.pdf)](http://171.67.77.70/courses/cs348b-01/course8.pdf)
 
    **_Weight:_ 2 to 5**
-
-   
-   
+ 
 2. **Volumetric Rendering**
    Participating media can also be rendered using more traditional volumetric techniques. Again each type of volumetric object implemented beyond the first is worth an additional point.
 
@@ -54,8 +70,6 @@ The report can be from 1 to 5 pages and should include the following sections:
 
    **_Weight:_ 2 to 5**
 
-   
-
 3. **Glossy Specular Reflection**
 
    Implement the BRDF from _Ray Tracing from the Ground Up_ that allows you to render shiny objects that have some scattering.
@@ -64,8 +78,6 @@ The report can be from 1 to 5 pages and should include the following sections:
    [Ray Tracing from the Ground Up: Chapter 25](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en) *by Kevin Suffern*
 
    **_Weight:_ 2**
-
-   
 
 4. **Fluid Modeling**
 
@@ -79,8 +91,6 @@ The report can be from 1 to 5 pages and should include the following sections:
 
    **_Weight:_ 3**
 
-   
-
 5. **Ambient Occlusion**
    Simple and non-physical but effective technique for adding indirect shading and soft shadow-like features
 
@@ -89,8 +99,6 @@ The report can be from 1 to 5 pages and should include the following sections:
    [Ray Tracing from the Ground Up: Chapter 17](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en) *by Kevin Suffern*
 
    **_Weight:_ 1**
-
-   
    
 6. **Animation**
 
@@ -106,8 +114,6 @@ The report can be from 1 to 5 pages and should include the following sections:
 
    **_Weight:_ 2**
 
-   
-
 7. **Image-based Texture Mapping**
 
    Add support for texture mapping images onto a surface in your ray-tracer. 
@@ -117,8 +123,6 @@ The report can be from 1 to 5 pages and should include the following sections:
    [Ray Tracing from the Ground Up: Chapter 29](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en) *by Kevin Suffern*
 
    **_Weight:_ 1**
-
-   
 
 8. **Procedural Texture Mapping**
 
@@ -130,8 +134,6 @@ The report can be from 1 to 5 pages and should include the following sections:
 
    **_Weight:_ 1**
 
-   
-
 9. **Constructive Solid Geometry**
 
    Add support for modeling objects using CSG...creating interesting surfaces using solids and boolean operations. At a minimum you should support spheres and boxes and the operators union, intersection, and difference.
@@ -140,8 +142,6 @@ The report can be from 1 to 5 pages and should include the following sections:
    [Wikipedia CSG Article](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
 
    **_Weight:_ 2**
-
-   
 
 10. **Bezier Surfaces**
 
@@ -154,8 +154,6 @@ The report can be from 1 to 5 pages and should include the following sections:
 
     **_Weight:_ 2**
 
-    
-
 11. **Advanced Material Modeling**
     
 You can model a different material by creating an appropriate BRDF for it...liked brushed metal for example.
@@ -165,8 +163,6 @@ You can model a different material by creating an appropriate BRDF for it...like
     _Real-Time Rendering_ Chapter 9 Physically Based Shading [Website](http://www.realtimerendering.com/#brdf)
     
 **_Weight:_ ** 1 for each BRDF implemented 
-    
-    
     
 12. **Motion Blur**
 
