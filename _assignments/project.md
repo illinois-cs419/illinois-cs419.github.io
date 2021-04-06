@@ -71,7 +71,7 @@ Implement the BRDF from _Ray Tracing from the Ground Up_ that allows you to rend
 There are a number of ways to model fluids (meshes versus particles, etc.). You will need to choose one and then implement some simulation of fluid behavior, and you will need to animate (render multiple frames). You may find it easier to implement this in WebGL depending on the approach you take.<br/> 
 **_References:_**<br/>
 [Fluid Simulation for Animation](https://www.cs.ubc.ca/~rbridson/fluidsimulation/)<br/> 
-_Fluid Simulation for Computer Graphics_ by Robert Bridson[UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99954765903705899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en_)<br/>
+_Fluid Simulation for Computer Graphics_ by Robert Bridson [UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99954765903705899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en_)<br/>
 **_Weight:_ 3**<br/>
 
 5. **Ambient Occlusion**
@@ -81,7 +81,7 @@ Simple and non-physical but effective technique for adding indirect shading and 
 **_Weight:_ 1**<br/>
    
 6. **Animation**
-Render multiple frames that you make into a movie using Abobe Premiere or DaVinci Resolve or something similar. You will need to implement some sort of kinematics system so that the objects move from frame to frame...the number of points for this project can be increased if you implement a more complicated physics and/or collision detection system.<br/>
+Render multiple frames that you make into a movie using Adobe Premiere or DaVinci Resolve or something similar. You will need to implement some sort of kinematics system so that the objects move from frame to frame...the number of points for this project can be increased if you implement a more complicated physics and/or collision detection system.<br/>
 **_References:_**<br/>
 _Computer Animation_ by Rick Parent [UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99953422012205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)<br/>
 _Game Physics_ by Ian Millington [UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99661882112205899)<br/>
