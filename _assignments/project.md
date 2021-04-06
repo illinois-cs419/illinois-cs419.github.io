@@ -129,7 +129,7 @@ Add support for motion blur. Motion blur for a physical camera happens because t
 [Ray Tracing The Next Week: Chapter 2 ](https://raytracing.github.io/books/RayTracingTheNextWeek.html#motionblur)<br/>
 **Weight: 1**<br/> 
 
-### Alternative Projects
+## Alternative Projects
 
 If you wish to propose an alternative project (e.g. implement a simple ray-tracer in CUDA), you can. Just contact the instructor on CampusWire and ask if your idea is appropriate.
 
