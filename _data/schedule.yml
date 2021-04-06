@@ -94,12 +94,12 @@
   title: "Path Tracing"
 -
   date: "Week 11: April 6"
-  materials: ""
-  title: "Texture Mapping"
+  materials: "Sampling for AO [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Ambient.pdf)
+  title: "Ambient Occlusion"
 -
   date: "Week 11: April 8"
   materials: ""
-  title: "BRDFs"
+  title: "Texture Mapping"
 - 
   date: "Week 12: April 13"
   materials: ""
