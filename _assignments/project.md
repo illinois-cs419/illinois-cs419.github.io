@@ -18,7 +18,7 @@ rubric:
 
 # Final Projects
 
-![scene](https://illinois-cs419.github.io/img/scene.jpg){:width="700px"}
+![scene](https://illinois-cs419.github.io/img/scene.jpg){:width="900px"}
 
 For your final project, you will choose a set of features to implement and demonstrate those features by producing rendered scenes in which they are apparent. Typically these new features can just be added to your existing ray-tracing code but you can create standalone demonstrations as well. For example, it may be easier to implement a simple fluid simulation outside of your existing code-base.
 
