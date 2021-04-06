@@ -18,9 +18,7 @@ rubric:
 
 # Final Projects
 
-![scene](https://illinois-cs419.github.io/img/scene.jpg){:width="500px"}
-
-#### Due Date: May 14, 2021
+![scene](https://illinois-cs419.github.io/img/scene.jpg){:width="700px"}
 
 For your final project, you will choose a set of features to implement and demonstrate those features by producing rendered scenes in which they are apparent. Typically these new features can just be added to your existing ray-tracing code but you can create standalone demonstrations as well. For example, it may be easier to implement a simple fluid simulation outside of your existing code-base.
 
@@ -51,78 +49,50 @@ The report can be from 1 to 5 pages and should include the following sections:
 ## Topics
 
 1. **Photon Mapping**
-   This a a technique that has been used to produce high quality renderings of scenes that involve (1) caustics, (2) participating media and (3) transmission. If you choose to implement this, your scene should demonstrate at least one of those 3 features. You get an additional weight point for each additional feature you demonstrate.
-
-   **_References:_**
-
-   [[A Practical Guide to Global Illumination using Photon Maps](http://171.67.77.70/courses/cs348b-01/course8.pdf)](http://171.67.77.70/courses/cs348b-01/course8.pdf)
-
-   **_Weight:_ 2 to 5**
+This a a technique that has been used to produce high quality renderings of scenes that involve (1) caustics, (2) participating media and (3) transmission. If you choose to implement this, your scene should demonstrate at least one of those 3 features. You get an additional weight point for each additional feature you demonstrate.
+**_References:_**
+[A Practical Guide to Global Illumination using Photon Maps](http://171.67.77.70/courses/cs348b-01/course8.pdf)
+**_Weight:_ 2 to 5**
  
 2. **Volumetric Rendering**
-   Participating media can also be rendered using more traditional volumetric techniques. Again each type of volumetric object implemented beyond the first is worth an additional point.
-
-   **_References:_**
-
-   [Production Volume Rendering SIGGRAPH 2017 Course Notes](https://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf)
-
-   _Production Volume Rendering_ by  Magnus Wrenninge [UIUC library link to book](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99954765801405899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)
-
-   **_Weight:_ 2 to 5**
+Participating media can also be rendered using more traditional volumetric techniques. Again each type of volumetric object implemented beyond the first is worth an additional point.
+**_References:_**
+[Production Volume Rendering SIGGRAPH 2017 Course Notes](https://graphics.pixar.com/library/ProductionVolumeRendering/paper.pdf)
+_Production Volume Rendering_ by  Magnus Wrenninge [UIUC library link to book](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99954765801405899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)
+**_Weight:_ 2 to 5**
 
 3. **Glossy Specular Reflection**
-
-   Implement the BRDF from _Ray Tracing from the Ground Up_ that allows you to render shiny objects that have some scattering.
-   **_References:_**
-
-   [Ray Tracing from the Ground Up: Chapter 25](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en) *by Kevin Suffern*
-
-   **_Weight:_ 2**
+Implement the BRDF from _Ray Tracing from the Ground Up_ that allows you to render shiny objects that have some scattering.
+**_References:_**
+[Ray Tracing from the Ground Up: Chapter 25](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en) 
+**_Weight:_ 2**
 
 4. **Fluid Modeling**
-
-   There are a number of ways to model fluids (meshes versus particles, etc.). You will need to choose one and then implement some simulation of fluid behavior, and you will need to animate (render multiple frames). You may find it easier to implement this in WebGL depending on the approach you take. 
-
-   **_References:_**
-
-   [Fluid Simulation for Animation](https://www.cs.ubc.ca/~rbridson/fluidsimulation/) 
-
-   _Fluid Simulation for Computer Graphics_ by Robert Bridson[UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99954765903705899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en_)
-
-   **_Weight:_ 3**
+There are a number of ways to model fluids (meshes versus particles, etc.). You will need to choose one and then implement some simulation of fluid behavior, and you will need to animate (render multiple frames). You may find it easier to implement this in WebGL depending on the approach you take. 
+**_References:_**
+[Fluid Simulation for Animation](https://www.cs.ubc.ca/~rbridson/fluidsimulation/) 
+_Fluid Simulation for Computer Graphics_ by Robert Bridson[UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99954765903705899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en_)
+**_Weight:_ 3**
 
 5. **Ambient Occlusion**
-   Simple and non-physical but effective technique for adding indirect shading and soft shadow-like features
-
-   **_References:_**
-
-   [Ray Tracing from the Ground Up: Chapter 17](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en) *by Kevin Suffern*
-
-   **_Weight:_ 1**
+Simple and non-physical but effective technique for adding indirect shading and soft shadow-like features
+**_References:_**
+[Ray Tracing from the Ground Up: Chapter 17](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en) *by Kevin Suffern*
+**_Weight:_ 1**
    
 6. **Animation**
-
-   Render multiple frames that you make into a movie using Abobe Premiere or DaVinci Resolve or something similar. You will need to implement some sort of kinematics system so that the objects move from frame to frame...the number of points for this project can be increased if you implement a more complicated physics and/or collision detection system .
-   **_References:_**
-   I don't have any really super-specific references for this...but here are some you can check out:
-
-   _Computer Animation_ by Rick Parent [UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99953422012205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)
-
-   _Game Physics_ by Ian Millington [UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99661882112205899)
-
-   _Real-Time Collision Detection_ by Christer Ericson [UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99704757712205899)
-
-   **_Weight:_ 2**
+Render multiple frames that you make into a movie using Abobe Premiere or DaVinci Resolve or something similar. You will need to implement some sort of kinematics system so that the objects move from frame to frame...the number of points for this project can be increased if you implement a more complicated physics and/or collision detection system .
+**_References:_**
+_Computer Animation_ by Rick Parent [UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99953422012205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)
+_Game Physics_ by Ian Millington [UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99661882112205899)
+_Real-Time Collision Detection_ by Christer Ericson [UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99704757712205899)
+**_Weight:_ 2**
 
 7. **Image-based Texture Mapping**
-
-   Add support for texture mapping images onto a surface in your ray-tracer. 
-
-   **_References:_**
-
-   [Ray Tracing from the Ground Up: Chapter 29](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en) *by Kevin Suffern*
-
-   **_Weight:_ 1**
+Add support for texture mapping images onto a surface in your ray-tracer. 
+**_References:_**
+[Ray Tracing from the Ground Up: Chapter 29](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99947038912205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en)
+**_Weight:_ 1**
 
 8. **Procedural Texture Mapping**
 
@@ -135,44 +105,30 @@ The report can be from 1 to 5 pages and should include the following sections:
    **_Weight:_ 1**
 
 9. **Constructive Solid Geometry**
-
-   Add support for modeling objects using CSG...creating interesting surfaces using solids and boolean operations. At a minimum you should support spheres and boxes and the operators union, intersection, and difference.
-   **_References:_**
-
-   [Wikipedia CSG Article](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
-
-   **_Weight:_ 2**
+Add support for modeling objects using CSG...creating interesting surfaces using solids and boolean operations. At a minimum you should support spheres and boxes and the operators union, intersection, and difference.
+**_References:_**
+[Wikipedia CSG Article](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
+**_Weight:_ 2**
 
 10. **Bezier Surfaces**
-
-    A Bezier surface is composed of joined polynomial patches...the Utah teapot was originally modeled using Bezier patches. Add support for a simple Bezier patch model representation of a surface. This one is easier than it may sound...you can convert the Bezier representation to triangles for intersection testing and use the patch polynomials to generate the normal at a hit point.
-
-    **_References:_**
-
-    [Scratchapixel Bezier Article](https://www.scratchapixel.com/lessons/advanced-rendering/bezier-curve-rendering-utah-teapot/bezier-surface)
-    _The Essentials of CAGD_ by Farin and Hansford [UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99888760512205899)
-
-    **_Weight:_ 2**
+A Bezier surface is composed of joined polynomial patches...the Utah teapot was originally modeled using Bezier patches. Add support for a simple Bezier patch model representation of a surface. This one is easier than it may sound...you can convert the Bezier representation to triangles for intersection testing and use the patch polynomials to generate the normal at a hit point.
+**_References:_**
+[Scratchapixel Bezier Article](https://www.scratchapixel.com/lessons/advanced-rendering/bezier-curve-rendering-utah-teapot/bezier-surface)
+_The Essentials of CAGD_ by Farin and Hansford [UIUC Library link to book](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99888760512205899)
+**_Weight:_ 2**
 
 11. **Advanced Material Modeling**
-    
 You can model a different material by creating an appropriate BRDF for it, liked brushed metal for example.
-    **_References:_**
-
-    _Digital Modeling of Material Apearance_ by Julie Dorsey [UIUC Library link to book](https://www-sciencedirect-com.proxy2.library.illinois.edu/book/9780122211812/digital-modeling-of-material-appearance)
-    _Real-Time Rendering_ Chapter 9 Physically Based Shading [Website](http://www.realtimerendering.com/#brdf)
-    
-**_Weight:_ ** 1 for each BRDF implemented 
+**_References:_**
+_Digital Modeling of Material Apearance_ by Julie Dorsey [UIUC Library link to book](https://www-sciencedirect-com.proxy2.library.illinois.edu/book/9780122211812/digital-modeling-of-material-appearance)
+_Real-Time Rendering_ Chapter 9 Physically Based Shading [Website](http://www.realtimerendering.com/#brdf)
+**_Weight:_  1 for each BRDF implemented** 
     
 12. **Motion Blur**
-
-    Add support for motion blur. Motion blur for a physical camera happens because the "shutter" is open for a certain amount of time. Therefore, what you are rendering is actually the average of what the camera sees while the shutter is open. That means if an object is moving, we want to sample it at random positions along its trajectory during that time.
-
-    ***References:***
-
-    [Ray Tracing The Next Week: Chapter 2 ](https://raytracing.github.io/books/RayTracingTheNextWeek.html#motionblur)
-
-    ***Weight: 1*** 
+Add support for motion blur. Motion blur for a physical camera happens because the "shutter" is open for a certain amount of time. Therefore, what you are rendering is actually the average of what the camera sees while the shutter is open. That means if an object is moving, we want to sample it at random positions along its trajectory during that time.
+**References:**
+[Ray Tracing The Next Week: Chapter 2 ](https://raytracing.github.io/books/RayTracingTheNextWeek.html#motionblur)
+**Weight: 1** 
 
 ### Alternative Projects
 
