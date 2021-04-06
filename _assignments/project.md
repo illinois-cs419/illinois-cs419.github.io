@@ -156,7 +156,7 @@ The report can be from 1 to 5 pages and should include the following sections:
 
 11. **Advanced Material Modeling**
     
-You can model a different material by creating an appropriate BRDF for it...liked brushed metal for example.
+You can model a different material by creating an appropriate BRDF for it, liked brushed metal for example.
     **_References:_**
 
     _Digital Modeling of Material Apearance_ by Julie Dorsey [UIUC Library link to book](https://www-sciencedirect-com.proxy2.library.illinois.edu/book/9780122211812/digital-modeling-of-material-appearance)
