@@ -28,9 +28,9 @@ The suggested projects below have weights associated with them. **The total poin
 
 ## Deliverables
 
-Each team will submit a report as a PDF document that uses the following [IEEE Visualization journal format](https://tc.computer.org/vgtc/publications/journal/).
+Each team will submit a report as a PDF document that uses the [IEEE Visualization journal format](https://tc.computer.org/vgtc/publications/journal/).
 
-**Alternatively** you can create a webpage that follows the same format as the PDF would have. If you create an animation, this is a better option since you can embed a link to a YouTube or similar site. [GitHub Pages](https://pages.github.com/) is a free and easy to use option for creating and hosting the webpage. 
+**Alternatively** you can create a webpage that follows the same format as the PDF would have. If you create an animation, this is a better option since you can embed a link to YouTube or similar site. [GitHub Pages](https://pages.github.com/) is a free and easy to use option for creating and hosting the webpage. 
 
 
 Each team member should have their **name** and **netid** listed at the top of the report.
