@@ -134,3 +134,9 @@ Add support for motion blur. Motion blur for a physical camera happens because t
 If you wish to propose an alternative project (e.g. implement a simple ray-tracer in CUDA), you can. Just contact the instructor on CampusWire and ask if your idea is appropriate.
 
 CUDA Ray Tracer resource [NVIDIA Blog Post](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda/)
+
+## 4 Credit Students 
+
+If you are taking the course for 4 credits, you should implement an additional feature of weight $$1$$. If you would prefer to implemeent a feature not on the list or would prefer to read and present a research paper instead, just contact the course staff and we can finalize those details.
+
+
