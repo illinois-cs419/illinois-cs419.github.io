@@ -106,12 +106,13 @@
   title: "Spring Break Day"
   
   date: "Week 12: April 15"
-  materials: ""
-  title: "Photon Mapping"
+  materials: "CSG [Video](https://classtranscribe.illinois.edu/video?id=2151960e-2085-46c8-97e7-545c526ad9f5&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-CSG2-clean.pdf)"
+  title: "Modeling with Implicit Surfaces"
 -
   date: "Week 13: April 20"
   materials: ""
-  title: "Hardware Accelerated Ray-Tracing"
+  title: "Hardware Accelerated Ray-Tracing <br/>
+          Photon Mapping"
 -
   date: "Week 13: April 22"
   materials: ""
