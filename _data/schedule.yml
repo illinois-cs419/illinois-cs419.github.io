@@ -114,11 +114,11 @@
   title: "Photon Mapping"
 -
   date: "Week 13: April 22"
-  materials: "Going fast: Parallelizing Your Ray Tracer [Video](https://classtranscribe.illinois.edu/video?id=a46e668c-bca8-4678-be23-7eb8a0f660d3&from=sharedlink)&nbsp;[PDF]()<br/>
-  Basics of Optimization [Video](https://classtranscribe.illinois.edu/video?id=8c5a7d77-1f1c-4657-990e-c2c6aff1b590&from=sharedlink)&nbsp;[PDF]()<br/>
-  Going Parallel [Video](https://classtranscribe.illinois.edu/video?id=76fafc88-0200-4ea7-9b41-eb5789164865&from=sharedlink)&nbsp;[PDF]()<br/>
-  Structure of GPU Shaders [Video](https://classtranscribe.illinois.edu/video?id=1eb4515e-c45c-4ca6-b29e-fd8864e0c99b&from=sharedlink)&nbsp;[PDF]()<br/>
-  Multi-bounce lighting [Video](https://classtranscribe.illinois.edu/video?id=1731c77d-2824-49da-801d-2d377ec50c67&from=sharedlink)&nbsp;[PDF]()"
+  materials: "Going fast: Parallelizing Your Ray Tracer [Video](https://classtranscribe.illinois.edu/video?id=a46e668c-bca8-4678-be23-7eb8a0f660d3&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-1.pdf)<br/>
+  Basics of Optimization [Video](https://classtranscribe.illinois.edu/video?id=8c5a7d77-1f1c-4657-990e-c2c6aff1b590&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-2.pdf)<br/>
+  Going Parallel [Video](https://classtranscribe.illinois.edu/video?id=76fafc88-0200-4ea7-9b41-eb5789164865&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-3.pdf)<br/>
+  Structure of GPU Shaders [Video](https://classtranscribe.illinois.edu/video?id=1eb4515e-c45c-4ca6-b29e-fd8864e0c99b&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-4.pdf)<br/>
+  Multi-bounce lighting [Video](https://classtranscribe.illinois.edu/video?id=1731c77d-2824-49da-801d-2d377ec50c67&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/2-GPU-5.pdf)"
   title: "Hardware Accelerated Ray-Tracing"  
 -  
   date: "Week 14: April 27"
