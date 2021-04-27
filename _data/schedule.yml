@@ -98,7 +98,10 @@
   title: "Ambient Occlusion"
 -
   date: "Week 11: April 8"
-  materials: ""
+  materials: " Noise-Based Textures [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Texture-1.pdf)<br/>
+ Linear Interpolation [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Texture-2pdf)<br/>
+  Cubic Interpolation [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Texture-3.pdf)
+  "
   title: "Texture Mapping"
 - 
   date: "Week 12: April 13"
@@ -122,12 +125,12 @@
   title: "Parallel Ray-Tracing"  
 -  
   date: "Week 14: April 27"
-  materials: ""
-  title: "Fluids:Theory"
+  materials: "Radiosity [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Radiosity.pdf)"
+  title: "Radiosity"
 -
   date: "Week 14: April 29"
   materials: ""
-  title: "Fluids: Implementation"
+  title: "Fluid"
 -
   date: "Week 15: May 4"
   materials: ""
