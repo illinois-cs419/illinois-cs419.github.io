@@ -125,13 +125,13 @@
   title: "Parallel Ray-Tracing"  
 -  
   date: "Week 14: April 27"
-  materials: "Radiosity [Video]()&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Radiosity.pdf)"
+  materials: "Radiosity [Video](https://classtranscribe.illinois.edu/video?id=c12a0702-6002-4257-b4d1-611c73d71f4f&from=sharedlink)&nbsp;[PDF](https://github.com/illinois-cs419/illinois-cs419.github.io/raw/master/assets/419-Radiosity.pdf)"
   title: "Radiosity"
 -
   date: "Week 14: April 29"
   materials: ""
-  title: "Fluid"
+  title: "Glossy Specular Reflection"
 -
   date: "Week 15: May 4"
   materials: ""
-  title: "Final Exam"
+  title: "Fluids"
